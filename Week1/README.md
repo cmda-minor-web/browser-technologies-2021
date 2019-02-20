@@ -1,6 +1,16 @@
 # Browser Technologies
 //Robuuste, toegankelijke websites leren bouwen …
 
+
+Maandag: introductie van het vak, over waarom PE en eerste opdracht
+
+Woensdag: Opdracht 1.1 in groepen bespreken, college over hoe je kan testen, Briefing opdracht 1.2
+
+
+Vrijdag: Opleveren opdracht 1.2 in groepjes. 
+
+
+
 ## Opdracht 1 - Progressive Enhancement
 //Het web is voor iedereen. Leren over Progressive enhancement
 

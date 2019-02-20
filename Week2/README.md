@@ -1,36 +1,61 @@
 # Browser Technologies
 //Robuuste, toegankelijke websites leren bouwen …
 
-## Opdracht 2 - 1, 2, 3 Feature Detectie
+
+Maandag: College over feature detection en core functionaliteit en de acceptable en de enjoyable laag. Briefing opdracht 2. In de klas schetsen van de core functionaliteit.
+
+Woensdag: Case studies over feature detectie. Begeleiding.
+
+Vrijdag: Feedback op de eerste versie en afspraken maken
+
+
+
+## Opdracht - Browser Technologie
 //Wat laat je zien als een browser of gebruiker 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt?
 
-Werk 2 componenten uit in een demo. Je onderzoekt hoe je verschillende features door verschillende browsers worden ondersteund en hoe je voor goede fallback kan zorgen. Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
+Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
 
-- Per component: Schets hoe het component moet gaan werken en hoe het eruit komt te zien. Verzamel uitleg en artikelen. Bouw een (kleine) progressive enhanced demo (zonder extra tools, gewoon in 1 HTML file inclusief CSS en Javascript, zo simpel mogelijk). Test het component op verschillende browsers en het Device Lab. Polyfills en NPM is niet toegestaan.
-- Post je 2 demo’s op GitHub met uitleg in een README file. Wat is het component? Voeg je schets toe. Welke browsers/devices ondersteunen deze wel/niet? Hoe zorg je dat de Core Functionaliteit overal werkt?
+Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
+
+Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [Browser Technologie]() die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. Je onderzoekt hoe je verschillende features door verschillende browsers worden ondersteund en hoe je voor goede fallback kan zorgen. Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
+Test de features op verschillende browsers en het Device Lab. Polyfills en NPM is niet toegestaan.
+
+
+Schets hoe de demo moet gaan werken en hoe het eruit komt te zien. (bepaal de core functionaliteit, acceptable en de enjoyable laag)
+
+
+
+
+
+
 
 ### Beoordelingscriteria
-- 2 componenten zijn onderzocht en er is een demo gemaakt.
-- De code staat in een repository op GitHub.
-- Een Readme is toegevoegd met, per component:
-  -	Een beschrijving van het component.
-  - Een schets van de functionaliteit.
-  - Bronnen van uitleg en gebruikte artikelen.
-  - Welke browsers/devices ondersteunen deze wel/niet.
-  - Een beschrijving hoe je ervoor hebt gezorgd dat de Core Functionalitiet het overal doet.
-  
-### Componenten
-Kies minimaal twee componenten. 
-Één van de Romeinse en één van de Arabische serie.
 
-- i. FAQ lijst, een vragen lijst over de verschillende minorvakken
-- ii. Tabbladen, de 5 studenten met de meeste kudo’s 
-- iii. Accordeon, de drie favoriete docenten met meer informatie
-- iv. Responsive menu, dat een hamburger wordt op een klein scherm
-- v. … egen idee? Kom maar overleggen
+  - De code staat in een repository op GitHub
+  - Er is een Readme toegevoegd met daarin beschreven:
+    - Een schets van de functionaliteit.
+    - een beschrijving van de core functionality
+    - een beschrijving van de feature(s)/Browser Technologies
+    - welke browser de feature(s) wel/niet ondersteunen
+    - een beschrijving van de accessibility issues die zijn onderzocht
+  - De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
+  - De user experience van de demo is goed
+    - de leesbaarheidsregels zijn toegepast, contrast en kleuren kloppen
+    - het heeft een gebruiksvriendelijke interface, met gebruikmaking van affordance en feedback op de interactieve elementen
+    - met meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
+  - Student kan de Basic functionaliteit van een use case doorgronden
+  - Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
 
-1. Carrousel van een aantal aankondigingen (met tekst en links in de tekst)
-2. Link + overlay/modal-window met algemene voorwaarden of extra specs 
-3. Image picker + preview, voor als je een profiel foto wil uploaden naar je favoriete sociale netwerk
-4. Routebeschrijving van huis naarKSH , die stap voor stap op een kaart laat zien waar je heen moet
-5. … eigen idee? Even overleggen
+
+  ### Usecases
+  Kies één van deze use cases. Combineren mag ook. De aangeboden Browser Technologie is bedoeld als tip om te onderzoeken, je kan ook een andere kiezen.
+  1. Ik wil in een lijst contacten kunnen filteren, en details kunnen bekijken.
+  2. Ik wil een notificatie krijgen als mijn favoriete team heeft gewonnen.
+  3. Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+  4. Ik wil boodschappen-om-tostis-te-maken in mijn boodschappenlijstje kunnen gooien.
+  5. Ik wil tegen de helpdesk kunnen klagen over een iframe-dat-het-niet-doet, en direct antwoord krijgen.
+  6. Ik wil de routebeschrijving van mijn huis tot aan het device lab stap voor stap kunnen zien.
+  7. Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
+  8. Ik wil kunnen beatboxen!
+  9. Ik wil tegen iemand anders een spelletje Pong spelen.
+  10. Eigen idee? Kom even overleggen ...
