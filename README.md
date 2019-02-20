@@ -5,19 +5,22 @@ In het vak Browser Technologies leer je hoe je goede, robuuste, toegankelijke we
 
 Een van de mooiste principes van het web is dat het er echt is voor iedereen. Iedereen met een computer en een browser moet gebruik kunnen maken van het web. Het web is geen gecontroleerde (programmeer) omgeving. Je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij ziet in jouw browser. Er zijn natuurlijk de technische beperkingen. Zoals - Afmetingen van de browser - Grootte van het apparaat - Manier van interactie - Kwaliteit van de hardware - Kwaliteit van het netwerk. En er zijn mensen. Allemaal verschillende mensen ...
 
-### Leerdoelen
+## Leerdoelen
 - _Wat is Progressive enhancement en hoe kun je dit toepassen._
 - _Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund._
 - _Browser Technologies onderzoeken en implementeren als enhancement._
 
 [Rubric](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
 
-### Programma
+## Programma
+
+### Week 1 - Progressive Enhancement
+Doel: Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 
 
-### Opdrachten
-Het vak bestaat uit 3 opdrachten:
+### Week 2 - Feature Detection & Fallback
+Doel: Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
 
-1. [Het web is voor iedereen. Leren over Progressive enhancement](/opdracht1)
-2. [Wat laat je zien als een browser of gebruiker 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt?](/opdracht2)
-3. [Browser Technologies onderzoeken en implementeren als enhancement. Basic functionaliteit van een use case doorgronden.](/opdracht3)
+
+### Week 3 - Robuuste, toegankelijke websites
+Doel: Browser Technologies onderzoeken en implementeren als enhancement. Basic functionaliteit van een use case doorgronden.
