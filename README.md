@@ -14,13 +14,13 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 
 ## Programma
 
-### Week 1 - Progressive Enhancement
+### [Week 1 - Progressive Enhancement](week1)
 Doel: Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 
 
-### Week 2 - Feature Detection & Fallback
+### [Week 2 - Browser Technologies & Feature Detection](week2)
 Doel: Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
 
 
-### Week 3 - Robuuste, toegankelijke websites
-Doel: Browser Technologies onderzoeken en implementeren als enhancement. Basic functionaliteit van een use case doorgronden.
+### [Week 3 - Robuuste, toegankelijke websites maken](week3)
+Doel: Verder werken aan de opdracht.

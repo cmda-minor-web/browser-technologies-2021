@@ -10,7 +10,7 @@ Vrijdag: Feedback op de eerste versie en afspraken maken
 
 
 
-## Opdracht - Browser Technologie
+## Opdracht - Browser Technologies
 //Wat laat je zien als een browser of gebruiker 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt?
 
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
