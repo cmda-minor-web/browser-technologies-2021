@@ -15,7 +15,10 @@ Kies 2 features van de 8
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
 - Beschrijf hoe je dit kan fiksen
 - Maak hierover een presentatie en neem die woensdag mee, dan gaan we de resultaten bespreken
-Lezen: [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) en [I Turned Off JavaScript and it was Glorious](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
+
+Lezen:
+[Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html)
+[I Turned Off JavaScript and it was Glorious](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
 
 
 ### Opdracht 1.2 - Fork je OBA
@@ -27,7 +30,7 @@ Voor deze opdracht ga je toepassen wat je van opdracht 1.1 hebt geleerd.
 - Test  je OBA Web App in het device lab.
 - Laat je OBA Web App voorlezen door een screenreader.
 - Gebruik onderstaande artikelen om je code te optimaliseren.
-[The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/) en [Accessibility Originates With UX: A BBC iPlayer Case Study](https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/)
+[The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/)  [Accessibility Originates With UX: A BBC iPlayer Case Study](https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/)
 
 Beoordelingscriteria
 - Zet je code op Github
