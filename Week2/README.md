@@ -1,4 +1,4 @@
-# Browser Technologies
+# Browser Technologies - Week 2
 //Robuuste, toegankelijke websites leren bouwen …
 
 

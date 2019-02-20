@@ -1,4 +1,4 @@
-# Browser Technologies
+# Browser Technologies - Week 1
 //Robuuste, toegankelijke websites leren bouwen …
 
 
@@ -7,7 +7,7 @@ Maandag: introductie van het vak, over waarom PE en eerste opdracht
 Woensdag: Opdracht 1.1 in groepen bespreken, college over hoe je kan testen, Briefing opdracht 1.2
 
 
-Vrijdag: Opleveren opdracht 1.2 in groepjes. 
+Vrijdag: Opleveren opdracht 1.2 in groepjes.
 
 
 

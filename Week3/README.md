@@ -1,4 +1,4 @@
-# Browser Technologies
+# Browser Technologies - Week 3
 //Robuuste, toegankelijke websites leren bouwen …
 
 Maandag: Case studies Feature detection op basis van het werk dat we vrijdag hebben gezien
