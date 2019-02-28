@@ -14,7 +14,7 @@ Woensdag: Opdracht 1A in groepen bespreken.
 
 College: Samenvatting over hoe je de features kan testen.
 
-Weekly Nerd: ICONS: maike klip - ontwerpen voor vluchtelingen
+Weekly Nerd: ICONS: Maike Klip - ontwerpen voor vluchtelingen
 
 Briefing opdracht 1B: Fork je OBA - OBAapp testen.
 
@@ -38,7 +38,22 @@ Met als doel erachter komen dat je misschien aannames hebt die niet kloppen, en 
 #### Uitleg
 Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt.
 
-Kies 2 features van de 8
+1. Afbeeldingen uitzetten
+2. Custom fonts uitzetten
+3. Javascript (volledig)
+4. Kleur uitzetten & kleurenblindheid instellen
+5. Breedband internet uitzetten
+6. Cookies
+8. localStorage doet het niet
+9. Muis/Trackpad werkt niet
+
+a. Wifi hotspots/HTTPS
+b. Content blockers
+c. CDN’s
+d. Ad blockers (privacy)
+
+
+Je krijgt 2 features van de 8
 - Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
@@ -62,8 +77,8 @@ Hoe zit het eigenlijk met Progressive Enhancement van je OBA opdracht? Waarschij
 Voor deze opdracht ga je toepassen wat je van opdracht 1.1 hebt geleerd.
 - Pas Progressive enhancement toe op je OBA Web App.
 - Check je OBA Web App op de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk.
-- Test  je OBA Web App in het device lab.
-- Laat je OBA Web App voorlezen door een screenreader.
+- Test je OBAapp in het Device Lab.
+- Laat je OBAapp voorlezen door een screenreader.
 - Gebruik onderstaande artikelen om je code te optimaliseren.
 
 [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/)  

@@ -44,6 +44,17 @@ Schets hoe de demo moet gaan werken en hoe het eruit komt te zien. (bepaal de co
 
 
 
+1. Ik wil in een lijst contacten kunnen filteren, en details kunnen bekijken.
+2. Ik wil een notificatie krijgen als mijn favoriete badmintonteam heeft gewonnen.
+3. Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+4. Ik wil boodschappen-om-tostis-te-maken in mijn boodschappenlijstje kunnen gooien.
+5. Ik wil tegen de helpdesk kunnen klagen over een iframe-dat-het-niet-doet, en direct antwoord krijgen.
+6. Ik wil de routebeschrijving van mijn huis tot aan het device lab stap voor stap kunnen zien.
+7. Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
+8. Ik wil kunnen beatboxen!
+9. Ik wil tegen iemand anders een spelletje Pong spelen.
+10. ?
+
 
 
 
