@@ -18,7 +18,7 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 Doel: Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 
 
-### [Week 2 - Browser Technologies & Feature Detection](Week2)
+### [Week 2 - Browsers & Feature Detection](Week2)
 Doel: Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
 
 
