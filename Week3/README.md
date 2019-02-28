@@ -1,8 +1,12 @@
 # Browser Technologies - Week 3
-//Robuuste, toegankelijke websites leren bouwen …
+//Robuuste, toegankelijke websites maken
 
-Maandag: Case studies Feature detection op basis van het werk dat we vrijdag hebben gezien
+Maandag: Case studies Feature detection op basis van het werk dat we vrijdag hebben gezien.
 
-Woensdag: begeleiding
+Rubric bespreken.
+
+Begeleiding opdracht 2. Iedereen spreken en vorderingen doornemen.
+
+Weekly Nerd: PE Voorhoede
 
 Vrijdag: Opleveren

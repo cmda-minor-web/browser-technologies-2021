@@ -1,16 +1,34 @@
 # Browser Technologies - Week 2
-//Robuuste, toegankelijke websites leren bouwen …
+//Browser Technologies & Feature Detection
 
 
-Maandag: College over feature detection en core functionaliteit en de acceptable en de enjoyable laag. Briefing opdracht 2. In de klas schetsen van de core functionaliteit.
+Maandag: College over browsers. 'an hostile environment'.
 
-Woensdag: Case studies over feature detectie. Begeleiding.
+Briefing opdracht 2: Progressive Enhanced Browser Technologies
 
-Vrijdag: Feedback op de eerste versie en afspraken maken
+Over de core functionaliteit, de acceptable en de enjoyable laag.
+
+Werkvorm: In de klas schetsen van de core functionaliteit.
+
+Woensdag:
+College: Case studies hoe bouw je een PE functionaliteit, met de 3 lagen van dev.
+
+Werkvorm: Code review van de feature detectie van de core functionaliteit.
+
+Begeleiding opdracht 2. Iedereen spreken om de plannen te horen.
+
+Weekly Nerd: ICONS: A11y - Ischa Gast - Schiphol
+
+Vrijdag:
+Feedback op de eerste versie en afspraken maken.
+
+In groepjes de Rubric voor PE en Feature detectie invullen
+
+Ook Code reviewen?
 
 
 
-## Opdracht - Browser Technologies
+## Opdracht - Progressive Enhanced Browser Technologies
 //Wat laat je zien als een browser of gebruiker 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt?
 
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
