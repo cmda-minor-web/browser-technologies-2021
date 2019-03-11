@@ -18,6 +18,7 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 Doel: Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 - [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](https://docs.google.com/presentation/d/1j2N22palCDin_0jX89DItLj9kQy8YhwwuvcA_XnhjWQ/edit?usp=sharing)
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
+- [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
 
 ### Week 2
