@@ -7,9 +7,8 @@ Het doel van de deze opdracht is leren hoe je een website kan testen op een Devi
 
 ### Uitleg
 Pas Progressive enhancement toe op je OBA Web App. Test de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk. Test je OBA Web App in het Device Lab en laat je website voorlezen door een screenreader.
-- Gebruik onderstaande artikelen om je code te optimaliseren en om je voor te bereiden op de opevering van aanstaande vrijdag.
 
-Lezen
+Gebruik onderstaande artikelen om je code te optimaliseren en om je voor te bereiden op de opevering van aanstaande vrijdag:
 - [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
 - [I Turned Off JavaScript and it was Glorious](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
 - [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/)  
