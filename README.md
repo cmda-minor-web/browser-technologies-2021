@@ -25,6 +25,8 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 ### Week 2
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
 
+- [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
+
 - Weekly Nerd: A11y met Ischa Gast - Schiphol.
 
 
