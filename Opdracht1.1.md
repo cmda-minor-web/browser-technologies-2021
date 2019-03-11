@@ -1,11 +1,11 @@
 # Browser Technologies
-# Opdracht 1.1 - Breek het web
+## Opdracht 1.1 - Breek het web
 Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet.
 
-#### Doel van deze opdracht
+### Doel van deze opdracht
 Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
 
-#### Uitleg
+### Uitleg
 Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt.
 
 1. Afbeeldingen uitzetten
@@ -17,12 +17,14 @@ Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact he
 8. localStorage doet het niet
 9. Muis/Trackpad werkt niet
 
-a. Wifi hotspots/HTTPS
-b. Content blockers
-c. CDN’s
-d. Ad blockers (privacy)
-e. Browser detect
+Optioneel mag je ook één van deze features onderzoeken:
+- a. Wifi hotspots/HTTPS
+- b. Content blockers
+- c. CDN’s
+- d. Ad blockers (privacy)
+- e. Browser detect
 
+### Criteria
 Je krijgt 2 features van de 8
 - Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
