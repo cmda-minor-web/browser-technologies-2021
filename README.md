@@ -15,15 +15,21 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 ## Programma
 
 ### Week 1
-Doel: Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
+Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 - [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](https://docs.google.com/presentation/d/1j2N22palCDin_0jX89DItLj9kQy8YhwwuvcA_XnhjWQ/edit?usp=sharing)
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
+- Weekly Nerd: ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
 
 ### Week 2
-Doel: Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
+Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
+
+- Weekly Nerd: A11y met Ischa Gast - Schiphol.
 
 
 ### Week 3
-Doel: Verder werken aan de opdracht.
+Verder werken aan de opdracht.
+
+
+- Weekly Nerd: PE bij de Voorhoede.
