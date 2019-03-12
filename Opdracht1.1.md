@@ -10,12 +10,12 @@ Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact he
 
 1. Afbeeldingen uitzetten
 2. Custom fonts uitzetten
-3. Javascript (volledig)
-4. Kleur uitzetten & kleurenblindheid instellen
+3. Kleur uitzetten & kleurenblindheid instellen
+4. Muis/Trackpad werkt niet
 5. Breedband internet uitzetten
-6. Cookies
+6. Javascript (volledig)
+7. Cookies
 8. localStorage doet het niet
-9. Muis/Trackpad werkt niet
 
 Optioneel mag je ook één van deze features onderzoeken:
 - a. Wifi hotspots/HTTPS
