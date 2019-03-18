@@ -14,14 +14,14 @@ Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [
 
 Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
-
+### Werkwijze
 Schets eerst een wireflow met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
 - Onderzoek voor de functional/reliable laag naar semantische HTML elementen
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
 Pleasurable laag?
 - De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken …
 
-
+### Use Cases
 1. Ik wil een enquete kunnen invullen, met verschillende antwoord mogelijkheden, als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
 2. Ik wil de scores van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd
 3. Ik wil een interval training opzetten om tijdens de training te kunnen gebruiken.
