@@ -23,12 +23,28 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 
 - Weekly Nerd: ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
 
+Lezen
+- [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
+- [A Theory of User Delight functional/reliable/usable/pleasurable](https://www.nngroup.com/articles/theory-user-delight/)
+- [The Role of Enhancement in Web Design
+by Raluca Budiu](https://www.nngroup.com/articles/enhancement/)
+- [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
+- [I Turned Off JavaScript and it was Glorious](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
+- [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/)
+
+
 ### Week 2
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
 - [Les 3 - Feature detection & Briefing Opdracht 2](https://docs.google.com/presentation/d/1P4_94qsrouGz57pXprREGGwHvJUta8YDPR_tR7sP_iE/edit?usp=sharing)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
 - Weekly Nerd: A11y met Ischa Gast - Schiphol.
+
+Lezen
+- [HTML design principles](https://principles.design/examples/html-design-principles)
+- [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
+- [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
+
 
 
 ### Week 3

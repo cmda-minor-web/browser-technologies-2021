@@ -32,6 +32,8 @@ Pleasurable laag?
 8. Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
 9. Ik wil kunnen beatboxen!
 10. Ik wil tegen iemand anders een spelletje Pong spelen.
+- Iets anders van plan? Kom even overleggen
+
 
 
 
