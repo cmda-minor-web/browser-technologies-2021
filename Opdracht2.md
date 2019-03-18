@@ -31,7 +31,9 @@ Schets eerst een wireflow met hoe de demo moet gaan werken en hoe het eruit komt
 
 
 Lezen
--
+- [HTML design principles](https://principles.design/examples/html-design-principles)
+- [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
+- [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 
 
 
