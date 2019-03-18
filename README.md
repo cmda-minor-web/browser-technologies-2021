@@ -25,9 +25,9 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
 
 #### Lezen
-- [The Web I Want - Chris James @ dev.to](https://dev.to/quii/the-web-i-want-43o)
-- [A Theory of User Delight functional/reliable/usable/pleasurable - by Therese Fessenden @ Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
-- [The Role of Enhancement in Web Design - Raluca Budiu @ Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+- [The Web I Want by Chris James @ dev.to](https://dev.to/quii/the-web-i-want-43o)
+- [A Theory of User Delight functional/reliable/usable/pleasurable by Therese Fessenden @ Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
+- [The Role of Enhancement in Web Design by Raluca Budiu @ Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
 - [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
 - [I Turned Off JavaScript and it was Glorious by Klint Finly @ Wired](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
 - [The accessibility mindset by Eric Eggert @ 24ways](https://24ways.org/2015/the-accessibility-mindset/)
@@ -42,9 +42,9 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 A11y met Ischa Gast - Schiphol.
 
 #### Lezen
-- [HTML design principles](https://principles.design/examples/html-design-principles)
-- [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
-- [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
+- [HTML design principles @ W3C](https://principles.design/examples/html-design-principles)
+- [Writing forward-compatible websites @ MDN Web docs ](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
+- [Progressive Enhancement and Data Visualizations by Chris Coyier @ CSS-Tricks](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 
 
 
