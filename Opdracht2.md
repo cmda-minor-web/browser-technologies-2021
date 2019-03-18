@@ -6,7 +6,7 @@ Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle brow
 Het doel van deze opdracht is te leren hoe je een online functionaliteit zo kan maken met behulp van Progressive enhancement en Feature detectie dat deze het altijd doet ...
 
 ### Uitleg
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen en maximaal een hele goede UX.
+Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _basic functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
 
 Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
 
@@ -15,18 +15,23 @@ Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [
 Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
 
-Schets eerst een wireflow met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional, reliable, usable en pleasurable laag.
+Schets eerst een wireflow met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
+- Onderzoek voor de functional/reliable laag naar semantische HTML elementen
+- Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
+Pleasurable laag?
+- De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken …
 
-* Ik wil een enquete kunnen invullen, met verschillende antwoord mogelijkheden
-* Ik wil de scores van sportwedstrijd kunnen bijhouden tijdens de wedstrijd
-* Ik wil een interval training opzetten om tijdens de training te kunnen gebruiken.
-* Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord.
-* Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
-* Ik wil boodschappen-om-tostis-te-maken in mijn boodschappenlijstje kunnen gooien.
-* Ik wil de routebeschrijving van mijn huis tot aan het device lab stap voor stap kunnen zien.
-* Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
-* Ik wil kunnen beatboxen!
-* Ik wil tegen iemand anders een spelletje Pong spelen.
+
+1. Ik wil een enquete kunnen invullen, met verschillende antwoord mogelijkheden, als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
+2. Ik wil de scores van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd
+3. Ik wil een interval training opzetten om tijdens de training te kunnen gebruiken.
+4. Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord.
+5. Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+6. Ik wil boodschappen-om-tostis-te-maken in mijn boodschappenlijstje kunnen gooien.
+7. Ik wil de routebeschrijving van mijn huis tot aan het device lab stap voor stap kunnen zien.
+8. Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
+9. Ik wil kunnen beatboxen!
+10. Ik wil tegen iemand anders een spelletje Pong spelen.
 
 
 
