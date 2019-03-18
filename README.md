@@ -21,16 +21,16 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
-- Weekly Nerd: ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
+#### Weekly Nerd
+ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
 
-Lezen
-- [The Web I Want](https://dev.to/quii/the-web-i-want-43o)
-- [A Theory of User Delight functional/reliable/usable/pleasurable](https://www.nngroup.com/articles/theory-user-delight/)
-- [The Role of Enhancement in Web Design
-by Raluca Budiu](https://www.nngroup.com/articles/enhancement/)
+#### Lezen
+- [The Web I Want - Chris James @ dev.to](https://dev.to/quii/the-web-i-want-43o)
+- [A Theory of User Delight functional/reliable/usable/pleasurable - by Therese Fessenden @ Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
+- [The Role of Enhancement in Web Design - Raluca Budiu @ Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
 - [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
-- [I Turned Off JavaScript and it was Glorious](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
-- [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/)
+- [I Turned Off JavaScript and it was Glorious by Klint Finly @ Wired](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
+- [The accessibility mindset by Eric Eggert @ 24ways](https://24ways.org/2015/the-accessibility-mindset/)
 
 
 ### Week 2
@@ -38,9 +38,10 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 - [Les 3 - Feature detection & Briefing Opdracht 2](https://docs.google.com/presentation/d/1P4_94qsrouGz57pXprREGGwHvJUta8YDPR_tR7sP_iE/edit?usp=sharing)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
-- Weekly Nerd: A11y met Ischa Gast - Schiphol.
+#### Weekly Nerd
+A11y met Ischa Gast - Schiphol.
 
-Lezen
+#### Lezen
 - [HTML design principles](https://principles.design/examples/html-design-principles)
 - [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
 - [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
@@ -51,4 +52,7 @@ Lezen
 Verder werken aan de opdracht.
 
 
-- Weekly Nerd: PE bij de Voorhoede.
+#### Weekly Nerd
+PE bij de Voorhoede.
+
+#### Lezen
