@@ -49,7 +49,7 @@ A11y met Ischa Gast - Schiphol.
 
 ### Week 3
 Verder werken aan de opdracht.
-- [Les 4](#)
+- [Les 4 over Feature Detection](https://docs.google.com/presentation/d/13a09txNdPQyDP3ZgRMTSGN-Gmh8To1dfcmjkkB2ncJs/edit?usp=sharing)
 - [Les 5](#)
 - [Beoordelingscriteria opdracht 2](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
 
