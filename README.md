@@ -42,16 +42,22 @@ A11y met Ischa Gast - Schiphol.
 
 #### Lezen
 - [HTML design principles @ W3C](https://principles.design/examples/html-design-principles)
-- [Progressive Enhancement and Data Visualizations by Chris Coyier @ CSS-Tricks](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 - [A Theory of User Delight (functional/reliable/usable/pleasurable) by Therese Fessenden @ Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
-
+- [Progressive Enhancement and Data Visualizations by Chris Coyier @ CSS-Tricks](https://css-tricks.com/progressive-enhancement-data-visualizations/)
+- [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
 
 ### Week 3
 Verder werken aan de opdracht.
+- [Les 4](#)
+- [Les 5](#)
+- [Beoordelingscriteria opdracht 2](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
 
 
 #### Weekly Nerd
 PE bij de Voorhoede.
 
 #### Lezen
+- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
+- [Inclusive components: A Content SLider by Heydon Works](https://inclusive-components.design/a-content-slider/)
+- [Integrating Contrast Checks in Your Web Workflow by Geri Coady](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
