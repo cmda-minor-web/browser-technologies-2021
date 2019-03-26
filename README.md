@@ -61,3 +61,4 @@ PE bij de Voorhoede.
 - [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 - [Inclusive components: A Content SLider by Heydon Works](https://inclusive-components.design/a-content-slider/)
 - [Integrating Contrast Checks in Your Web Workflow by Geri Coady](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
+- [Statcounter Globasstats - browsers market share](http://gs.statcounter.com/browser-market-share)
