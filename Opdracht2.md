@@ -5,7 +5,7 @@ Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle brow
 ### Doel van deze opdracht
 Het doel van deze opdracht is te leren hoe je een online functionaliteit zo kan maken met behulp van Progressive enhancement en Feature detectie dat deze het altijd doet ...
 
-- [Beoordelingscriteria opdracht 2](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
+- [Beoordelingscriteria opdracht 2 - PE begrijpe, en toepassen, Feature detect begrijpen en toepassen, core functionaliteit doorgronden](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
 
 
 ### Uitleg

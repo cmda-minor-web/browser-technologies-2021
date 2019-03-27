@@ -5,6 +5,9 @@ Hoe zit het eigenlijk met Progressive Enhancement van je OBA Web App? Waarschijn
 ### Doel van deze opdracht
 Het doel van de deze opdracht is leren hoe je een website kan testen op een Device lab en hoe een screenreader werkt.
 
+- [Beoordelingscriteria opdracht 1 - PE begrijpen (en toepassen)](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
+
+
 ### Uitleg
 Pas Progressive enhancement toe op je OBA Web App. Test de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk. Test je OBA Web App in het Device Lab en laat je website voorlezen door een screenreader.
 

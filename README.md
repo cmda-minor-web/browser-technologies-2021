@@ -21,6 +21,8 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
+
+
 #### Weekly Nerd
 ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
 
@@ -50,8 +52,8 @@ A11y met Ischa Gast - Schiphol.
 ### Week 3
 Verder werken aan de opdracht.
 - [Les 4 over Feature Detection](https://docs.google.com/presentation/d/13a09txNdPQyDP3ZgRMTSGN-Gmh8To1dfcmjkkB2ncJs/edit?usp=sharing)
-- [Les 5](#)
-- [Beoordelingscriteria opdracht 2](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
+- [Les 5 Code review](https://docs.google.com/presentation/d/1FA2bV-O7j6z6Ya-LjJsnh4IEcq1W5jgRpJEMm1tD9nI/edit?usp=sharing#)
+
 
 
 #### Weekly Nerd
