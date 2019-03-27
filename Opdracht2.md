@@ -5,8 +5,11 @@ Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle brow
 ### Doel van deze opdracht
 Het doel van deze opdracht is te leren hoe je een online functionaliteit zo kan maken met behulp van Progressive enhancement en Feature detectie dat deze het altijd doet ...
 
+- [Beoordelingscriteria opdracht 2](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
+
+
 ### Uitleg
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _basic functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
+Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
 
 Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
 
@@ -15,11 +18,10 @@ Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [
 Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
 ### Werkwijze
-Schets eerst een wireflow met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
+Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
 - Onderzoek voor de functional/reliable laag naar semantische HTML elementen
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
-Pleasurable laag?
-- De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken …
+- De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken … Dit is de pleasurable laag.
 
 ### Use Cases
 1. Ik wil een enquete kunnen invullen, met verschillende antwoord mogelijkheden, als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
@@ -47,7 +49,7 @@ Lezen
 ### Criteria
 - De code staat in een repository op GitHub
 - Er is een Readme toegevoegd met daarin beschreven:
-  - Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de  functional, reliable, usable en pleasurable laag.
+  - Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de  functional/reliable, usable en pleasurable laag.
   - een beschrijving van de feature(s)/Browser Technologies
   - welke browser de feature(s) wel/niet ondersteunen
   - een beschrijving van de accessibility issues die zijn onderzocht
