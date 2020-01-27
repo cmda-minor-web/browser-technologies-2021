@@ -64,3 +64,19 @@ PE bij de Voorhoede.
 - [Inclusive components: A Content Slider by Heydon Works](https://inclusive-components.design/a-content-slider/)
 - [Integrating Contrast Checks in Your Web Workflow by Geri Coady](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
 - [Statcounter Globasstats - browsers market share](http://gs.statcounter.com/browser-market-share)
+
+<!-- Add a link to your live demo in Github Pages 🌐-->
+
+<!-- ☝️ replace this description with a description of your own work -->
+
+<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
+
+<!-- Maybe a table of contents here? 📚 -->
+
+<!-- How about a section that describes how to install this project? 🤓 -->
+
+<!-- ...but how does one use this project? What are its features 🤔 -->
+
+<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
+
+<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
