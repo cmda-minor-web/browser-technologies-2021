@@ -25,7 +25,8 @@ header {
   align-items: center;
 }
 h1 {
-  font-size: 5em;
+  font-size: 7vw;
+  letter-spacing: -1px;
 }
 h2 {
   font-size: 2em;
