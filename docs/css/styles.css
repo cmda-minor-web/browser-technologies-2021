@@ -13,8 +13,10 @@ body {
   margin: 0;
 }
 main {
-  max-width: 800px;
+  max-width: 50rem;
   margin: 10vh auto;
+  padding: 0 2rem;
+
 }
 header {
   background: var(--course);
