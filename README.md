@@ -10,7 +10,17 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 - _Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund._
 - _Leren een Browser Technologies onderzoeken, testen en implementeren als enhancement._
 
-[Rubric](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
+[Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/edit?usp=sharing)
+
+## Planning
+
+| Planning  | Woensdag  |  Donderdag | Vrijdag  |
+|---|---|---|---|
+| <a href=#week-1>Week 1</a>  | Introductie, College over Progressive enhancement + briefing opdracht 1.1 | College Browser detect + presentaties opdracht 1.1 + briefing opdracht 1.2 Fork je OBA  | Feedbackgesprekken |
+| <a href=#week-2>Week 2</a>  | College Feature detect + Briefing opdracht 2  | College Browsers + werken aan de opdracht | Feedbackgesprekken  |
+| <a href=#week-3>Week 3</a>  | College Notificaties + werken aan de opdracht  |  Werken aan de opdracht | Beoordelingsgesprekken  |
+
+
 
 ## Programma
 
@@ -24,7 +34,7 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 
 
 #### Weekly Nerd
-ICONS met Maike Klip - ontwerpen voor vluchtelingen. Woensdag 13 Maart, 16:00 in de Medialounge van het Theo Thijssenhuis.
+Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 
 #### Lezen
 - [The Web I Want by Chris James @ dev.to](https://dev.to/quii/the-web-i-want-43o)
@@ -40,7 +50,7 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
 #### Weekly Nerd
-Accessibility met Ischa Gast - Schiphol.
+PE bij de Voorhoede.
 
 #### Lezen
 - [HTML design principles @ W3C](https://principles.design/examples/html-design-principles)
@@ -57,7 +67,7 @@ Verder werken aan de opdracht.
 
 
 #### Weekly Nerd
-PE bij de Voorhoede.
+Op bezoek bij Bol.com
 
 #### Lezen
 - [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
