@@ -16,7 +16,7 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#week-1>Week 1</a>  | Introductie, College over Progressive enhancement + briefing opdracht 1.1 | College Browser detect + presentaties opdracht 1.1 + briefing opdracht 1.2 Fork je OBA  | Feedbackgesprekken |
+| <a href=#week-1>Week 1</a>  | Introductie, College over Progressive enhancement + briefing opdracht 1.1 | College Browser detect + presentaties opdracht 1.1 + briefing opdracht 1.2 Fork je OBA  | Feedbackgesprekken + Bowlen! |
 | <a href=#week-2>Week 2</a>  | College Feature detect + Briefing opdracht 2  | College Browsers + werken aan de opdracht | Feedbackgesprekken  |
 | <a href=#week-3>Week 3</a>  | College Notificaties + werken aan de opdracht  |  Werken aan de opdracht | Beoordelingsgesprekken  |
 
@@ -26,54 +26,89 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 
 ### Week 1
 Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
-- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](https://docs.google.com/presentation/d/1j2N22palCDin_0jX89DItLj9kQy8YhwwuvcA_XnhjWQ/edit?usp=sharing)
-- [Les 2 - Features testen & Briefing opdracht 1.2](https://docs.google.com/presentation/d/1wGrwgvMTiQbdwgUEFveMFQEfv0Dbe2DJEUgq45zPiN4/edit?usp=sharing)
+
+#### Woensdag
+- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1]()
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
-- [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
-
-
 
 #### Weekly Nerd
 Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 
-#### Lezen
-- [The Web I Want by Chris James @ dev.to](https://dev.to/quii/the-web-i-want-43o)
-- [I Turned Off JavaScript and it was Glorious by Klint Finly @ Wired](https://www.wired.com/2015/11/i-turned-off-javascript-for-a-whole-week-and-it-was-glorious/)
-- [The Role of Enhancement in Web Design by Raluca Budiu @ Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
-- [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
-- [The accessibility mindset by Eric Eggert @ 24ways](https://24ways.org/2015/the-accessibility-mindset/)
+#### Donderdag
+- [Les 2 - Features testen & Briefing opdracht 1.2]()
+- [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
+- [Lezen: Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+- [Lezen: The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
+
+
+#### Vrijdag
+Feedbackgesprekken opdracht 1.2
+- [Lezen: Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
+
+
+
 
 
 ### Week 2
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
-- [Les 3 - Feature detection & Briefing Opdracht 2](https://docs.google.com/presentation/d/1P4_94qsrouGz57pXprREGGwHvJUta8YDPR_tR7sP_iE/edit?usp=sharing)
+
+#### Woensdag
+- [Les 3 - Over Feature detect & Briefing opdracht 2]()
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
+- [Lezen: The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+- [Lezen: Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
+
 
 #### Weekly Nerd
 PE bij de Voorhoede.
 
-#### Lezen
-- [HTML design principles @ W3C](https://principles.design/examples/html-design-principles)
-- [A Theory of User Delight (functional/reliable/usable/pleasurable) by Therese Fessenden @ Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
-- [Progressive Enhancement and Data Visualizations by Chris Coyier @ CSS-Tricks](https://css-tricks.com/progressive-enhancement-data-visualizations/)
-- [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
+
+#### Donderdag
+- [Les 4 - Over Browsers]()
+- [Lezen: The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
+- [Lezen: HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+
+
+#### Vrijdag
+Code review en feedbackgesprekken opdracht 2
+
+
 
 
 ### Week 3
-Verder werken aan de opdracht.
-- [Les 4 over Feature Detection](https://docs.google.com/presentation/d/13a09txNdPQyDP3ZgRMTSGN-Gmh8To1dfcmjkkB2ncJs/edit?usp=sharing)
-- [Les 5 Code review](https://docs.google.com/presentation/d/1FA2bV-O7j6z6Ya-LjJsnh4IEcq1W5jgRpJEMm1tD9nI/edit?usp=sharing#)
 
+#### Woensdag
+- [Les 5 - Over Notificaties]()
+- [Lezen: Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
+- [Lezen: Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 
 #### Weekly Nerd
 Op bezoek bij Bol.com
 
-#### Lezen
-- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
-- [Inclusive components: A Content Slider by Heydon Works](https://inclusive-components.design/a-content-slider/)
-- [Integrating Contrast Checks in Your Web Workflow by Geri Coady](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow/)
-- [Statcounter Globasstats - browsers market share](http://gs.statcounter.com/browser-market-share)
+
+#### Donderdag
+Verder werken aan opdracht 2
+
+
+
+#### Vrijdag
+Code review en beoordelingsgesprekken opdracht 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
