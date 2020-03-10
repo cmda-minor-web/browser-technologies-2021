@@ -5,8 +5,6 @@ Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle brow
 ### Doel van deze opdracht
 Het doel van deze opdracht is te leren hoe je een online functionaliteit zo kan maken met behulp van Progressive enhancement en Feature detectie dat deze het altijd doet ...
 
-- [Beoordelingscriteria opdracht 2 - PE begrijpe, en toepassen, Feature detect begrijpen en toepassen, core functionaliteit doorgronden](https://docs.google.com/spreadsheets/d/1X8XBbblGAcoij4zPcbjZ5FHcQMusn1hc0NvNkzP5qx4/edit?usp=sharing)
-
 
 ### Uitleg
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
@@ -24,25 +22,10 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 - De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken … Dit is de pleasurable laag.
 
 ### Use Cases
-1. Ik wil een enquete kunnen invullen, met verschillende antwoord mogelijkheden, als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
-2. Ik wil de scores van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd
-3. Ik wil een interval training opzetten om tijdens de training te kunnen gebruiken.
-4. Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord.
-5. Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
-6. Ik wil boodschappen-om-tostis-te-maken in mijn boodschappenlijstje kunnen gooien.
-7. Ik wil de routebeschrijving van mijn huis tot aan het device lab stap voor stap kunnen zien.
-8. Ik wil tijdens een college aan studenten een poll kunnen voorleggen en de resultaten meteen kunnen laten zien.
-9. Ik wil kunnen beatboxen!
-10. Ik wil tegen iemand anders een spelletje Pong spelen.
-- Iets anders van plan? Kom even overleggen
+1.
 
 
 
-
-Lezen
-- [HTML design principles](https://principles.design/examples/html-design-principles)
-- [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
-- [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 
 
 
