@@ -10,7 +10,7 @@ Het doel van de deze opdracht is leren hoe je een website kan testen in verschil
 ### Uitleg
 Pas Progressive enhancement toe op je OBA Web App. Test de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk.
 
-Test je OBA opdracht op verschillende devices en browsers. Noteer welk device en welke browsers je hebt getest. Je moet je OBA opdracht ook testen op je computer in Chrome, Firefox en .
+Test je OBA opdracht op verschillende devices en browsers. Noteer welk device en welke browsers je hebt getest. TEst je OBA opdracht minimaal in 3 devices, en naast Chrome in Firefox en nog een andere browser.
 
 Laat je website voorlezen door een screenreader.
 

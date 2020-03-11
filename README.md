@@ -25,10 +25,10 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 ## Programma
 
 ### Week 1
-Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
+Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab. [Planning week 1](./slides/Week1.png)
 
 #### Woensdag
-- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](.//slides/BT1920%20College%20Les1%20-%20Progressive%20Enhancement.pdf)
+- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](./slides/BT1920%20College%20Les1%20-%20Progressive%20Enhancement.pdf)
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
 
 #### Weekly Nerd
@@ -50,7 +50,7 @@ Feedbackgesprekken opdracht 1.2
 
 
 ### Week 2
-Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund?
+Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund? [Planning week 2](./slides/Week2.png)
 
 #### Woensdag
 - [Les 3 - Over Feature detect & Briefing opdracht 2]()
@@ -76,6 +76,8 @@ Code review en feedbackgesprekken opdracht 2
 
 
 ### Week 3
+Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
+
 
 #### Woensdag
 - [Les 5 - Over Notificaties]()
