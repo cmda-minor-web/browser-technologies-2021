@@ -35,14 +35,18 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 
 #### Donderdag
-- [Les 2 - Features testen & Briefing opdracht 1.2]()
+- [Les 2 - Features testen & Briefing opdracht 1.2](./slides/BT1920%20College%20Les2%20-%20Progressive%20Enhancement.pdf)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
-- [Lezen: Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-- [Lezen: The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
+
+Deze les gaan we onderstaande artikelen bespreken:
+- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+- [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
 
 
 #### Vrijdag
-Feedbackgesprekken opdracht 1.2
+Feedbackgesprekken opdracht 1.2 n groepjes en studetnassistenten en docenten.
+
+Deze les gaan we onderstaande artikel bespreken:
 - [Lezen: Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
 
 
@@ -55,8 +59,10 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 #### Woensdag
 - [Les 3 - Over Feature detect & Briefing opdracht 2]()
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
-- [Lezen: The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
-- [Lezen: Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
+
+Deze les gaan we onderstaande artikelen bespreken:
+- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+- [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
 
 #### Weekly Nerd
@@ -65,12 +71,14 @@ PE bij de Voorhoede.
 
 #### Donderdag
 - [Les 4 - Over Browsers]()
-- [Lezen: The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
-- [Lezen: HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+
+Deze les gaan we onderstaande artikelen bespreken:
+- [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
+- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 
 
 #### Vrijdag
-Code review en feedbackgesprekken opdracht 2
+Code review en feedbackgesprekken opdracht 2.
 
 
 
@@ -81,8 +89,10 @@ Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
 
 #### Woensdag
 - [Les 5 - Over Notificaties]()
-- [Lezen: Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
-- [Lezen: Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
+
+Deze les gaan we onderstaande artikelen bespreken:
+- [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
+- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 
 #### Weekly Nerd
@@ -95,7 +105,7 @@ Verder werken aan opdracht 2
 
 
 #### Vrijdag
-Code review en beoordelingsgesprekken opdracht 2
+Code review en beoordelingsgesprekken opdracht 2.
 
 
 
