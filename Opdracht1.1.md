@@ -30,4 +30,4 @@ Je krijgt 2 features van de 8
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
 - Beschrijf hoe je dit kan fiksen
-- Maak hierover een presentatie en neem die donderdag mee, dan gaan we de resultaten bespreken in groepjes van 6
+- Neem je bevindingen en voorbeelden mee naar de les, dan gaan we de resultaten bespreken in groepjes 
