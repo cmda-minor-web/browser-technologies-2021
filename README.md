@@ -38,7 +38,7 @@ Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 - [Les 2 - Features testen & Briefing opdracht 1.2](./slides/BT1920%20College%20Les2%20-%20Progressive%20Enhancement.pdf)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
-Deze les gaan we onderstaande artikelen bespreken:
+Deze les gaan we onderstaand artikelen bespreken:
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 - [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
 
