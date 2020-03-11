@@ -28,7 +28,7 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
 
 #### Woensdag
-- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1]()
+- [Les 1 - Progressive enhancement & Briefing Opdracht 1.1](.//slides/BT1920%20College%20Les1%20-%20Progressive%20Enhancement.pdf)
 - [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
 
 #### Weekly Nerd
