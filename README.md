@@ -44,7 +44,7 @@ Deze les gaan we onderstaand artikelen bespreken:
 
 
 #### Vrijdag
-Feedbackgesprekken opdracht 1.2 n groepjes en studetnassistenten en docenten.
+Feedbackgesprekken opdracht 1.2 in groepjes, met studentassistenten en docenten.
 
 Deze les gaan we onderstaande artikel bespreken:
 - [Lezen: Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
