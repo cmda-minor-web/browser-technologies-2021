@@ -29,7 +29,7 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 <!-- NETWERK, NOTIFICATIES	 -->
 1.	Ik wil tijdens een college aan studenten een poll kunnen voorleggen met over-de-streep stellingen en de resultaten meteen laten zien.
 2.	Ik wil de scores of tijden van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd en opslaan en doorsturen.
-3. Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord tijdens een wedstrijd, en ik wil reacties kunnen schrijven bij de melding.
+3. Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord tijdens een wedstrijd, en ik wil een reactie kunnen schrijven bij de melding.
 <!-- DEVICE APIS, COMPLEX INTERFACE	 -->
 1.	Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
 2.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carousel kunnen bekijken.
