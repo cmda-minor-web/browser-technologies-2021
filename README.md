@@ -61,7 +61,7 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
 Deze les gaan we onderstaande artikelen bespreken:
-- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
 
@@ -74,7 +74,7 @@ PE bij de Voorhoede.
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
-- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
 
 
 #### Vrijdag
