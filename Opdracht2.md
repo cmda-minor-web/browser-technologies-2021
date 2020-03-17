@@ -23,17 +23,16 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 
 ### Use Cases
 <!-- INTERFACE, JS, FORMULIEREN	 -->
-1.	Ik wil een enquete kunnen invullen over ... , met verschillende antwoord mogelijkheden. Als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
+1.	Ik wil een enquete kunnen invullen over de minor Web Development, met verschillende antwoord mogelijkheden. Als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
 2.	Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
-3.
 <!-- NETWERK, NOTIFICATIES	 -->
-1.	Ik wil tijdens een college aan studenten een poll kunnen voorleggen met over-de-streep stellingen en de resultaten meteen laten zien.
-2.	Ik wil de scores of tijden van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd en opslaan en doorsturen.
-3. Ik wil een notificatie krijgen als mijn favoriete sportteam heeft gescoord tijdens een wedstrijd, en ik wil een reactie kunnen schrijven bij de melding.
+3.	Ik wil tijdens een college aan studenten een poll kunnen voorleggen met over-de-streep stellingen en de resultaten meteen laten zien.
+4.	Ik wil de scores of tijden van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd en opslaan en doorsturen.
+5. Ik wil een notificatie krijgen als mijn favoriete sporter of sportteam heeft gescoord tijdens een wedstrijd, en ik wil een reactie kunnen schrijven bij de melding.
 <!-- DEVICE APIS, COMPLEX INTERFACE	 -->
-1.	Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
-2.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carousel kunnen bekijken.
-3.
+6.	Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
+7.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carousel kunnen bekijken.
+
 
 
 
