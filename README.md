@@ -35,7 +35,7 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 
 #### Donderdag
-- [Les 2 - Features testen & Briefing opdracht 1.2](./slides/BT1920%20College%20Les2%20-%20Progressive%20Enhancement.pdf)
+- [Slides Les 2 - Features testen & Briefing opdracht 1.2](./slides/BT1920%20College%20Les2%20-%20Progressive%20Enhancement.pdf)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
 Deze les gaan we onderstaande artikelen bespreken:
@@ -57,7 +57,7 @@ Deze les gaan we onderstaand artikel bespreken:
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund? [Planning week 2](./slides/Week2.png)
 
 #### Woensdag
-- [Les 3 - Over Feature detect & Briefing opdracht 2]()
+- [Slides Les 3 - Over Feature detect & Briefing opdracht 2](./slides/BT1920%20College%20Les3%20-%20Feature%20Detection.pdf)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
 Deze les gaan we onderstaande artikelen bespreken:
@@ -66,15 +66,17 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Weekly Nerd
-PE bij de Voorhoede.
+<del>PE bij de Voorhoede</del>
 
 
 #### Donderdag
-- [Les 4 - Over Browsers]()
+- [Slides Les 4 - Questions?]()
 
 Deze les gaan we onderstaande artikelen bespreken:
-- [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
 - [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+- [A Theory of User Delight by Therese Fessenden / Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
+- [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
+
 
 
 #### Vrijdag
@@ -88,7 +90,7 @@ Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
 
 
 #### Woensdag
-- [Les 5 - Over Notificaties]()
+- [Slides Les 5 - Over Notificaties]()
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
@@ -96,7 +98,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Weekly Nerd
-Op bezoek bij Bol.com
+<del>Op bezoek bij Bol.com</del>
 
 
 #### Donderdag

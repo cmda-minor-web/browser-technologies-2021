@@ -1,6 +1,9 @@
 # Browser Technologies
 ## Opdracht 2 - Progressive Enhanced Browser Technologie
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen. Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement. Gebruik als enhanced feature een (hippe, innovatieve, vooruitstrevende) Browser Technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. Beschrijf de feature(s)/Browser Technologies, welke browser de feature(s) wel/niet ondersteunen, en de accessibility issues die zijn onderzocht.
+Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
+Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
+Gebruik als enhancement een (hippe, innovatieve, vooruitstrevende) Browser Technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken …
+Beschrijf de feature(s)/Browser Technologies, welke browser de feature(s) wel/niet ondersteunen, en de accessibility issues die zijn onderzocht.
 
 ### Doel van deze opdracht
 Het doel van deze opdracht is te leren hoe je een online interactieve toepassing zo kan maken met behulp van _Progressive Enhancement_ en _Feature Detection_ dat deze het altijd doet ...
@@ -19,7 +22,8 @@ Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.c
 Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
 - Onderzoek voor de functional/reliable laag naar semantische HTML elementen
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
-- De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken … Dit is de pleasurable laag.
+- De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
+Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) en [A Theory of User Delight](https://www.nngroup.com/articles/theory-user-delight/)
 
 ### Use Cases
 <!-- INTERFACE, JS, FORMULIEREN	 -->
@@ -31,11 +35,8 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 5. Ik wil een notificatie krijgen als mijn favoriete sporter of sportteam heeft gescoord tijdens een wedstrijd, en ik wil een reactie kunnen schrijven bij de melding.
 <!-- DEVICE APIS, COMPLEX INTERFACE	 -->
 6.	Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
-7.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carousel kunnen bekijken.
-
-
-
-
+7.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carrousel kunnen bekijken.
+8. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
 
