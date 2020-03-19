@@ -24,7 +24,7 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 
 ## Programma
 
-### Week 1
+### Browser Technologies - Week 1
 Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab. [Planning week 1](./slides/Week1.png)
 
 #### Woensdag
@@ -36,6 +36,7 @@ Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 
 #### Donderdag
 - [Slides Les 2 - Features testen & Briefing opdracht 1.2](./slides/BT1920%20College%20Les2%20-%20Progressive%20Enhancement.pdf)
+- [Slides Les 2 - College Peter-Paul - Over Browser detects](https://quirksmode.org/presentations/HvA-1920/browserdetect.pdf)
 - [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
 
 Deze les gaan we onderstaande artikelen bespreken:
@@ -53,11 +54,13 @@ Deze les gaan we onderstaand artikel bespreken:
 
 
 
-### Week 2
+### Browser Technologies - Week 2
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund? [Planning week 2](./slides/Week2.png)
 
 #### Woensdag
-- [Slides Les 3 - Over Feature detect & Briefing opdracht 2](./slides/BT1920%20College%20Les3%20-%20Feature%20Detection.pdf)
+- [Video college Les 3](https://bongo-eu.youseeu.com/spa/external-player/37121/fc630f072e55ffcae4a16e905ff8ac90/styled?lti-scope=d2l-resource-syncmeeting-list)
+- [Slides Les 3 - Programma & Briefing opdracht 2](./slides/BT1920%20College%20Les3%20-%20Feature%20Detection.pdf)
+- [Slides Les 3 - College Peter-Paul - Support detection & Browsers](https://quirksmode.org/presentations/HvA-1920/browsers.pdf)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
 Deze les gaan we onderstaande artikelen bespreken:
@@ -70,7 +73,9 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Donderdag
-- [Slides Les 4 - Questions?]()
+- [Video college Les 4]() <<< Wordt gerenderd
+- [Slides Les 4 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les4%20-%20Feature%20Detection.pdf)
+- [Slides Les 4 - College Peter-Paul - Over webview]()
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
@@ -85,12 +90,12 @@ Code review en feedbackgesprekken opdracht 2.
 
 
 
-### Week 3
+### Browser Technologies - Week 3
 Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
 
 
 #### Woensdag
-- [Slides Les 5 - Over Notificaties]()
+- [Slides Les 5 - College Peter-Paul - Over notificaties]()
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
