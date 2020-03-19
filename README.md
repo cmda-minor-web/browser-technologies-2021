@@ -73,7 +73,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Donderdag
-- [Video college Les 4]() <<< Wordt gerenderd
+- [Video college Les 4](https://bongo-eu.youseeu.com/spa/external-player/38522/796bd4f0384f243fa4183cde51484fe4/styled?lti-scope=d2l-resource-syncmeeting-list)
 - [Slides Les 4 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les4%20-%20Feature%20Detection.pdf)
 - [Slides Les 4 - College Peter-Paul - Over webview]()
 
