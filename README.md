@@ -58,7 +58,7 @@ Deze les gaan we onderstaand artikel bespreken:
 Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund? [Planning week 2](./slides/Week2.png)
 
 #### Woensdag
-- [Video college Les 3](https://bongo-eu.youseeu.com/spa/external-player/37121/fc630f072e55ffcae4a16e905ff8ac90/styled?lti-scope=d2l-resource-syncmeeting-list)
+- [Video college Les 3](https://bongo-eu.youseeu.com/spa/external-player/37121/fc630f072e55ffcae4a16e905ff8ac90/)
 - [Slides Les 3 - Programma & Briefing opdracht 2](./slides/BT1920%20College%20Les3%20-%20Feature%20Detection.pdf)
 - [Slides Les 3 - College Peter-Paul - Support detection & Browsers](https://quirksmode.org/presentations/HvA-1920/browsers.pdf)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
@@ -73,7 +73,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Donderdag
-- [Video college Les 4](https://bongo-eu.youseeu.com/spa/external-player/38522/796bd4f0384f243fa4183cde51484fe4/styled?lti-scope=d2l-resource-syncmeeting-list)
+- [Video college Les 4](https://bongo-eu.youseeu.com/spa/external-player/38522/796bd4f0384f243fa4183cde51484fe4/)
 - [Slides Les 4 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les4%20-%20Feature%20Detection.pdf)
 - [Slides Les 4 - College Peter-Paul - Over webview]()
 
@@ -85,7 +85,8 @@ Deze les gaan we onderstaande artikelen bespreken:
 
 
 #### Vrijdag
-Code review en feedbackgesprekken opdracht 2.
+Tussen evaluatie en code review opdracht 2.
+- [Video Kahoot en PE code voorbeeld](https://bongo-eu.youseeu.com/spa/external-player/39948/711032d92ad245b2c72e352f364fcab5/)
 
 
 
