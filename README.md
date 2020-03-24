@@ -100,7 +100,7 @@ Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
-- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
+
 
 
 #### Weekly Nerd
@@ -110,10 +110,15 @@ Deze les gaan we onderstaande artikelen bespreken:
 #### Donderdag
 Verder werken aan opdracht 2
 
-
+Lezen:
+- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 #### Vrijdag
-Code review en beoordelingsgesprekken opdracht 2.
+Deadline voor opdracht 2 is vrijdag 17:00
+
+In week 4, tijdens de projectweek, gaan we beoordelingsgesprekken plannen. Dan gaan we je werk bekijken en bespreken. 
+
+
 
 
 
