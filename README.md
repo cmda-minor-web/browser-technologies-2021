@@ -16,13 +16,14 @@ Een van de mooiste principes van het web is dat het er echt is voor iedereen. Ie
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#week-1>Week 1</a>  | Introductie, College over Progressive enhancement + briefing opdracht 1.1 | College Browser detect + presentaties opdracht 1.1 + briefing opdracht 1.2 Fork je OBA  | Feedbackgesprekken + Bowlen! |
-| <a href=#week-2>Week 2</a>  | College Feature detect + Briefing opdracht 2  | College Browsers + werken aan de opdracht | Feedbackgesprekken  |
-| <a href=#week-3>Week 3</a>  | College Notificaties + werken aan de opdracht  |  Werken aan de opdracht | Beoordelingsgesprekken  |
-
+| <a href=#week-1>Week 1</a>  | Introductie, College over Progressive enhancement + briefing opdracht 1.1 | College Browser detect + presentaties opdracht 1.1 + briefing opdracht 1.2 Fork je OBA  | Feedbackgesprekken |
+| <a href=#week-2>Week 2</a>  | College Feature detect & browsers + Briefing opdracht 2  | College Q&A + werken aan de opdracht | Feedbackgesprekken  |
+| <a href=#week-3>Week 3</a>  | College Notificaties + werken aan de opdracht  |  College Q&A + werken aan de opdracht | Feedbackgesprekken  |
+| <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken |  |  |
 
 
 ## Programma
+
 
 ### Browser Technologies - Week 1
 Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab. [Planning week 1](./slides/Week1.png)
@@ -42,7 +43,6 @@ Sanne 't Hooft over Interactie. Woensdag 11 Maart, 16:00 in het minorlokaal.
 Deze les gaan we onderstaande artikelen bespreken:
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 - [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
-
 
 #### Vrijdag
 Feedbackgesprekken opdracht 1.2 in groepjes, met studentassistenten en docenten.
@@ -67,7 +67,6 @@ Deze les gaan we onderstaande artikelen bespreken:
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
-
 #### Weekly Nerd
 <del>PE bij de Voorhoede</del>
 
@@ -82,44 +81,48 @@ Deze les gaan we onderstaande artikelen bespreken:
 - [A Theory of User Delight by Therese Fessenden / Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
 - [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
 
-
-
 #### Vrijdag
-Tussen evaluatie en code review opdracht 2.
+Code review opdracht 2.
 - [Video Kahoot en PE code voorbeeld](https://bongo-eu.youseeu.com/spa/external-player/39948/711032d92ad245b2c72e352f364fcab5/)
 
 
 
 
 ### Browser Technologies - Week 3
-Deze week werken we verder aan opdracht 2. [Planning week 3](./slides/Week3.png)
-
+Deze week werken we verder aan opdracht 2 en houden we video gesprekken om jullei vorderingen te bespreken en vragen te beantwoorden. [Planning week 3](./slides/Week3.png)
 
 #### Woensdag
-- [Slides Les 5 - College Peter-Paul - Over notificaties]()
+- [Video college Les 5]()
+- [Slides Les 5 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les5%20-%20PE%20Code%20review.pdf)
+- [Slides Les 5 - College Peter-Paul - Over viewports]()
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 
-
-
 #### Weekly Nerd
 <del>Op bezoek bij Bol.com</del>
 
-
 #### Donderdag
-Verder werken aan opdracht 2
+Verder werken aan opdracht 2.
 
 Lezen:
 - [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 #### Vrijdag
-Deadline voor opdracht 2 is vrijdag 17:00
-
-In week 4, tijdens de projectweek, gaan we beoordelingsgesprekken plannen. Dan gaan we je werk bekijken en bespreken. 
+Verder werken aan opdracht 2.
 
 
 
+
+
+### Browser Technologies - Week 4
+In week 4 wordt opdracht 2 beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen. [Planning week 4](./slides/Week4.png)
+
+#### Dinsdag
+Deadline opdracht 2.
+
+#### Woensdag, Donderdag, Vrijdag
+Beoordelingsgesprekken in duo's.
 
 
 
