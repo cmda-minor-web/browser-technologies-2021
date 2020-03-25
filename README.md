@@ -92,9 +92,9 @@ Code review opdracht 2.
 Deze week werken we verder aan opdracht 2 en houden we video gesprekken om jullei vorderingen te bespreken en vragen te beantwoorden. [Planning week 3](./slides/Week3.png)
 
 #### Woensdag
-- [Video college Les 5]()
+- [Video college Les 5](https://bongo-eu.youseeu.com/sync-activity/invite/47913/6caffca2a5f3ba783ca3b0a408755b15/)
 - [Slides Les 5 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les5%20-%20PE%20Code%20review.pdf)
-- [Slides Les 5 - College Peter-Paul - Over viewports]()
+- [Slides Les 5 - College Peter-Paul - Over viewports](https://quirksmode.org/presentations/HvA-1920/browsers.pdf)
 
 Deze les gaan we onderstaande artikelen bespreken:
 - [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
@@ -103,6 +103,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 <del>Op bezoek bij Bol.com</del>
 
 #### Donderdag
+- [Video college Les 6](https://bongo-eu.youseeu.com/sync-activity/invite/48686/f6edc909ce7fe3229c6330ec806d8677/)
 Verder werken aan opdracht 2.
 
 Lezen:
@@ -110,7 +111,7 @@ Lezen:
 
 #### Vrijdag
 Verder werken aan opdracht 2.
-
+- [Video Kahoot](https://bongo-eu.youseeu.com/sync-activity/invite/48693/a0283fbbee97dffc4ebeee7b7d182710/)
 
 
 
