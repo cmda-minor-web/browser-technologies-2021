@@ -18,7 +18,7 @@ Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [
 Je onderzoekt hoe je verschillende _features_ door verschillende browsers worden ondersteund en hoe je voor goede fallback kan zorgen. Test de _features_ op verschillende browsers en het Device Lab.
 Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je doen wat je wil. Wat voor deze opdracht telt, is de HTML/CSS/JavaScript die aan de browser wordt aangeleverd.
 
-Gebruik [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
+Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
 ### Werkwijze
 Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
