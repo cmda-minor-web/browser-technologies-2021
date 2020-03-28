@@ -103,7 +103,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 <del>Op bezoek bij Bol.com</del>
 
 #### Donderdag
-- [Video college Les 6](https://bongo-eu.youseeu.com/sync-activity/invite/48686/f6edc909ce7fe3229c6330ec806d8677/)
+- [Video college Les 6 -Q&A](https://bongo-eu.youseeu.com/sync-activity/invite/48686/f6edc909ce7fe3229c6330ec806d8677/)
 Verder werken aan opdracht 2.
 
 Lezen:
