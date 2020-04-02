@@ -63,7 +63,7 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 - [Slides Les 3 - College Peter-Paul - Support detection & Browsers](https://quirksmode.org/presentations/HvA-1920/browsers.pdf)
 - [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
 
-Deze les gaan we onderstaande artikelen bespreken:
+Deze les worden onderstaande artikelen besproken.:
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
 - [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
@@ -76,7 +76,7 @@ Deze les gaan we onderstaande artikelen bespreken:
 - [Slides Les 4 - Programma en kleine code voorbeelden](./slides/BT1920%20College%20Les4%20-%20Feature%20Detection.pdf)
 - [Slides Les 4 - College Peter-Paul - Over webview]()
 
-Deze les gaan we onderstaande artikelen bespreken:
+Deze les worden onderstaande artikelen besproken:
 - [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
 - [A Theory of User Delight by Therese Fessenden / Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
 - [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
@@ -89,7 +89,7 @@ Code review opdracht 2.
 
 
 ### Browser Technologies - Week 3
-Deze week werken we verder aan opdracht 2 en houden we video gesprekken om jullei vorderingen te bespreken en vragen te beantwoorden. [Planning week 3](./slides/Week3.png)
+Deze week werken we verder aan opdracht 2 en houden we video gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden. [Planning week 3](./slides/Week3.png)
 
 #### Woensdag
 - [Video college Les 5](https://bongo-eu.youseeu.com/sync-activity/invite/47913/6caffca2a5f3ba783ca3b0a408755b15/)
