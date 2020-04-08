@@ -5,6 +5,29 @@ In het vak Browser Technologies leer je hoe je goede, robuuste, toegankelijke we
 
 Een van de mooiste principes van het web is dat het er echt is voor iedereen. Iedereen met een computer en een browser moet gebruik kunnen maken van het web. Het web is geen gecontroleerde (programmeer) omgeving. Je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij ziet in jouw browser. Er zijn natuurlijk de technische beperkingen. Zoals - Afmetingen van de browser - Grootte van het apparaat - Manier van interactie - Kwaliteit van de hardware - Kwaliteit van het netwerk. En er zijn mensen. Allemaal verschillende mensen ... Hoe zorg je er dan voor dat websites het altijd doen?
 
+
+## Opdracht 1.1 - Breek het Web
+Voor deze opdracht  ga je proberen het Web te laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet.
+Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
+
+- [Opdracht 1.1 - Breek het web](Opdracht1.1.md)
+
+## Opdracht 1.2 - Fork je OBA
+Hoe zit het eigenlijk met Progressive Enhancement van je OBA opdracht? Waarschijnlijk kan daar wel het één en ander aan verbeterd worden, dat ding is immers in een week in elkaar gehackt!
+Het doel van de deze opdracht is leren hoe je een website kan testen in verschillende browsers en devices, en hoe een screenreader werkt.
+
+- [Opdracht 1.2 - Fork je OBA](Opdracht1.2.md)
+
+
+## Opdracht 2 - Progressive Enhanced Browser Technologie
+Voor dit vak maak je een demo die alle gebruikers, met alle browsers, in iedere context te zien/horen/voelen krijgen. Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement. Gebruik als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … 
+
+- [Opdracht 2 - Progressive Enhanced Browser Technologie](Opdracht2.md)
+
+
+
+
+
 ## Leerdoelen
 - _Wat is Progressive enhancement en hoe kun je dit toepassen._
 - _Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund._
