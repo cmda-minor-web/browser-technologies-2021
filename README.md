@@ -33,7 +33,7 @@ Voor dit vak maak je een demo die alle gebruikers, met alle browsers, in iedere 
 - _je leert wat Progressive enhancement is en hoe je dit kan toepassen._
 - _je leert hoe je Feature Detection doet en wat je kan doen als een 'feature' niet werkt of wordt ondersteund._
 
-[Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/edit?usp=sharing)
+[Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/)
 
 ## Planning
 
