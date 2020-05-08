@@ -8,6 +8,8 @@ Beschrijf de feature(s)/Browser Technologies, welke browser de feature(s) wel/ni
 ### Doel van deze opdracht
 Het doel van deze opdracht is te leren hoe je een online interactieve toepassing zo kan maken met behulp van _Progressive Enhancement_ en _Feature Detection_ dat deze het altijd doet ...
 
+[Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/)
+
 
 ### Uitleg
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
