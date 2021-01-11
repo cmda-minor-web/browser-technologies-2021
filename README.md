@@ -1,4 +1,4 @@
-# Browser Technologies @cmda-minor-web 1920
+# Browser Technologies @cmda-minor-web 20-21
 //Robuuste, toegankelijke websites ontwerpen en maken …
 
 In het vak Browser Technologies leer je hoe je goede, robuuste, toegankelijke websites maakt. Je gaat leren over Progressive Enhancement, Feature Detection en Fallback. Het web is er voor iedereen. In dit vak leer je hoe je daarvoor kan zorgen.
