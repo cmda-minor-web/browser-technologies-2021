@@ -1,33 +1,19 @@
 # Browser Technologies
-## Opdracht 1.1 - Breek het web
-Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet.
+## Opdracht 1.1 - NPM install Progressive-Enhancement
+Leg in eigen woorden uit wat Progressive Enancement is en presenteer het op de een webpagina. 
 
 ### Doel van deze opdracht
-Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
+Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is. 
 
 
 ### Uitleg
-Onderzoek minimaal twee features. Dat betekent uitvogelen wat het voor impact heeft op de sites die je kent en normaal gebruikt. Zoek uit hoe je de feature kan testen. Kies sites in je directe omgeving: van je werkgever, lokale vereniging, de cafetaria om de hoek, en/of eerdere projecten die je zelf gedaan hebt. Onderzoek de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
 
-1. Afbeeldingen uitzetten
-2. Custom fonts uitzetten
-3. Kleur uitzetten & kleurenblindheid instellen
-4. Muis/Trackpad werkt niet
-5. Breedband internet uitzetten
-6. Javascript (volledig)
-7. Cookies niet accepteren
-8. localStorage doet het niet
+Heydon Pickering heeft een (geniaal) filmpje gemaakt over Progressive Enancement(PE) [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). Voor deze opdracht ga je in een groepje een metafoor van Progressive Enhancement bedenken en op een website presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, misschien kun je ook al bedenken hoe je kan testen of een websit of functionaliteit goed PE is opgebouwd?  
 
-Optioneel mag je ook één van deze features onderzoeken:
-- a. Content blockers
-- b. Ad blockers (privacy)
-- c. Browser detect
-
+Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement). 
 
 ### Criteria
-Je krijgt 2 features van de 8
-- Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
-- Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
-- Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
-- Beschrijf hoe je dit kan fiksen
-- Neem je bevindingen en voorbeelden mee naar de les, dan gaan we de resultaten bespreken in groepjes 
+
+- Webpagina op Github
+- Groepjes van 3 of 4
+- Bronnen die je hebt gebruikt opnemen in de pagina (footer?)

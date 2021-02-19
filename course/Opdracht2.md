@@ -31,32 +31,84 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) en [A Theory of User Delight](https://www.nngroup.com/articles/theory-user-delight/)
 
 ### Use Cases
-<!-- INTERFACE, JS, FORMULIEREN	 -->
-1.	Ik wil een enquete kunnen invullen over de minor Web Development, met verschillende antwoord mogelijkheden. Als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
-2.	Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
-<!-- NETWERK, NOTIFICATIES	 -->
-3.	Ik wil tijdens een college aan studenten een poll kunnen voorleggen met over-de-streep stellingen en de resultaten meteen laten zien.
-4.	Ik wil de scores of tijden van een sportwedstrijd kunnen bijhouden tijdens de wedstrijd en opslaan en doorsturen.
-5. Ik wil een notificatie krijgen als mijn favoriete sporter of sportteam heeft gescoord tijdens een wedstrijd, en ik wil een reactie kunnen schrijven bij de melding.
-<!-- DEVICE APIS, COMPLEX INTERFACE	 -->
-6.	Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
-7.	Ik wil een serie foto's van mijn wintersport vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carrousel kunnen bekijken.
-8. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
+1. Enquete over de minor Web Development:
+	-	Studentgegevens (naam + nummer) verplicht
+	-	Per vak 
+		- naam
+		- docent(en)
+		- weken waarin je het vak deed
+		- beoordeling op schaal 1-10 van
+			- lesstof (hoe moeilijk is het)
+			- uitleg (hoe duidelijk is het uitgelegd)
+			- eigen inzicht (hoe goed snap je het)
+	
+	- Validatie: alles moet zijn ingevuld voordat je verder mag met het formulier. Geef duidelijke foutmeldingen.
+	- Als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
+
+2. Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+	-	Gegevens maker (naam, telefoon of email)
+	-	Kleur t-shirt
+	-	Tekst t-shirt
+	-	Maat t-shirt
+	-	M/V
+	-	Ontwerp printen
+	-	Ontwerp kopen en laten maken (hiervoor hoef je alleen de web-interface te maken)
+	-	Verder gaan waar je gebleven bent/ontwerp herzien
+	-	Validatie: alles moet zijn ingevuld. Geef duidelijke foutmeldingen
+	-	Gebruiker moet meerdere t-shirts kunnen maken en herzien, en moet dus een overzichtspagina hebben.
+
+3. Ik wil aan mensen een poll kunnen voorleggen met vragen en antwoorden, en de resultaten meteen laten zien.
+	-	Admin-pagina's
+		-	Nieuwe vraag en antwoord maken
+		-	Per vraag mogelijkheid om te publiceren of nog even achter te houden
+		-	Per vraag mogelijkheid antwoorden in te zien en te publiceren of nog even achter te houden
+		-	Volgorde vragen bepalen
+	-	Gebruikerspagina's
+		-	Gegevens gebruiker (naam)
+		-	Vragen zien en beantwoorden
+		-	Antwoorden zien, met goede datavisualisatie
+	-	Push: als de admin een vraag en antwoorden publiceert, moeten de gebruikers die nu zijn ingelogd een melding zien en in staat zijn de vraag direct te beantwoorden. (Bedenk zelf op welke manier dit precies gebeurt. Ook: mogen ze meteen nadat ze geantwoord hebben een overzicht van de gegevens antwoorden zien? Zo nee, wanneer dan wel?)
+
+4. Ik wil series foto's kunnen aanmaken, bekijken en editen.
+	-	Overzichtspagina alle foto's
+	-	Foto toevoegen aan verzameling met meta-info (locatie, fotograaf, alt-tekst)
+	-	Overzichtspagina serie
+	-	Serie samenstellen (welke foto's en in welke volgorde)
+	-	Detailpagina foto
+	-	Serie als carrousel aanbieden
+	-	Serie als slideshow aanbieden
+
+5. Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
+	-	Selecteer te voet, fiets, OV of auto
+	-	Toon routebeschrijving met kaartjes en noodzakelijke teksten
+	-	Maak offline beschikbaar
+	-	Gebruikers moeten meerdere varianten beschikbaar hebben, zelfs als ze offline zijn
+	-	??? Transportsoorten moeten te mengen zijn; bijvoorbeeld 'mijn fiets staat bij station X'
+
+6. Ik wil de scores of tijden van een sportwedstrijd doorgeven aan geïnteresseerden, die vervolgens kunnen reageren.
+	-	Admin interface waar je een wedstrijd kunt aanmaken
+	-	Per wedstrrijd moet de admin scores of tijden kunnen invullen
+	-	Gebruikers moeten zich kunnen aanmelden voor bepaalde wedstrijden (overzichtsscherm)
+	-	Gebruikers die een wedstrijd volgen, krijgen een notificatie als er nieuwe informatie binnenkomt. (Hoe doe je dit als de gebruiker meerdere wedstrijden volgt?)
+	-	Gebruikers kunnen hier een reactie op geven, die voor andere gebruikers (en de admin) te lezen is. De admin moet reacties kunnen weghalen.
+
+7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
 
 
 ### Criteria
-- De code staat in een repository op GitHub
-- Er is een Readme toegevoegd met daarin beschreven:
-  - Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de  functional/reliable, usable en pleasurable laag.
-  - een beschrijving van de feature(s)/Browser Technologies
-  - welke browser de feature(s) wel/niet ondersteunen
-  - een beschrijving van de accessibility issues die zijn onderzocht
-- De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
-- De user experience van de demo is goed
-  - de leesbaarheidsregels zijn toegepast, contrast en kleuren kloppen
-  - het heeft een gebruiksvriendelijke interface, met gebruikmaking van affordance en feedback op de interactieve elementen
-  - met meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
-- Student kan de Basic functionaliteit van een use case doorgronden
-- Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
+Er is een Readme toegevoegd met daarin beschreven:
+-	Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
+-	een beschrijving van de feature(s)/Browser Technologies
+-	een lijst met de vier browsers waarin je gaat testen, plus welke functionaliteiten zoals JavaScript je aan en uit zet tijdens de tests.	(Op desktop 1 Chromium 1 niet-Chromium, op mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android.)
+-	welke browsers de feature(s) wel/niet ondersteunen
+-	een beschrijving van de accessibility issues die zijn onderzocht
+-	beschrijving PE en oplossingen toevoegen
+-	De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
+-	De user experience van de demo is goed
+	-	de leesbaarheidsregels zijn toegepast, contrast en kleuren kloppen
+	-	het heeft een gebruiksvriendelijke interface, met gebruikmaking van affordance en feedback op de interactieve elementen
+	-	de meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
+-	Student kan de Basic functionaliteit van een use case doorgronden
+-	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development en de eigen opdracht
