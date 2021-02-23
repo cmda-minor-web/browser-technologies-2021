@@ -1,10 +1,12 @@
 # Browser Technologies
-## Opdracht 1.1 - NPM install Progressive-Enhancement
-Leg in eigen woorden uit wat Progressive Enancement is en presenteer het op de een webpagina. 
+
+## Opdracht 1 - NPM install Progressive-Enhancement
+
+Leg in eigen woorden uit wat Progressive Enancement is en maak een webpagina.
 
 ### Doel van deze opdracht
-Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is. 
 
+Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is.
 
 ### Uitleg
 

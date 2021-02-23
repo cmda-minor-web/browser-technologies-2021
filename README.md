@@ -1,30 +1,30 @@
 # Browser Technologies @cmda-minor-web 20-21
 //Robuuste, toegankelijke websites ontwerpen en maken …
 
+Één van de mooiste principes van het web is dat het er echt is voor iedereen. Iedereen met een computer en een browser kan gebruik maken van het web. Het web is geen gecontroleerde (programmeer) omgeving. Je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - ffmetingen van de browser - grootte van het apparaat - manier van interactie - kwaliteit van de hardware - kwaliteit van het netwerk. En er zijn mensen, allemaal verschillende mensen ... Hoe zorg je er dan voor dat websites het altijd doen?
+
 In het vak Browser Technologies leer je hoe je goede, robuuste, toegankelijke websites maakt. Je gaat leren over Progressive Enhancement, Feature Detection en Fallback. Het web is er voor iedereen. In dit vak leer je hoe je daarvoor kan zorgen.
 
-Een van de mooiste principes van het web is dat het er echt is voor iedereen. Iedereen met een computer en een browser moet gebruik kunnen maken van het web. Het web is geen gecontroleerde (programmeer) omgeving. Je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - Afmetingen van de browser - Grootte van het apparaat - Manier van interactie - Kwaliteit van de hardware - Kwaliteit van het netwerk. En er zijn mensen. Allemaal verschillende mensen ... Hoe zorg je er dan voor dat websites het altijd doen?
 
-
-## Opdracht 1.1 - NPM install Progressive- enhancement
+## Opdracht 1 - NPM install Progressive- enhancement
 
 Voor de eerste opdracht ga je onderzoeken wat Progressive Enhancement is. 
 
-- [Opdracht 1.1 - NPM install PRogressive Enhancement](course/Opdracht1.1.md)
+- [Opdracht 1 - NPM install PRogressive Enhancement](course/Opdracht1.md)
 
 
-## Opdracht 1.2 - Breek het Web
+## Opdracht 2 - Breek het Web
 
 Voor deze opdracht  ga je proberen het Web te laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet, en met de screenreader proberen websites te 'bekijken'
 Het doel van deze opdracht is om erachter komen dat je misschien aannames hebt die niet kloppen, en om je in te laten leven in de eindgebruiker.
 
-- [Opdracht 1.2 - Breek het web](course/Opdracht1.2.md)
+- [Opdracht 2 - Breek het web](course/Opdracht2.md)
 
-## Opdracht 2 - Progressive Enhanced Browser Technologie
+## Opdracht 3 - Progressive Enhanced Browser Technologie
 
-Voor dit vak maak je een demo die alle gebruikers, met alle browsers, in iedere context te zien/horen/voelen krijgen. Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement. Gebruik als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … 
+Voor deze opdract maak je een demo die alle gebruikers, met alle browsers, in iedere context te zien/horen/voelen krijgen. Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement. Gebruik als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … 
 
-- [Opdracht 2 - Progressive Enhanced Browser Technologie](course/Opdracht2.md)
+- [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
 
 
 ## Leerdoelen
