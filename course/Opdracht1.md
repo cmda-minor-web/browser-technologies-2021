@@ -2,7 +2,7 @@
 
 ## Opdracht 1 - NPM install Progressive-Enhancement
 
-Leg in eigen woorden uit wat Progressive Enancement is en maak een webpagina.
+Leg in eigen woorden uit wat Progressive Enancement is en presenteer het als webpagina.
 
 ### Doel van deze opdracht
 
