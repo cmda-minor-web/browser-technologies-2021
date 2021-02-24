@@ -1,6 +1,4 @@
-# Browser Technologies
-
-## Opdracht 3 - Progressive Enhanced Browser Technologie
+# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
 
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
 
@@ -9,13 +7,13 @@ Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
 Gebruik als enhancement een (hippe, innovatieve, vooruitstrevende) Browser Technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken …
 Beschrijf de feature(s)/Browser Technologies, welke browser de feature(s) wel/niet ondersteunen, en de accessibility issues die zijn onderzocht.
 
-### Doel van deze opdracht
+## Doel van deze opdracht
 
 Het doel van deze opdracht is te leren hoe je een online interactieve toepassing zo kan maken met behulp van _Progressive Enhancement_ en _Feature Detection_ dat deze het altijd doet ...
 
 [Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/)
 
-### Uitleg
+## Uitleg
 
 Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
 
@@ -27,7 +25,7 @@ Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je
 
 Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
-### Werkwijze
+## Werkwijze
 
 Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
 
@@ -48,7 +46,7 @@ Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles
 
 
 
-### Use Cases
+## Use Cases
 
 1. [Enquete over de minor Web Development](Opdracht3-enquete.md)
 2. [Nerdy T-Shirt](Opdracht3-t-nerdy-shirt.md)
@@ -59,7 +57,7 @@ Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles
 7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
-### Criteria
+## Criteria
 
 Een link naar de demo
 
