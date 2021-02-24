@@ -37,18 +37,31 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 
 Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) en [A Theory of User Delight](https://www.nngroup.com/articles/theory-user-delight/)
 
+
+	Browser API's  linken 
+	- https://platform.html5.org
+	- https://developer.mozilla.org/en-US/docs/Web/API
+
+	Design pattens voor Usability?
+	- lijst?
+	- UI patterns?
+
+
+
 ### Use Cases
 
 1. [Enquete over de minor Web Development](Opdracht3-enquete.md)
 2. [Nerdy T-Shirt](Opdracht3-t-nerdy-shirt.md)
 3. [Online poll met resultaten](Opdracht3-online-poll.md)
 4. [Online Foto album](Opdracht3-online-foto-album.md)
-5. [Routebescrijving naar het Device Lab](Opdracht3-routebescrijving-device-lab.md)
+5. [Routebeschrijving naar het Device Lab](Opdracht3-routebeschrijving-device-lab.md)
 6. [Sportwedstrijd score website](Opdracht3-score-website.md)
 7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
 ### Criteria
+
+Een link naar de demo
 
 Er is een Readme toegevoegd met daarin beschreven:
 -	Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.

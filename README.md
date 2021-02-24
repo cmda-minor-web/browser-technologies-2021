@@ -51,6 +51,12 @@ Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met 
 
 Woensdag begint het vak Browser Technolgies. Je krijgt uitleg over het programma en het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit wellicht al eens gehoord en iets mee gedaan in blok tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
 
+| Woensdag  | Wat  |
+|---|---|
+| 9:30 | Intro | 
+| 10:00 | College PPK over PE | 
+| 16:00 | Stand-up per clubje | 
+
 - [Les 1 - Progressive enhancement & Briefing Opdracht 1]()
 - [Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md)
 
@@ -63,9 +69,16 @@ Artikelen:
 Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je al een beeld gevormd van PE. Dit is een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
 In het college krijg je uitleg over de volgende opdracht. Voor deze opdracht ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
+| Donderdag  | Wat  |
+|---|---|
+| 9:30 | Opdract 1 bespreken in squads | 
+| 10:30 | College PPK over Browser feautures | 
+| 16:00 | Stand-up per clubje | 
+| 18:00 | Gastcollege Aaron Gustafson | 
+
 - [Les 2 - ]()
 - [Opdracht 2 - Breek het web](course/Opdracht2.md)
-- Gastcollege van Aaron Gustafson (16:00)
+- Gastcollege van Aaron Gustafson (18:00)
 
 Artikelen:
 - asdasd
@@ -73,6 +86,12 @@ Artikelen:
 ### Vrijdag 12 maart
 
 Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen. 
+
+| Vrijdag  | Wat  |
+|---|---|
+| 12:00 | Opdract 2 bespreken in clubjes |
+| 13:30 | Opdract 2 bespreken in clubjes |
+| 15:00 | Opdract 2 bespreken in clubjes |
 
 Artikelen:
 - asdasd
@@ -84,7 +103,7 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 ### Woensdag 17 maart
 
 - [Les 3 - ]()
-- [Opdracht 2 - Progressive Enhanced Browser Technologie](course/Opdracht2.md)
+- [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
 
 Artikelen:
 - asdasd
@@ -153,7 +172,18 @@ Ingteressante voorbeelden in week 2 bij opdract 3?
 - Responsible Web Applications By Joy Heron 
 https://responsibleweb.app
 
+ter voorbereiding van BT lezen studenten dit:
+- Artikel over subsidie aanvragen op een playstation. Succes story !
+- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
+
+In week 2, als studenten opdracht 3 hebben gekregen kunnen we ze 'the web I want' laten lezen? Inclusief de commments. Misschien kunnen ze met dat artikel vragen voorbereiden voor het college van hedon?
+- [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
+
+
+
+In week 3 het artikel 'make the web work for everone'? Dat is wel een banger. Ook de visie van ons vak en de minor. Misscien mooi als voorbereiding op het gastcollege van 
+- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 
 
@@ -170,11 +200,14 @@ week 1 vrijdag - feedbackgesprekken
 
 week 2 woensdag - les 3
 - [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
+
 - [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
 
 week 2 donderdag - les 4
-- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
 - [A Theory of User Delight by Therese Fessenden / Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
+- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
+
+
 - [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
 
 
