@@ -39,12 +39,93 @@ Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles
 
 ### Use Cases
 
-1. [Enquete over de minor Web Development](Opdracht3-enquete.md)
-2. [Nerdy T-Shirt](Opdracht3-t-nerdy-shirt.md)
-3. [Online poll met resultaten](Opdracht3-online-poll.md)
-4. [Online Foto album](Opdracht3-online-foto-album.md)
-5. [Routebescrijving naar het Device Lab](Opdracht3-routebescrijving-device-lab.md)
-6. [Sportwedstrijd score website](Opdracht3-score-website.md)
+#### 1. Enquete over de minor Web Development
+
+## Enquete over de minor Web Development
+
+Ik wil een 
+Enquete over de minor Web Development, bla bla bla
+
+	-	Studentgegevens (naam + nummer) verplicht
+	-	Per vak 
+		- naam
+		- docent(en)
+		- weken waarin je het vak deed
+		- beoordeling op schaal 1-10 van
+			- lesstof (hoe moeilijk is het)
+			- uitleg (hoe duidelijk is het uitgelegd)
+			- eigen inzicht (hoe goed snap je het)
+	
+	- Validatie: alles moet zijn ingevuld voordat je verder mag met het formulier. Geef duidelijke foutmeldingen.
+	- Als ik de enquete niet afkrijg, wil ik later weer verder gaan met waar ik ben gebleven.
+
+2. Nerdy T-Shirt
+
+## Nerdy T-shirt
+
+Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+	-	Gegevens maker (naam, telefoon of email)
+	-	Kleur t-shirt
+	-	Tekst t-shirt
+	-	Maat t-shirt
+	-	M/V
+	-	Ontwerp printen
+	-	Ontwerp kopen en laten maken (hiervoor hoef je alleen de web-interface te maken)
+	-	Verder gaan waar je gebleven bent/ontwerp herzien
+	-	Validatie: alles moet zijn ingevuld. Geef duidelijke foutmeldingen
+	-	Gebruiker moet meerdere t-shirts kunnen maken en herzien, en moet dus een overzichtspagina hebben.
+
+3. Online poll met resultaten
+
+## Online poll met resultaten
+Ik wil aan mensen een poll kunnen voorleggen met vragen en antwoorden, en de resultaten meteen laten zien.
+	-	Admin-pagina's
+		-	Nieuwe vraag en antwoord maken
+		-	Per vraag mogelijkheid om te publiceren of nog even achter te houden
+		-	Per vraag mogelijkheid antwoorden in te zien en te publiceren of nog even achter te houden
+		-	Volgorde vragen bepalen
+	-	Gebruikerspagina's
+		-	Gegevens gebruiker (naam)
+		-	Vragen zien en beantwoorden
+		-	Antwoorden zien, met goede datavisualisatie
+	-	Push: als de admin een vraag en antwoorden publiceert, moeten de gebruikers die nu zijn ingelogd een melding zien en in staat zijn de vraag direct te beantwoorden. (Bedenk zelf op welke manier dit precies gebeurt. Ook: mogen ze meteen nadat ze geantwoord hebben een overzicht van de gegevens antwoorden zien? Zo nee, wanneer dan wel?)
+
+4. Online Foto album
+
+
+## Online Foto album
+
+Ik wil series foto's kunnen aanmaken, bekijken en editen.
+	-	Overzichtspagina alle foto's
+	-	Foto toevoegen aan verzameling met meta-info (locatie, fotograaf, alt-tekst)
+	-	Overzichtspagina serie
+	-	Serie samenstellen (welke foto's en in welke volgorde)
+	-	Detailpagina foto
+	-	Serie als carrousel aanbieden
+	-	Serie als slideshow aanbieden
+
+5. Routebescrijving naar het Device Lab
+
+## Routebescrijving naar het Device Lab
+
+Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
+	-	Selecteer te voet, fiets, OV of auto
+	-	Toon routebeschrijving met kaartjes en noodzakelijke teksten
+	-	Maak offline beschikbaar
+	-	Gebruikers moeten meerdere varianten beschikbaar hebben, zelfs als ze offline zijn
+	-	??? Transportsoorten moeten te mengen zijn; bijvoorbeeld 'mijn fiets staat bij station X'
+
+6. Sportwedstrijd score website
+
+## Sportwedstrijd score website
+
+Ik wil de scores of tijden van een sportwedstrijd doorgeven aan geïnteresseerden, die vervolgens kunnen reageren.
+	-	Admin interface waar je een wedstrijd kunt aanmaken
+	-	Per wedstrrijd moet de admin scores of tijden kunnen invullen
+	-	Gebruikers moeten zich kunnen aanmelden voor bepaalde wedstrijden (overzichtsscherm)
+	-	Gebruikers die een wedstrijd volgen, krijgen een notificatie als er nieuwe informatie binnenkomt. (Hoe doe je dit als de gebruiker meerdere wedstrijden volgt?)
+	-	Gebruikers kunnen hier een reactie op geven, die voor andere gebruikers (en de admin) te lezen is. De admin moet reacties kunnen weghalen.
+
 7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
