@@ -89,9 +89,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdract 2 bespreken in clubje A 🤘 |
-| 13:00 | Opdract 2 bespreken in clubje B 🤘 |
-| 14:30 | Opdract 2 bespreken in clubje C 🤘 |
+| 11:30 | Opdracht 2 bespreken in clubje A 🤘 |
+| 13:00 | Opdracht 2 bespreken in clubje B 🤘 |
+| 14:30 | Opdracht 2 bespreken in clubje C 🤘 |
 
 ### Week 2
 
@@ -134,9 +134,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 19/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in clubjes |
-| 13:00 | Vorderingen bespreken in clubjes |
-| 14:30 | Vorderingen bespreken in clubjes |
+| 11:30 | Vorderingen bespreken in clubje C |
+| 13:00 | Vorderingen bespreken in clubje A |
+| 14:30 | Vorderingen bespreken in clubje B |
 
 ### Week 3
 
@@ -175,9 +175,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 26/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in clubjes |
-| 13:00 | Vorderingen bespreken in clubjes |
-| 14:30 | Vorderingen bespreken in clubjes |
+| 11:30 | Vorderingen bespreken in clubje B |
+| 13:00 | Vorderingen bespreken in clubje C |
+| 14:30 | Vorderingen bespreken in clubje A |
 
 
 ### Week 4
