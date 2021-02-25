@@ -1,4 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
+# Browser Technologies - De eindopdracht - Progressive Enhanced Browser Technologie
 
 Voor deze opdracht ga je een demo maken op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
 
@@ -48,12 +48,12 @@ Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles
 
 ## Use Cases
 
-1. [Enquete over de minor Web Development](Opdracht3-enquete.md)
-2. [Nerdy T-Shirt](Opdracht3-t-nerdy-shirt.md)
-3. [Online poll met resultaten](Opdracht3-online-poll.md)
-4. [Online Foto album](Opdracht3-online-foto-album.md)
-5. [Routebeschrijving naar het Device Lab](Opdracht3-routebeschrijving-device-lab.md)
-6. [Sportwedstrijd score website](Opdracht3-score-website.md)
+1. [Enquete over de minor Web Development](Usecase-enquete.md)
+2. [Nerdy T-Shirt](Usecase-t-nerdy-shirt.md)
+3. [Online poll met resultaten](Usecase-online-poll.md)
+4. [Online Foto album](Usecase-online-foto-album.md)
+5. [Routebeschrijving naar het Device Lab](Usecase-routebeschrijving-device-lab.md)
+6. [Sportwedstrijd score website](Usecase-score-website.md)
 7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 

@@ -100,18 +100,20 @@ Artikelen:
 
 ### Browser Technologies - Week 2
 
-Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat doe je als een techniek niet werkt of wordt ondersteund? 
+In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen of zien? Hoe doe je Feature Detection en wat kun je doen als een techniek niet werkt of wordt ondersteund?
 
 ### Woensdag 17 maart
 
+Briefing van de eindopdracht en leren over Feature detection
 - [Les 3 - ]()
-- [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
 
 Artikelen:
 
 - asdasd
 
 ### Donderdag 18 maart
+Voorbeelden van PE en feature detection. 
 
 - [Les 4 - ]()
 - College van Heydon Pickering
@@ -125,7 +127,7 @@ Code review opdracht 2.
 
 ### Browser Technologies - Week 3
 
-Deze week werken we verder aan opdracht 2 en houden we video gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden.
+Deze week werken we verder werken aan de eindopdract en houden we  gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden.
 
 ### Woensdag 24 maart
 
@@ -147,7 +149,7 @@ Code review opdracht 2.
 
 ### Browser Technologies - Week 4
 
-In week 4 wordt opdracht 3 beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen.
+In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen.
 
 ### Woensdag 31 maart en Donderdag 1 april
 
