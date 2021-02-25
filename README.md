@@ -56,7 +56,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 | Woensdag 10/3 | Wat  |
 |---|---|
 | 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
-|  | [Briefing Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md) |
+|  | [👍 Briefing Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md) |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 1:
@@ -72,9 +72,9 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 
 | Donderdag 11/3 | Wat  |
 |---|---|
-| 9:30 | Opdracht 1 bespreken in Squads |
+| 9:30 | Opdracht 1 bespreken in Squads 👍 |
 | 10:30 | College les 2 over Browser feautures |
-|  | [BriefingOpdracht 2 - Breek het web](course/Opdracht2.md) |
+|  | [🤘 BriefingOpdracht 2 - Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per clubje |
 | 18:00 | Gastcollege Aaron Gustafson 🖖 |
 
@@ -89,9 +89,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdract 2 bespreken in clubjes |
-| 13:00 | Opdract 2 bespreken in clubjes |
-| 14:30 | Opdract 2 bespreken in clubjes |
+| 11:30 | Opdract 2 bespreken in clubje A 🤘 |
+| 13:00 | Opdract 2 bespreken in clubje B 🤘 |
+| 14:30 | Opdract 2 bespreken in clubje C 🤘 |
 
 ### Week 2
 
@@ -99,12 +99,13 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 #### Woensdag 17 maart
 
-Briefing van de eindopdracht en leren over Feature detection. Beginnen met ontwerpen van de interacfieve toepassing. 
+Briefing van de eindopdracht en leren over Feature detection. Beginnen met ontwerpen van de interactieve toepassing, core functionaliteit bepalen, wireflows schetsen met user-delight.
 
 | Woensdag 17/3 | Wat  |
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
-|  | [Briefing Eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+|  | [🤟 Briefing eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+| 10:30 | Sessies: Core functionaliteit 🤟 |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 3:
@@ -112,14 +113,14 @@ Lezen voor les 3:
 - [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
 
 #### Donderdag 18 maart
-Voorbeelden van PE en feature detection. 
+Voorbeelden van PE en feature detection.
 
 🖖 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
 
 | Donderdag 18/3 | Wat  |
 |---|---|
 | 9:30 | College les 4 over form-validatie |
-| 10:30 | Bouwen in 3 lagen |
+| 10:30 | Sessies: Bouwen in 3 lagen 🤟 |
 | 14:00 | Gastcollege Heydon Pickering 🖖 |
 | 16:00 | Checkout per clubje |
 
@@ -146,7 +147,7 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 | Woensdag 24/3 | Wat  |
 |---|---|
 | 9:30 | College les 5 over Viewports |
-| 10:30 | Testen |
+| 10:30 | Sessies: Feature detectie en testen 🤟 |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 5:
@@ -161,7 +162,7 @@ Code review.
 | Donderdag 25/3 | Wat  |
 |---|---|
 | 9:30 | Gastcollege Ischa Gast 🖖 |
-| 10:30 | Code-review: 3 lagen en feature detectie |
+| 10:30 | Sessies: Code-reviews 🤟 |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 6:
@@ -170,7 +171,7 @@ Lezen voor les 6:
 
 #### Vrijdag 26 maart
 
-Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je een code review hebt gekregen van een mede-studenten.
+Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je een code-review hebt gekregen van twee mede-studenten.
 
 | Vrijdag 26/3 | Wat  |
 |---|---|
@@ -185,7 +186,7 @@ In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespre
 
 #### Woensdag 31 maart en Donderdag 1 april
 
-Beoordelingsgesprekken in duo's.
+Beoordelingsgesprekken 🤟
 
 # artikelen
 
