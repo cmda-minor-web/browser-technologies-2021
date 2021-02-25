@@ -7,7 +7,7 @@ In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement 
 
 ## Opdrachten
 
-het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracth 1 en 2. Vanaf week 2 werken we aan de eindopdracht. 
+het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht. 
 
 ### 👍 Opdracht 1 - NPM install Progressive- enhancement
 
@@ -24,8 +24,7 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 
 ### 🤟 De eindopdracht - Progressive Enhanced Browser Technologie
 
-Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi, vet, gaaf en prettig om te gebruiken.
-
+Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 
 - [De eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md)
 
@@ -54,54 +53,45 @@ Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancem
 
 Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit waarschijnlijk al eens gehoord en iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
 
-| Woensdag  | Wat  |
+| Woensdag 10/3 | Wat  |
 |---|---|
-| 9:30 | Intro |
-| 10:00 | College PPK over PE |
-| 16:00 | Stand-up per clubje |
+| 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
+|  | [Briefing Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md) |
+| 16:00 | Checkout per clubje |
 
-- [Les 1 - Progressive enhancement & Briefing Opdracht 1]()
-- [Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md)
+Lezen voor les 1:
 
-Artikelen:
-
-- asdasd
+- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
 #### Donderdag 11 maart
 
 Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van PE. Tijdens de bespreking is het een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
 In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je proberen het web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
-🖖 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team. 
+🖖 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
 
-| Donderdag  | Wat  |
+| Donderdag 11/3 | Wat  |
 |---|---|
-| 9:30 | Opdract 1 bespreken in squads |
-| 10:30 | College PPK over Browser feautures |
-| 16:00 | Stand-up per clubje |
+| 9:30 | Opdracht 1 bespreken in Squads |
+| 10:30 | College les 2 over Browser feautures |
+|  | [BriefingOpdracht 2 - Breek het web](course/Opdracht2.md) |
+| 16:00 | Checkout per clubje |
 | 18:00 | Gastcollege Aaron Gustafson 🖖 |
 
-- [Les 2 - ]()
-- [Opdracht 2 - Breek het web](course/Opdracht2.md)
-- Gastcollege van Aaron Gustafson (18:00)
+Lezen voor les 2:
 
-Artikelen:
-
-- asdasd
+- [Is progressive enhancement dead yet? by hedon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
+- [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
 
 #### Vrijdag 12 maart
 
 Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
 
-| Vrijdag  | Wat  |
+| Vrijdag 12/3 | Wat  |
 |---|---|
-| 12:00 | Opdract 2 bespreken in clubjes |
-| 13:30 | Opdract 2 bespreken in clubjes |
-| 15:00 | Opdract 2 bespreken in clubjes |
-
-Artikelen:
-
-- asdasd
+| 11:30 | Opdract 2 bespreken in clubjes |
+| 13:00 | Opdract 2 bespreken in clubjes |
+| 14:30 | Opdract 2 bespreken in clubjes |
 
 ### Week 2
 
@@ -109,50 +99,85 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 #### Woensdag 17 maart
 
-Briefing van de eindopdracht en leren over Feature detection
-- [Les 3 - ]()
-- [De eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md)
+Briefing van de eindopdracht en leren over Feature detection. Beginnen met ontwerpen van de interacfieve toepassing. 
 
-Artikelen:
+| Woensdag 17/3 | Wat  |
+|---|---|
+| 9:30 | College les 3 over browsers, browser detect, support detection en web views |
+|  | [Briefing Eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+| 16:00 | Checkout per clubje |
 
-- asdasd
+Lezen voor les 3:
+
+- [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
 
 #### Donderdag 18 maart
 Voorbeelden van PE en feature detection. 
 
-Vandaag geeft Heydon Pickering een gastcollege. 
+🖖 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
 
-- [Les 4 - ]()
-- College van Heydon Pickering 🖖 
+| Donderdag 18/3 | Wat  |
+|---|---|
+| 9:30 | College les 4 over form-validatie |
+| 10:30 | Bouwen in 3 lagen |
+| 14:00 | Gastcollege Heydon Pickering 🖖 |
+| 16:00 | Checkout per clubje |
 
-Artikelen:
+Lezen voor les 4:
+
 - asdasd
 
 ##### Vrijdag 19 maart
 
-Code review opdracht 2.
+Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen. (in totaal 4)
+
+| Vrijdag 19/3 | Wat  |
+|---|---|
+| 11:30 | Vorderingen bespreken in clubjes |
+| 13:00 | Vorderingen bespreken in clubjes |
+| 14:30 | Vorderingen bespreken in clubjes |
 
 ### Week 3
 
-Deze week werken we verder werken aan de eindopdract en houden we  gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden.
+Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om jullie vorderingen te bespreken en vragen te beantwoorden.
 
 #### Woensdag 24 maart
 
-- [Les 5 - ]()
+| Woensdag 24/3 | Wat  |
+|---|---|
+| 9:30 | College les 5 over Viewports |
+| 10:30 | Testen |
+| 16:00 | Checkout per clubje |
 
-Artikelen:
+Lezen voor les 5:
+
 - asdasd
 
 #### Donderdag 25 maart
+Code review.
 
-- [Les 6 - ]()
+🖖 Vandaag geeft Isca Gast een presentatie. 
 
-Artikelen:
+| Donderdag 25/3 | Wat  |
+|---|---|
+| 9:30 | Gastcollege Ischa Gast 🖖 |
+| 10:30 | Code-review: 3 lagen en feature detectie |
+| 16:00 | Checkout per clubje |
+
+Lezen voor les 6:
+
 - asdasd
 
 #### Vrijdag 26 maart
 
-Code review opdracht 2.
+Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je een code review hebt gekregen van een mede-studenten.
+
+| Vrijdag 26/3 | Wat  |
+|---|---|
+| 11:30 | Vorderingen bespreken in clubjes |
+| 13:00 | Vorderingen bespreken in clubjes |
+| 14:30 | Vorderingen bespreken in clubjes |
+
 
 ### Week 4
 
@@ -164,10 +189,8 @@ Beoordelingsgesprekken in duo's.
 
 # artikelen
 
-Welke *moeten* de studenten wanneer lezen. Wat gaan we met de artikelen doen in de les? oe komt de stof weer terug?
+Welke *moeten* de studenten wanneer lezen. Wat gaan we met de artikelen doen in de les? Hoe komt de stof weer terug?
 Welke artikelen komen voor in het college? Deze artikelen zijn *optioneel* en vormen de leeslijst. 
-
-
 
 ## Toevoegen
 - Be progressive - Jeremy Keith
@@ -176,74 +199,16 @@ https://adactio.com/journal/7706
 - A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences By  Therese Fessenden  on March 5, 2017 +  pyramide van Aaron Walter
 https://www.nngroup.com/articles/theory-user-delight/
 
-- Understanding Progressive Enhancement, by Aaron GustafsonOctober 07, 2008
-https://alistapart.com/article/understandingprogressiveenhancement/
-
 
 Ingteressante voorbeelden in week 2 bij opdract 3?
 - Responsible Web Applications By Joy Heron 
 https://responsibleweb.app
 
-ter voorbereiding van BT lezen studenten dit:
-- Artikel over subsidie aanvragen op een playstation. Succes story !
-- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-
-
 In week 2, als studenten opdracht 3 hebben gekregen kunnen we ze 'the web I want' laten lezen? Inclusief de commments. Misschien kunnen ze met dat artikel vragen voorbereiden voor het college van hedon?
 - [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
 
-
-
-In week 3 het artikel 'make the web work for everone'? Dat is wel een banger. Ook de visie van ons vak en de minor. Misscien mooi als voorbereiding op het gastcollege van 
+In week 3 het artikel 'make the web work for everyone'? Dat is wel een banger. Ook de visie van ons vak en de minor. Misschien mooi als voorbereiding op het gastcollege van 
 - [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
-
-
-
-## Vorig jaar 1920
-week 1 woensdag - les 1
-- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-- [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
-
-week 1 donderdag - les 2
-
-
-week 1 vrijdag - feedbackgesprekken
-
-
-week 2 woensdag - les 3
-- [HTML: The Inaccessible Parts](https://daverupert.com/2020/02/html-the-inaccessible-parts/)
-
-- [Accessibility Through Semantic HTML by Laura Kalbag](https://24ways.org/2017/accessibility-through-semantic-html/)
-
-week 2 donderdag - les 4
-- [A Theory of User Delight by Therese Fessenden / Nielsen Norman Group](https://www.nngroup.com/articles/theory-user-delight/)
-- [The Role of Enhancement in Web Design by Raluca Budiu / Nielsen Norman Group](https://www.nngroup.com/articles/enhancement/)
-
-
-- [The accessibility mindset by Eric Eggert](https://24ways.org/2015/the-accessibility-mindset/)
-
-
-week 2 vrijdag - feedbackgesprekken
-
-
-week 3 woensdag - les 5
-- [Progressive Enhancement and Data Visualizations by Chris Coyier](https://css-tricks.com/progressive-enhancement-data-visualizations/)
-
-
-week 3 donderdag - les 6
-- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
-
-week 3 vrijdag - feedbackgesprekken
-
-
-week 4 woensdag - beoordelingsgesprekken
-
-week 4 donderdag - beoordelingsgesprekken
-
-
-
-
-
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
