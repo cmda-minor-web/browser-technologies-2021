@@ -73,14 +73,14 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 | Donderdag 11/3 | Wat  |
 |---|---|
 | 9:30 | Opdracht 1 bespreken in Squads 👍 |
-| 10:30 | College les 2 over Browser feautures |
+| 10:30 | College les 2 over Browser features |
 |  | [🤘 BriefingOpdracht 2 - Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per clubje |
 | 18:00 | Gastcollege Aaron Gustafson 🖖 |
 
 Lezen voor les 2:
 
-- [Is progressive enhancement dead yet? by hedon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
+- [Is progressive enhancement dead yet? by Heydon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
 - [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
 
 #### Vrijdag 12 maart
@@ -92,6 +92,7 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 | 11:30 | Opdracht 2 bespreken in clubje A 🤘 |
 | 13:00 | Opdracht 2 bespreken in clubje B 🤘 |
 | 14:30 | Opdracht 2 bespreken in clubje C 🤘 |
+| 16:00 | Work Hard Play Hard |
 
 ### Week 2
 
@@ -137,6 +138,7 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 | 11:30 | Vorderingen bespreken in clubje C |
 | 13:00 | Vorderingen bespreken in clubje A |
 | 14:30 | Vorderingen bespreken in clubje B |
+| 16:00 | Work Hard Play Hard |
 
 ### Week 3
 
@@ -178,15 +180,26 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 | 11:30 | Vorderingen bespreken in clubje B |
 | 13:00 | Vorderingen bespreken in clubje C |
 | 14:30 | Vorderingen bespreken in clubje A |
+| 16:00 | Work Hard Play Hard |
 
 
 ### Week 4
 
 In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen.
 
-#### Woensdag 31 maart en Donderdag 1 april
+| Dinsdag 31/3 | Wat  |
+|---|---|
+| 9:30 - 15:30 | Beoordelingsgesprekken 🤟 |
 
-Beoordelingsgesprekken 🤟
+| Woensdag 31/3 | Wat  |
+|---|---|
+| 9:30 - 15:30 | Beoordelingsgesprekken 🤟 |
+
+| Donderdag 1/4 | Wat  |
+|---|---|
+| 14:00 | [Weekly Nerd 2️⃣ ](https://github.com/cmda-minor-web/weekly-nerd-2021)|
+
+
 
 # artikelen
 
