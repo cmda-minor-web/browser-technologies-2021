@@ -8,7 +8,7 @@ Het doel van deze opdracht is onderzoeken en presenteren wat Progressive Enhance
 
 ## Uitleg
 
-Heydon Pickering heeft een (geniaal) filmpje gemaakt over Progressive Enancement (PE) [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). Voor deze opdracht ga je in een groepje een eigen metafoor voor Progressive Enhancement bedenken en op een website presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, bedenken hoe je kan testen of een website of functionaliteit goed PE is opgebouwd en laat een of meerdere voorbeelden zien.
+Heydon Pickering heeft een (geniaal) filmpje gemaakt over Progressive Enancement (PE) [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). Voor deze opdracht ga je in een groepje een eigen metafoor voor PE bedenken en op een website presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, bedenken hoe je kan testen of een website of functionaliteit goed PE is opgebouwd en laat een of meerdere voorbeelden zien.
 
 Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement).
 

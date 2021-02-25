@@ -1,7 +1,7 @@
 # Browser Technologies @cmda-minor-web 20-21
 //Robuuste, toegankelijke websites ontwerpen en maken …
 
-Één van de mooiste principes van het web is dat het er echt is voor iedereen. Iedereen met een computer en een browser kan gebruik maken van het web. Het web is geen gecontroleerde (programmeer) omgeving. Je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - ffmetingen van de browser - grootte van het apparaat - manier van interactie - kwaliteit van de hardware - kwaliteit van het netwerk. En er zijn mensen, allemaal verschillende mensen ... Hoe zorg je er dan voor dat websites het altijd doen?
+Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser gebruik kan maken van het web. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het web is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - afmetingen van de browser - grootte van het apparaat - manier van interactie - kwaliteit van de hardware - kwaliteit van het netwerk, en er zijn mensen, allemaal verschillende mensen ... 
 
 In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web ís er voor iedereen. In dit vak leer je hoe je daarvoor kan zorgen.
 
@@ -14,14 +14,14 @@ Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
 ## Opdracht 2 - Breek het Web
 
-Voor deze opdracht ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
-Het doel van deze opdracht is om je in te leven in de eindgebruiker en om de browser-platform beter te begrijpen. Misschien kom je erachter dat je aannames hebt die niet kloppen.
+Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
 - [Opdracht 2 - Breek het web](course/Opdracht2.md)
 
 ## Opdracht 3 - Progressive Enhanced Browser Technologie
 
-Voor deze opdracht maak je een demo volgens het principe van Progressive Enhancement. Je kiest als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is 'delightful UX', vet, gaaf en prettig om te gebruiken …
+Voor opdracht 3 maak je een demo volgens het principe van Progressive Enhancement. Je kiest als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is 'delightful UX', maar je zorgt er ook voor dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
+
 
 - [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
 
@@ -45,11 +45,11 @@ Voor deze opdracht maak je een demo volgens het principe van Progressive Enhance
 ## Programma
 
 ### Browser Technologies - Week 1
-Het web is voor iedereen. Leren over Progressive enhancement en kennismaken met testen en het device lab.
+Het web is voor iedereen: Leren over Progressive Enhancement en kennismaken met testen ~~en het device lab~~.
 
 ### Woensdag 10 maart
 
-Woensdag begint het vak Browser Technolgies. Je krijgt uitleg over het programma en het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit wellicht al eens gehoord en iets mee gedaan in blok tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
+Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit wellicht al eens gehoord en iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
 
 | Woensdag  | Wat  |
 |---|---|

@@ -1,8 +1,8 @@
 # Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
 
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien/horen/voelen krijgen.
+Voor deze opdracht ga je een demo maken op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
 
-Bouw je demo in 3 lagen, volgens het principe van Progressive Enhancement.
+Bouw je demo volgens het principe van Progressive Enhancement.
 
 Gebruik als enhancement een (hippe, innovatieve, vooruitstrevende) Browser Technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken …
 Beschrijf de feature(s)/Browser Technologies, welke browser de feature(s) wel/niet ondersteunen, en de accessibility issues die zijn onderzocht.
