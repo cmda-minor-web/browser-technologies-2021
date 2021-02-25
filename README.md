@@ -114,6 +114,7 @@ Lezen voor les 3:
 - [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
 
 #### Donderdag 18 maart
+
 Voorbeelden van PE en feature detection.
 
 🖖 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
@@ -129,7 +130,7 @@ Lezen voor les 4:
 
 - asdasd
 
-##### Vrijdag 19 maart
+#### Vrijdag 19 maart
 
 Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen. (in totaal 4)
 
@@ -157,6 +158,7 @@ Lezen voor les 5:
 - asdasd
 
 #### Donderdag 25 maart
+
 Code review.
 
 🖖 Vandaag geeft Isca Gast een presentatie. 
@@ -182,12 +184,11 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 | 14:30 | Vorderingen bespreken in clubje A |
 | 16:00 | Work Hard Play Hard |
 
-
 ### Week 4
 
 In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespreken en beoordelen.
 
-| Dinsdag 31/3 | Wat  |
+| Dinsdag 30/3 | Wat  |
 |---|---|
 | 9:30 - 15:30 | Beoordelingsgesprekken 🤟 |
 
