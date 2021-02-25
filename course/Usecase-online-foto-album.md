@@ -1,6 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-## Online Foto album
+# Browser Technologies - De eindopdracht - Online Foto album
 
 Ik wil series foto's kunnen aanmaken, bekijken en editen.
 	-	Overzichtspagina alle foto's
