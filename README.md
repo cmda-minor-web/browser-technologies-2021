@@ -1,9 +1,9 @@
 # Browser Technologies @cmda-minor-web 20-21
 //Robuuste, toegankelijke websites ontwerpen en maken …
 
-Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser gebruik kan maken van het web. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het web is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - afmetingen van de browser - grootte van het apparaat - manier van interactie - kwaliteit van de hardware - kwaliteit van het netwerk, en er zijn mensen, allemaal verschillende mensen ... 
+Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het wek kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in jouw browser ziet. Er zijn technische beperkingen, zoals - afmetingen van de browser - grootte van het apparaat - manier van interactie - kwaliteit van de hardware - kwaliteit van het netwerk, en er zijn mensen, allemaal verschillende mensen ... 
 
-In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web ís er voor iedereen. In dit vak leer je hoe je daarvoor kan zorgen.
+In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web is voor iedereen, in dit vak leer je hoe je daarvoor kan zorgen.
 
 ## Opdracht 1 - NPM install Progressive- enhancement
 
@@ -18,12 +18,12 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 
 - [Opdracht 2 - Breek het web](course/Opdracht2.md)
 
-## Opdracht 3 - Progressive Enhanced Browser Technologie
+## De eindopdracht - Progressive Enhanced Browser Technologie
 
-Voor opdracht 3 maak je een demo volgens het principe van Progressive Enhancement. Je kiest als enhancement een browser technologie die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning. De meest 'enhanced' versie is 'delightful UX', maar je zorgt er ook voor dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
+Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi, vet, gaaf en prettig om te gebruiken.
 
 
-- [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
 
 
 ## Leerdoelen
@@ -37,7 +37,7 @@ Voor opdracht 3 maak je een demo volgens het principe van Progressive Enhancemen
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#week-1>Week 1</a>  | Intro, College + briefing opdracht 1 | College + presentaties opdracht 1 + briefing opdracht 2 | Feedbackgesprekken, presentaties opdracht 2 |
+| <a href=#week-1>Week 1</a>  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
 | <a href=#week-2>Week 2</a>  | College + Briefing opdracht 3  | College + werken aan de opdracht | Feedbackgesprekken  |
 | <a href=#week-3>Week 3</a>  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
 | <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken, presentaties opdracht 3 |  |  |
@@ -45,47 +45,48 @@ Voor opdracht 3 maak je een demo volgens het principe van Progressive Enhancemen
 ## Programma
 
 ### Browser Technologies - Week 1
-Het web is voor iedereen: Leren over Progressive Enhancement en kennismaken met testen ~~en het device lab~~.
+Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancement is en kennismaken met testen ~~en het device lab~~.
 
 ### Woensdag 10 maart
 
-Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit wellicht al eens gehoord en iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
+Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit waarschijnlijk al eens gehoord en iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
 
 | Woensdag  | Wat  |
 |---|---|
-| 9:30 | Intro | 
-| 10:00 | College PPK over PE | 
-| 16:00 | Stand-up per clubje | 
+| 9:30 | Intro |
+| 10:00 | College PPK over PE |
+| 16:00 | Stand-up per clubje |
 
 - [Les 1 - Progressive enhancement & Briefing Opdracht 1]()
 - [Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md)
 
 Artikelen:
-- asdasd
 
+- asdasd
 
 ### Donderdag 11 maart
 
-Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je al een beeld gevormd van PE. Dit is een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
-In het college krijg je uitleg over de volgende opdracht. Voor deze opdracht ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
+Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van PE. Dit is een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
+In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je proberen het web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
 | Donderdag  | Wat  |
 |---|---|
-| 9:30 | Opdract 1 bespreken in squads | 
-| 10:30 | College PPK over Browser feautures | 
-| 16:00 | Stand-up per clubje | 
-| 18:00 | Gastcollege Aaron Gustafson | 
+| 9:30 | Opdract 1 bespreken in squads |
+| 10:30 | College PPK over Browser feautures |
+| 16:00 | Stand-up per clubje |
+| 18:00 | Gastcollege Aaron Gustafson |
 
 - [Les 2 - ]()
 - [Opdracht 2 - Breek het web](course/Opdracht2.md)
 - Gastcollege van Aaron Gustafson (18:00)
 
 Artikelen:
+
 - asdasd
 
 ### Vrijdag 12 maart
 
-Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen. 
+Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
 
 | Vrijdag  | Wat  |
 |---|---|
@@ -94,6 +95,7 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 | 15:00 | Opdract 2 bespreken in clubjes |
 
 Artikelen:
+
 - asdasd
 
 ### Browser Technologies - Week 2
@@ -106,6 +108,7 @@ Wat laat je zien als een browser of gebruiker een 'enhancement' niet kan tonen o
 - [Opdracht 3 - Progressive Enhanced Browser Technologie](course/Opdracht3.md)
 
 Artikelen:
+
 - asdasd
 
 ### Donderdag 18 maart
