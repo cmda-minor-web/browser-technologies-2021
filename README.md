@@ -23,7 +23,7 @@ Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi, vet, gaaf en prettig om te gebruiken.
 
 
-- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md)
 
 
 ## Leerdoelen
@@ -38,9 +38,9 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
 | <a href=#week-1>Week 1</a>  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
-| <a href=#week-2>Week 2</a>  | College + Briefing opdracht 3  | College + werken aan de opdracht | Feedbackgesprekken  |
+| <a href=#week-2>Week 2</a>  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
 | <a href=#week-3>Week 3</a>  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
-| <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken, presentaties opdracht 3 |  |  |
+| <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken, eindopdracht presentaties |  |  |
 
 ## Programma
 
@@ -106,7 +106,7 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 Briefing van de eindopdracht en leren over Feature detection
 - [Les 3 - ]()
-- [De eindopdracht - Progressive Enhanced Browser Technologie](course/eindopdracht.md)
+- [De eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md)
 
 Artikelen:
 
