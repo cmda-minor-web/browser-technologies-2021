@@ -1,7 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-
-## Routebeschrijving naar het Device Lab
+# Browser Technologies - De eindopdracht - Routebeschrijving naar het Device Lab
 
 Ik wil de routebeschrijving van mijn huis tot aan het Device Lab stap voor stap kunnen zien.
 	-	Selecteer te voet, fiets, OV of auto

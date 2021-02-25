@@ -1,7 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-
-## Nerdy T-shirt
+# Browser Technologies - De eindopdracht - Nerdy T-shirt
 
 Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
 	-	Gegevens maker (naam, telefoon of email)

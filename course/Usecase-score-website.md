@@ -1,6 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-## Sportwedstrijd score website
+# Browser Technologies - De eindopdracht - Sportwedstrijd score website
 
 Ik wil de scores of tijden van een sportwedstrijd doorgeven aan geïnteresseerden, die vervolgens kunnen reageren.
 	-	Admin interface waar je een wedstrijd kunt aanmaken

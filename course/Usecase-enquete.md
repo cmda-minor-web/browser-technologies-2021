@@ -1,6 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-## Enquete over de minor Web Development
+# Browser Technologies - De eindopdracht - Enquete over de minor Web Development
 
 Ik wil een 
 Enquete over de minor Web Development, bla bla bla

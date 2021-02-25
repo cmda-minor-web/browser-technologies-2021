@@ -1,6 +1,4 @@
-# Browser Technologies - Opdracht 3 - Progressive Enhanced Browser Technologie
-
-## Online poll met resultaten
+# Browser Technologies - De eindopdracht - Online poll met resultaten
 Ik wil aan mensen een poll kunnen voorleggen met vragen en antwoorden, en de resultaten meteen laten zien.
 	-	Admin-pagina's
 		-	Nieuwe vraag en antwoord maken

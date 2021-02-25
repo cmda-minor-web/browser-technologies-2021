@@ -32,4 +32,4 @@ Optioneel mag je ook één van deze features onderzoeken:
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
 - Beschrijf hoe je dit kan fiksen
-- Neem je bevindingen en voorbeelden mee naar de les, dan gaan we de resultaten bespreken in groepjes
+- Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes. 
