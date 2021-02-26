@@ -59,7 +59,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 |  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enancement](course/Opdracht1.md) |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 1 📖
+##### Lezen voor les 1 📖
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
