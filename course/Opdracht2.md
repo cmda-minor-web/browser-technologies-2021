@@ -1,4 +1,4 @@
-# Browser Technologies - Opdracht 2 - Breek het web
+# Browser Technologies - Opdracht 2 💔 Breek het Web
 
 Het Web laten 'breken' door features van het platform bewust uit te zetten. Images, custom fonts, JavaScript, kleur, breedband internet.
 

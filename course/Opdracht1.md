@@ -1,4 +1,4 @@
-# Browser Technologies - Opdracht 1 - NPM install Progressive-Enhancement
+# Browser Technologies - Opdracht 1 🛹 NPM install Progressive-Enhancement
 
 Leg in eigen woorden uit wat Progressive Enancement is en presenteer het als webpagina.
 

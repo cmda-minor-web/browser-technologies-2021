@@ -1,4 +1,4 @@
-# Browser Technologies - De eindopdracht - Progressive Enhanced Browser Technologie
+# Browser Technologies - De eindopdracht ✨ Progressive Enhanced Browser Technologie
 
 Voor deze opdracht ga je een demo maken op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
 

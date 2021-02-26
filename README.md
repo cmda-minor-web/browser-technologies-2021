@@ -9,20 +9,20 @@ In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement 
 
 het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht. 
 
-### 👍 Opdracht 1 - NPM install Progressive- enhancement
+### Opdracht 1 🛹 NPM install Progressive- enhancement
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
 - [Opdracht 1 - NPM install PRogressive Enhancement](course/Opdracht1.md)
 
 
-### 🤘 Opdracht 2 - Breek het Web
+### Opdracht 2 💔 Breek het Web
 
 Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
-- [Opdracht 2 - Breek het web](course/Opdracht2.md)
+- [Opdracht 2 - Breek het Web](course/Opdracht2.md)
 
-### 🤟 De eindopdracht - Progressive Enhanced Browser Technologie
+### De eindopdracht ✨ Progressive Enhanced Browser Technologie
 
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 
@@ -56,10 +56,10 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 | Woensdag 10/3 | Wat  |
 |---|---|
 | 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
-|  | [👍 Briefing Opdracht 1 - NPM install Progressive-Enancement](course/Opdracht1.md) |
+|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enancement](course/Opdracht1.md) |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 1:
+Lezen voor les 1 📖
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
@@ -68,17 +68,17 @@ Lezen voor les 1:
 Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van PE. Tijdens de bespreking is het een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
 In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je proberen het web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken? En hoe ziet een website er uit met een screenreader?
 
-🖖 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
+🤟 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
 
 | Donderdag 11/3 | Wat  |
 |---|---|
-| 9:30 | Opdracht 1 bespreken in Squads 👍 |
+| 9:30 | Opdracht 1 bespreken in Squads 🛹 |
 | 10:30 | College les 2 over Browser features |
-|  | [🤘 BriefingOpdracht 2 - Breek het web](course/Opdracht2.md) |
+|  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per clubje |
-| 18:00 | Gastcollege Aaron Gustafson 🖖 |
+| 18:00 | Gastcollege Aaron Gustafson 🤟 |
 
-Lezen voor les 2:
+Lezen voor les 2 📖
 
 - [Is progressive enhancement dead yet? by Heydon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
 - [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
@@ -89,9 +89,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdracht 2 bespreken in clubje A 🤘 |
-| 13:00 | Opdracht 2 bespreken in clubje B 🤘 |
-| 14:30 | Opdracht 2 bespreken in clubje C 🤘 |
+| 11:30 | Opdracht 2 bespreken in clubje A 💔 |
+| 13:00 | Opdracht 2 bespreken in clubje B 💔 |
+| 14:30 | Opdracht 2 bespreken in clubje C 💔 |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
@@ -105,11 +105,11 @@ Briefing van de eindopdracht en leren over Feature detection. Beginnen met ontwe
 | Woensdag 17/3 | Wat  |
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
-|  | [🤟 Briefing eindopdracht - Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 10:30 | Sessies: Core functionaliteit 🤟 |
+|  | [ Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+| 10:30 | Sessies: Core functionaliteit 🤼 |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 3:
+Lezen voor les 3 📖
 
 - [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
 
@@ -117,16 +117,16 @@ Lezen voor les 3:
 
 Voorbeelden van PE en feature detection.
 
-🖖 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
+🤟 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
 
 | Donderdag 18/3 | Wat  |
 |---|---|
 | 9:30 | College les 4 over form-validatie |
-| 10:30 | Sessies: Bouwen in 3 lagen 🤟 |
-| 14:00 | Gastcollege Heydon Pickering 🖖 |
+| 10:30 | Sessies: Bouwen in 3 lagen ✨ |
+| 14:00 | Gastcollege Heydon Pickering 🤟 |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 4:
+Lezen voor les 4 📖
 
 - asdasd
 
@@ -150,10 +150,10 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 | Woensdag 24/3 | Wat  |
 |---|---|
 | 9:30 | College les 5 over Viewports |
-| 10:30 | Sessies: Feature detectie en testen 🤟 |
+| 10:30 | Sessies: Feature detectie en testen ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 5:
+Lezen voor les 5 📖
 
 - asdasd
 
@@ -161,15 +161,15 @@ Lezen voor les 5:
 
 Code review.
 
-🖖 Vandaag geeft Isca Gast een presentatie. 
+🤟 Vandaag geeft Ischa Gast een presentatie. 
 
 | Donderdag 25/3 | Wat  |
 |---|---|
-| 9:30 | Gastcollege Ischa Gast 🖖 |
-| 10:30 | Sessies: Code-reviews 🤟 |
+| 9:30 | Gastcollege Ischa Gast 🤟 |
+| 10:30 | Sessies: Code-reviews ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 6:
+Lezen voor les 6 📖
 
 - asdasd
 
@@ -190,11 +190,11 @@ In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespre
 
 | Dinsdag 30/3 | Wat  |
 |---|---|
-| 9:30 - 15:30 | Beoordelingsgesprekken 🤟 |
+| 9:30 - 15:30 | Beoordelingsgesprekken ✨ |
 
 | Woensdag 31/3 | Wat  |
 |---|---|
-| 9:30 - 15:30 | Beoordelingsgesprekken 🤟 |
+| 9:30 - 15:30 | Beoordelingsgesprekken ✨ |
 
 | Donderdag 1/4 | Wat  |
 |---|---|
