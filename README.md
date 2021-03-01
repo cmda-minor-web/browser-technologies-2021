@@ -40,13 +40,13 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 
 | Planning  | Woensdag  |  Donderdag | Vrijdag  |
 |---|---|---|---|
-| <a href=#week-1>Week 1</a>  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
-| <a href=#week-2>Week 2</a>  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
-| <a href=#week-3>Week 3</a>  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
-| <a href=#week-4>Week 4</a>  | Beoordelingsgesprekken | Beoordelingsgesprekken | Weekly Nerd |
-
+| [Week 1](#week-1)  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
+| [Week 2](#week-2)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
+| [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
+| [Week 4](#week-4)  | Beoordelingsgesprekken | Beoordelingsgesprekken | Weekly Nerd |
 
 ### Week 1
+
 Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancement is en kennismaken met testen ~~en het device lab~~.
 
 #### Woensdag 10 maart
@@ -96,7 +96,7 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 ### Week 2
 
-In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we experimenteren met wat je kan doen als een browser of gebruiker een 'enhancement' niet kan tonen of zien? 
+In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren wat je kan doen als een browser of gebruiker een 'enhancement' niet kan tonen of zien.
 
 #### Woensdag 17 maart
 
@@ -105,8 +105,8 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | Woensdag 17/3 | Wat  |
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
-|  | [ Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 10:30 | Sessies: Core functionaliteit 🤼 |
+|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+| 10:30 | Sessies: Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 3 📖
@@ -115,7 +115,7 @@ Lezen voor les 3 📖
 
 #### Donderdag 18 maart
 
-Donderdag gaan we voorbeelden van PE en feature detection bespreken. Daarna aan de slag met je ontwerp.  
+Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en ohe je dit in 3 lagen zou kunnen bouwen.  
 
 🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs!
 
@@ -136,9 +136,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 19/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in clubje C |
-| 13:00 | Vorderingen bespreken in clubje A |
-| 14:30 | Vorderingen bespreken in clubje B |
+| 11:30 | Vorderingen bespreken in clubje C ✨ |
+| 13:00 | Vorderingen bespreken in clubje A ✨ |
+| 14:30 | Vorderingen bespreken in clubje B ✨ |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 3
@@ -161,7 +161,7 @@ Lezen voor les 5 📖
 
 Code review.
 
-🤟 Vandaag geeft Ischa Gast een presentatie. 
+🤟 Vandaag geeft Ischa Gast een presentatie.
 
 | Donderdag 25/3 | Wat  |
 |---|---|
@@ -179,9 +179,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 26/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in clubje B |
-| 13:00 | Vorderingen bespreken in clubje C |
-| 14:30 | Vorderingen bespreken in clubje A |
+| 11:30 | Vorderingen bespreken in clubje B ✨ |
+| 13:00 | Vorderingen bespreken in clubje C ✨ |
+| 14:30 | Vorderingen bespreken in clubje A ✨ |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 4
