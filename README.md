@@ -100,7 +100,7 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 #### Woensdag 17 maart
 
-Briefing van de eindopdracht en leren over Feature detection. Beginnen met ontwerpen van de interactieve toepassing, core functionaliteit bepalen, wireflows schetsen met user-delight.
+Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar !
 
 | Woensdag 17/3 | Wat  |
 |---|---|
@@ -115,9 +115,9 @@ Lezen voor les 3 📖
 
 #### Donderdag 18 maart
 
-Voorbeelden van PE en feature detection.
+Donderdag gaan we voorbeelden van PE en feature detection bespreken. Daarna aan de slag met je ontwerp.  
 
-🤟 Vandaag geeft Heydon Pickering een gastcollege om 14:00. Vorige week heb je een filmpjes van Hedon Pickering bekeken en zelf een metafoor voor PE bedacht en gepresenteerd. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en design.
+🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs!
 
 | Donderdag 18/3 | Wat  |
 |---|---|
