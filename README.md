@@ -77,7 +77,7 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 | 10:30 | College les 2 over Browser features |
 |  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per clubje |
-| 18:00 | Gastcollege Aaron Gustafson 🤟 |
+| 18:00 | Gastcollege Aaron Gustafson 🤟 <i>Wat wil je hem vragen over het PE?</i> |
 
 Lezen voor les 2 📖
 
@@ -106,7 +106,7 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 10:30 | Sessies: Sessies: User Deligt & Core functionaliteit ✨ |
+| 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
 
@@ -120,7 +120,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 |---|---|
 | 9:30 | College les 4 over form-validatie |
 | 10:30 | Sessies: Bouwen in 3 lagen ✨ |
-| 14:00 | Gastcollege Heydon Pickering 🤟 |
+| 14:00 | Q&A Heydon Pickering 🤟 <i>Wat wil je hem vragen over het web?</i> |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 4 📖
