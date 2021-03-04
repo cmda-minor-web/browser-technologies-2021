@@ -43,7 +43,7 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 | [Week 1](#week-1)  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
 | [Week 2](#week-2)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
 | [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Feedbackgesprekken  |
-| [Week 4](#week-4)  | Beoordelingsgesprekken | Beoordelingsgesprekken | Weekly Nerd |
+| [Week 4](#week-4)  | Beoordelingsgesprekken (Dinsdag en Woensdag) | Weekly Nerd | Goede vrijdag |
 
 ### Week 1
 
@@ -100,7 +100,7 @@ In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE
 
 #### Woensdag 17 maart
 
-Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar !
+Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar!
 
 | Woensdag 17/3 | Wat  |
 |---|---|
@@ -159,7 +159,7 @@ Lezen voor les 5 📖
 
 #### Donderdag 25 maart
 
-Code review.
+Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
 🤟 Vandaag geeft Ischa Gast een presentatie.
 
