@@ -77,7 +77,7 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 | 10:30 | College les 2 over Browser features |
 |  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per clubje |
-| 18:00 | Gastcollege Aaron Gustafson 🤟 <i>Wat wil je hem vragen over het PE?</i> |
+| 18:00 | Gastcollege Aaron Gustafson 🤟 |
 
 Lezen voor les 2 📖
 
@@ -114,13 +114,13 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 
 Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en hoe je dit in 3 lagen zou kunnen bouwen.  
 
-🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs!
+🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs! Wat wil je hem vragen over het web?
 
 | Donderdag 18/3 | Wat  |
 |---|---|
 | 9:30 | College les 4 over form-validatie |
 | 10:30 | Sessies: Bouwen in 3 lagen ✨ |
-| 14:00 | Q&A Heydon Pickering 🤟 <i>Wat wil je hem vragen over het web?</i> |
+| 14:00 | Q&A Heydon Pickering 🤟 |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 4 📖
