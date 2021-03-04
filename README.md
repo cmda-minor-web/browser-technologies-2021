@@ -63,6 +63,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
+
 #### Donderdag 11 maart
 
 Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van PE. Tijdens de bespreking is het een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
@@ -80,8 +81,7 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 
 Lezen voor les 2 📖
 
-- [Is progressive enhancement dead yet? by Heydon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
-- [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
+- [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
 #### Vrijdag 12 maart
 
@@ -106,29 +106,26 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 10:30 | Sessies: Sessies: User Deligt & Core functionaliteit ✨ |
+| 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 3 📖
-
-- [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
 
 #### Donderdag 18 maart
 
 Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en hoe je dit in 3 lagen zou kunnen bouwen.  
 
-🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs!
+🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs! Wat wil je hem vragen over het web?
 
 | Donderdag 18/3 | Wat  |
 |---|---|
 | 9:30 | College les 4 over form-validatie |
 | 10:30 | Sessies: Bouwen in 3 lagen ✨ |
-| 14:00 | Gastcollege Heydon Pickering 🤟 |
+| 14:00 | Q&A Heydon Pickering 🤟 |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 4 📖
 
-- asdasd
+- [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
 
 #### Vrijdag 19 maart
 
@@ -153,9 +150,6 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 | 10:30 | Sessies: Feature detectie en testen ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 5 📖
-
-- asdasd
 
 #### Donderdag 25 maart
 
@@ -171,7 +165,7 @@ Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
 Lezen voor les 6 📖
 
-- asdasd
+- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
 
 #### Vrijdag 26 maart
 
@@ -201,29 +195,6 @@ In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespre
 | 14:00 | [Weekly Nerd 2️⃣ ](https://github.com/cmda-minor-web/weekly-nerd-2021)|
 
 
-
-# artikelen
-
-Welke *moeten* de studenten wanneer lezen. Wat gaan we met de artikelen doen in de les? Hoe komt de stof weer terug?
-Welke artikelen komen voor in het college? Deze artikelen zijn *optioneel* en vormen de leeslijst. 
-
-## Toevoegen
-- Be progressive - Jeremy Keith
-https://adactio.com/journal/7706
-
-- A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences By  Therese Fessenden  on March 5, 2017 +  pyramide van Aaron Walter
-https://www.nngroup.com/articles/theory-user-delight/
-
-
-Ingteressante voorbeelden in week 2 bij opdract 3?
-- Responsible Web Applications By Joy Heron 
-https://responsibleweb.app
-
-In week 2, als studenten opdracht 3 hebben gekregen kunnen we ze 'the web I want' laten lezen? Inclusief de commments. Misschien kunnen ze met dat artikel vragen voorbereiden voor het college van hedon?
-- [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
-
-In week 3 het artikel 'make the web work for everyone'? Dat is wel een banger. Ook de visie van ons vak en de minor. Misschien mooi als voorbereiding op het gastcollege van 
-- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 

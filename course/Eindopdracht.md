@@ -52,8 +52,10 @@ Tegen welke PE ga je aanlopen?
 
 
 
+Deze hoort bij de opdracht
+- Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
 
-Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) en [A Theory of User Delight](https://www.nngroup.com/articles/theory-user-delight/)
+
 
 
 	Browser API's  linken 
