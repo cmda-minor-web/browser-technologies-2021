@@ -63,6 +63,10 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
+##### Resources 📖
+
+- the unreasonable effectiveness of simple HTML
+
 #### Donderdag 11 maart
 
 Donderdag gaan we in je Squad opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van PE. Tijdens de bespreking is het een goed moment om vragen te stellen over PE, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
