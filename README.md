@@ -63,9 +63,6 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 
-##### Resources 📖
-
-- the unreasonable effectiveness of simple HTML
 
 #### Donderdag 11 maart
 
@@ -84,8 +81,7 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 
 Lezen voor les 2 📖
 
-- [Is progressive enhancement dead yet? by Heydon Pickering](https://briefs.video/videos/is-progressive-enhancement-dead-yet/)
-- [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement)
+- The unreasonable effectiveness of simple HTML
 
 #### Vrijdag 12 maart
 
@@ -116,6 +112,7 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 Lezen voor les 3 📖
 
 - [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
+
 
 #### Donderdag 18 maart
 
