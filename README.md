@@ -81,7 +81,7 @@ In het college krijg je uitleg over de volgende opdracht. Voor opdracht 2 ga je 
 
 Lezen voor les 2 📖
 
-- The unreasonable effectiveness of simple HTML
+- [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
 #### Vrijdag 12 maart
 
@@ -125,7 +125,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 
 Lezen voor les 4 📖
 
-- Be progressive - Jeremy Keith https://adactio.com/journal/7706
+- [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
 
 #### Vrijdag 19 maart
 
@@ -165,7 +165,7 @@ Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
 Lezen voor les 6 📖
 
-- https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app
+- [A minimum viable experience makes for a resilient, inclusive website or app](https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app)
 
 #### Vrijdag 26 maart
 
