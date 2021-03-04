@@ -12,6 +12,8 @@ Heydon Pickering heeft een (geniaal) filmpje gemaakt over Progressive Enancement
 
 Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement).
 
+## Werkwijze
+
 ## Criteria
 
 - Werk in een groepje van 3 of 4 studenten

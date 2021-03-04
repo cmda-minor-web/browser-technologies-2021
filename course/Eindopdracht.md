@@ -25,6 +25,17 @@ Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je
 
 Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
 
+
+## Use Cases
+
+1. [Enquete over de minor Web Development](Usecase-enquete.md)
+2. [Nerdy T-Shirt](Usecase-t-nerdy-shirt.md)
+3. [Online poll met resultaten](Usecase-online-poll.md)
+4. [Online Foto album](Usecase-online-foto-album.md)
+5. [Routebeschrijving naar het Device Lab](Usecase-routebeschrijving-device-lab.md)
+6. [Sportwedstrijd score website](Usecase-score-website.md)
+7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
+
 ## Werkwijze
 
 Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
@@ -53,17 +64,6 @@ Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles
 	- lijst?
 	- UI patterns?
 
-
-
-## Use Cases
-
-1. [Enquete over de minor Web Development](Usecase-enquete.md)
-2. [Nerdy T-Shirt](Usecase-t-nerdy-shirt.md)
-3. [Online poll met resultaten](Usecase-online-poll.md)
-4. [Online Foto album](Usecase-online-foto-album.md)
-5. [Routebeschrijving naar het Device Lab](Usecase-routebeschrijving-device-lab.md)
-6. [Sportwedstrijd score website](Usecase-score-website.md)
-7. Heb je zelf een idee? Dat kan, schrijf een use case en kom even overleggen.
 
 
 ## Criteria
