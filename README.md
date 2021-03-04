@@ -109,10 +109,6 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | 10:30 | Sessies: Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 3 📖
-
-- [Why we use progressive enhancement to build GOV.UK](https://www.robinwhittleton.com/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/)
-
 
 #### Donderdag 18 maart
 
@@ -129,7 +125,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 
 Lezen voor les 4 📖
 
-- asdasd
+- Be progressive - Jeremy Keith https://adactio.com/journal/7706
 
 #### Vrijdag 19 maart
 
@@ -209,16 +205,8 @@ Welke *moeten* de studenten wanneer lezen. Wat gaan we met de artikelen doen in 
 Welke artikelen komen voor in het college? Deze artikelen zijn *optioneel* en vormen de leeslijst. 
 
 ## Toevoegen
-- Be progressive - Jeremy Keith
-https://adactio.com/journal/7706
-
-- A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences By  Therese Fessenden  on March 5, 2017 +  pyramide van Aaron Walter
-https://www.nngroup.com/articles/theory-user-delight/
 
 
-Ingteressante voorbeelden in week 2 bij opdract 3?
-- Responsible Web Applications By Joy Heron 
-https://responsibleweb.app
 
 In week 2, als studenten opdracht 3 hebben gekregen kunnen we ze 'the web I want' laten lezen? Inclusief de commments. Misschien kunnen ze met dat artikel vragen voorbereiden voor het college van hedon?
 - [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
