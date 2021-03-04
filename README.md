@@ -96,7 +96,7 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 ### Week 2
 
-In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren wat je kan doen als een browser of gebruiker een 'enhancement' niet kan tonen of zien.
+In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren hoe je een interactieve toepassing in 3 lagen kan ontwerpen en wat je kan doen als een browser of gebruiker een 'enhancement' niet kan tonen of zien.
 
 #### Woensdag 17 maart
 
@@ -106,7 +106,7 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 |---|---|
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
-| 10:30 | Sessies: Core functionaliteit ✨ |
+| 10:30 | Sessies: Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
 Lezen voor les 3 📖
@@ -115,7 +115,7 @@ Lezen voor les 3 📖
 
 #### Donderdag 18 maart
 
-Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en ohe je dit in 3 lagen zou kunnen bouwen.  
+Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en hoe je dit in 3 lagen zou kunnen bouwen.  
 
 🤟 Vandaag geeft [Heydon Pickering](https://heydonworks.com) een gastcollege om 14:00. Heydon Pickering is een web developer, hij geeft lezingen en schrijft over toegankelijkeid en web design o.a. voor [Smashing Magazin](https://www.smashingmagazine.com/author/heydon-pickering/). Vorige week heb je een metafoor voor PE bedacht naar aanleiding van een filmpje van Hedon Pickering zelf. Hij komt vandaag langs!
 

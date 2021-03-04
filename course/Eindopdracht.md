@@ -33,6 +33,15 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
 - De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
 
+
+
+Wireflow schetsen met user delight (en design patterns?) 
+Werken aan core functionaliteit, eind van de dag opleveren?
+Tegen welke PE ga je aanlopen?
+
+
+
+
 Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) en [A Theory of User Delight](https://www.nngroup.com/articles/theory-user-delight/)
 
 
@@ -75,3 +84,11 @@ Er is een Readme toegevoegd met daarin beschreven:
 	-	de meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
 -	Student kan de Basic functionaliteit van een use case doorgronden
 -	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development en de eigen opdracht
+
+
+In welke browsers moet het doen? Welke devices krijg je voor de eindtest?
+PE voorbeelden laten zien, live coding (Koop)
+browser toewijzen, virtueel device lab 
+2 desktop browsers (chromium en een niet chromium) 2 mobiele browsers
+2 devices: ios device en android, of 2 androids samsung en een niet samsung
+Voorbeelden per opdracht Kahoot, scoring frisbee, chatten met mediamarkt
