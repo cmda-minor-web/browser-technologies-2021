@@ -150,9 +150,6 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 | 10:30 | Sessies: Feature detectie en testen ✨ |
 | 16:00 | Checkout per clubje |
 
-Lezen voor les 5 📖
-
-- asdasd
 
 #### Donderdag 25 maart
 
@@ -168,7 +165,7 @@ Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
 Lezen voor les 6 📖
 
-- asdasd
+- https://piccalil.li/blog/a-minimum-viable-experience-makes-for-a-resilient-inclusive-website-or-app
 
 #### Vrijdag 26 maart
 
@@ -198,21 +195,6 @@ In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespre
 | 14:00 | [Weekly Nerd 2️⃣ ](https://github.com/cmda-minor-web/weekly-nerd-2021)|
 
 
-
-# artikelen
-
-Welke *moeten* de studenten wanneer lezen. Wat gaan we met de artikelen doen in de les? Hoe komt de stof weer terug?
-Welke artikelen komen voor in het college? Deze artikelen zijn *optioneel* en vormen de leeslijst. 
-
-## Toevoegen
-
-
-
-In week 2, als studenten opdracht 3 hebben gekregen kunnen we ze 'the web I want' laten lezen? Inclusief de commments. Misschien kunnen ze met dat artikel vragen voorbereiden voor het college van hedon?
-- [The Web I Want by Chris James](https://dev.to/quii/the-web-i-want-43o)
-
-In week 3 het artikel 'make the web work for everyone'? Dat is wel een banger. Ook de visie van ons vak en de minor. Misschien mooi als voorbereiding op het gastcollege van 
-- [Make the Web Work For Everyone by Justin Crawford, Chris Mills, Ali Spivak](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
