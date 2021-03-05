@@ -1,20 +1,20 @@
 # Browser Technologies @cmda-minor-web 20-21
+
 //Robuuste, toegankelijke websites ontwerpen en maken …
 
-Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ... 
+Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ...
 
 In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web is voor iedereen, in dit vak leer je hoe je daarvoor kan zorgen.
 
 ## Opdrachten
 
-het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht. 
+het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht.
 
 ### Opdracht 1 🛹 NPM install Progressive- enhancement
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
 - [Opdracht 1 - NPM install PRogressive Enhancement](course/Opdracht1.md)
-
 
 ### Opdracht 2 💔 Breek het Web
 
@@ -109,7 +109,6 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per clubje |
 
-
 #### Donderdag 18 maart
 
 Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeen bespreken en hoe je dit in 3 lagen zou kunnen bouwen.  
@@ -149,7 +148,6 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 | 9:30 | College les 5 over Viewports |
 | 10:30 | Sessies: Feature detectie en testen ✨ |
 | 16:00 | Checkout per clubje |
-
 
 #### Donderdag 25 maart
 
@@ -192,9 +190,7 @@ In week 4 wordt de eindopdracht beoordeeld. Dan gaan we je werk bekijken, bespre
 
 | Donderdag 1/4 | Wat  |
 |---|---|
-| 14:00 | [Weekly Nerd 2️⃣ ](https://github.com/cmda-minor-web/weekly-nerd-2021)|
-
-
+| 14:00 | [Weekly Nerd 2️⃣](https://github.com/cmda-minor-web/weekly-nerd-2021)|
 
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
