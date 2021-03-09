@@ -25,8 +25,6 @@ Optioneel mag je ook één van deze features onderzoeken:
 - b. Ad blockers (privacy)
 - c. Browser detect
 
-## Werkwijze
-
 
 ## Criteria
 
