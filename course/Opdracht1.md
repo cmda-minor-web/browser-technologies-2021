@@ -4,11 +4,14 @@ Leg in eigen woorden uit wat Progressive Enancement is en presenteer het als web
 
 ## Doel van deze opdracht
 
-Het doel van deze opdracht is onderzoeken en presenteren wat Progressive Enhancement is.
+Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is.
 
 ## Uitleg
 
-Heydon Pickering heeft een (geniaal) filmpje gemaakt over Progressive Enancement (PE) [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). Voor deze opdracht ga je in een groepje een eigen metafoor voor PE bedenken en op een website presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, bedenken hoe je kan testen of een website of functionaliteit goed PE is opgebouwd en laat een of meerdere voorbeelden zien.
+Progressive Enhancement? Geleidelijke verbtering? Piiiii Eeeeeee? Wat is dat? Je hebt er misschihen wel eens over geoord, of gelezen. Maar wat kan je er mee? Is het moeilijk? 
+Heydon Pickering heeft een (geniaal) filmpje gemaakt over het nut van Progressive Enancement (PE) [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). 
+
+Voor deze opdracht ga je in een groepje zelf een metafoor voor PE bedenken en op een website presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, bedenken hoe je kan testen of een website of functionaliteit goed PE is opgebouwd en laat een of meerdere voorbeelden zien.
 
 Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement).
 
@@ -18,4 +21,4 @@ Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](
 
 - Werk in een groepje van 3 of 4 studenten
 - Presenteer je onderzoek op een webpagina op Github
-- Bronnen die je hebt gebruikt opnemen in de pagina (footer?)
+- Neem bronnen die je hebt gebruikt op in de pagina (footer?)
