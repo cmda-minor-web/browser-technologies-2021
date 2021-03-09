@@ -1,6 +1,6 @@
 # Browser Technologies - De eindopdracht ✨ Progressive Enhanced Browser Technologie
 
-Voor deze opdracht ga je een demo maken op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
+Voor deze opdracht ga je een  demo maken op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de core functionaliteit te zien, horen en/of voelen krijgen.
 
 Bouw je demo volgens het principe van Progressive Enhancement.
 
@@ -44,21 +44,17 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
 - De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
 
-
-
 Wireflow schetsen met user delight (en design patterns?) 
 Werken aan core functionaliteit, eind van de dag opleveren?
 Tegen welke PE ga je aanlopen?
 
 
 
-Deze hoort bij de opdracht
+<!--
+Deze artikelen horen bij de opdracht
 - Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
 
-
-
-
-	Browser API's  linken 
+	Browser API's om te odnerzoeken, check dit:
 	- https://platform.html5.org
 	- https://developer.mozilla.org/en-US/docs/Web/API
 
@@ -66,6 +62,12 @@ Deze hoort bij de opdracht
 	- lijst?
 	- UI patterns?
 
+
+	Feature lijst van opdracht 2
+	om mee te testen
+	
+	Browser Stack om te testen
+-->
 
 
 ## Criteria
@@ -88,9 +90,11 @@ Er is een Readme toegevoegd met daarin beschreven:
 -	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development en de eigen opdracht
 
 
+<!--
 In welke browsers moet het doen? Welke devices krijg je voor de eindtest?
 PE voorbeelden laten zien, live coding (Koop)
 browser toewijzen, virtueel device lab 
 2 desktop browsers (chromium en een niet chromium) 2 mobiele browsers
 2 devices: ios device en android, of 2 androids samsung en een niet samsung
 Voorbeelden per opdracht Kahoot, scoring frisbee, chatten met mediamarkt
+-->
