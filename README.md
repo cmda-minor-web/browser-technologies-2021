@@ -57,7 +57,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 |---|---|
 | 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
 |  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enancement](course/Opdracht1.md) |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 
 ##### Lezen voor les 1 📖
 
@@ -76,7 +76,7 @@ In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je probere
 | 9:30 | Opdracht 1 bespreken in Squads 🛹 |
 | 10:30 | College les 2 over Browser features |
 |  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 | 18:00 | Gastcollege Aaron Gustafson 🤟 |
 
 Lezen voor les 2 📖
@@ -107,7 +107,7 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | 9:30 | College les 3 over browsers, browser detect, support detection en web views |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
 | 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 
 #### Donderdag 18 maart
 
@@ -120,7 +120,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 | 9:30 | College les 4 over form-validatie |
 | 10:30 | Sessies: Bouwen in 3 lagen ✨ |
 | 14:00 | Q&A Heydon Pickering 🤟 |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 
 Lezen voor les 4 📖
 
@@ -147,7 +147,7 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 |---|---|
 | 9:30 | College les 5 over Viewports |
 | 10:30 | Sessies: Feature detectie en testen ✨ |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 
 #### Donderdag 25 maart
 
@@ -159,7 +159,7 @@ Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 |---|---|
 | 9:30 | Gastcollege Ischa Gast 🤟 |
 | 10:30 | Sessies: Code-reviews ✨ |
-| 16:00 | Checkout per clubje |
+| 16:00 | Checkout per team |
 
 Lezen voor les 6 📖
 
