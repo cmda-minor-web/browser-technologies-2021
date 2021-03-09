@@ -17,9 +17,8 @@ Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](
 
 ## Criteria
 
-- Je hebt in eigen woorden Progressive Enancement uitgelegd
-- Je hebt voorbeelden gebruikt om Progressive Enancement duidelijk te maken
-- Je hebt Progressive Enhancement gevisualiseerd met een metafoor. Je metafoor mag geen skateboard of roltrap zijn
+- Je hebt in eigen woorden en met voorbeelden uitgelegd wat Progressive Enancement is
+- Je hebt Progressive Enhancement gevisualiseerd met een metafoor. (Je metafoor mag geen skateboard of roltrap zijn)
 - Werk samen in een clubje van 3 of 4 studenten (half team)
 - Presenteer je onderzoek op een webpagina op Github
 - Neem bronnen die je hebt gebruikt op in de pagina (footer?)
