@@ -8,7 +8,9 @@ Het doel van deze opdracht is onderzoeken wat Progressive Enhancement is.
 
 ## Uitleg
 
-Progressive Enhancement? prəˈɡres.ɪv ɪnˈhæns.mənt. Geleidelijke verbetering? Piiiii IEieieieieieie? Wat is dat? Wellicht hebt je er wel eens over gehoord, of gelezen. Maar wat kan je er mee? Wat is het? Is het moeilijk? In de eerste les van Browser Technolgies is het woord al 20 keer gevallen. Nu durf je bijna niet meer te vragen wat het betekent. Maar niet getreurd, na opdracht 1 weet jij alles van PE ...
+Progressive Enhancement? prəˈɡres.ɪv ɪnˈhæns.mənt. Geleidelijke verbetering? Piiiii IEieieieieieie??? Wat is dat? 
+
+Wellicht hebt je wel eens gehoord van Progressive Enhancement. Maar wat kan je er mee? Hoe werkt dat? Is het moeilijk? In de eerste les van Browser Technolgies is het woord al 20 keer gevallen. Nu durf je bijna niet meer te vragen wat het betekent. Maar niet getreurd, na opdracht 1 weet jij alles van PE ...
 
 Heydon Pickering heeft onlangs een (geniaal) filmpje gemaakt over het nut van Progressive Enancement: [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). In zijn filmpje gebruikt hij een metafoor van een skateboard om Progressive Enhancement uit te leggen. Voor deze opdracht ga je in een clubje zelf een metafoor voor PE bedenken en op een webpagina presenteren. Leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is, bedenken hoe je kan testen of een website goed PE is opgebouwd en laat een of meerdere voorbeelden zien.
 
