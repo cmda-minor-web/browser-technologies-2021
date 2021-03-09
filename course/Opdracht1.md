@@ -20,7 +20,7 @@ Wat is dat?
 
 Wellicht hebt je wel eens gehoord van Progressive Enhancement. Maar wat kan je er mee? Hoe werkt dat? Is het moeilijk? In de eerste les van Browser Technolgies is het woord al 20 keer gevallen. Nu durf je bijna niet meer te vragen wat het betekent. Maar niet getreurd, na deze opdracht weet jij alles van PE ...
 
-Heydon Pickering heeft onlangs een (geniaal) filmpje gemaakt over het nut van Progressive Enancement: [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). In zijn filmpje gebruikt hij een metafoor van een skateboard om Progressive Enhancement uit te leggen. Voor deze opdracht bedenk je met je clubje een eigen metafoor voor PE , leg in eigen woorden uit wat PE is, geef voorbeelden waarom het belangrijk is en bedenk hoe je kan testen of een website goed PE is opgebouwd. Presenteer je metafoor en uitleg op een webpagina. 
+Heydon Pickering heeft onlangs een (geniaal) filmpje gemaakt over het nut van Progressive Enancement: [Is progressive enhancement dead yet?](https://briefs.video/videos/is-progressive-enhancement-dead-yet/). In zijn filmpje gebruikt hij een metafoor van een skateboard om Progressive Enhancement uit te leggen. Voor deze opdracht bedenk je met je clubje een eigen metafoor voor PE en moet je in eigen woorden uitleggen wat PE is. Geef voorbeelden waarom het belangrijk is en bedenk hoe je kan testen of een website goed PE is opgebouwd. Presenteer je metafoor en uitleg op een webpagina. 
 <br> [SPOILER ALERT] Volgende week donderdag komt Heydon Pickering langs voor een gastcollege.
 
 
