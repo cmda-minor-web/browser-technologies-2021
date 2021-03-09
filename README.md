@@ -14,7 +14,7 @@ het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf
 
 Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
 
-- [Opdracht 1 - NPM install PRogressive Enhancement](course/Opdracht1.md)
+- [Opdracht 1 - NPM install Progressive Enhancement](course/Opdracht1.md)
 
 ### Opdracht 2 💔 Breek het Web
 
@@ -56,7 +56,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 | Woensdag 10/3 | Wat  |
 |---|---|
 | 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
-|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enancement](course/Opdracht1.md) |
+|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/Opdracht1.md) |
 | 16:00 | Checkout per team |
 
 ##### Lezen voor les 1 📖
