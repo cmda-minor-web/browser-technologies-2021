@@ -28,9 +28,10 @@ Optioneel mag je ook één van deze features onderzoeken:
 
 ## Criteria
 
-- Onderzoek minimaal 2 features
-- Zoek uit welke problemen ze kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
+- Elke student onderzoekt 2 features
+- Verdeel alle features in je team, met het team worden alle feautures 1 of 2 keer onderzocht  
+- Zoek uit welke problemen de features kunnen veroorzaken (verzamel cijfers, meningen, ervaringen)
 - Zoek uit hoe je dit kunt testen (hoe kun je een feature ‘uitzetten’)
 - Vind een aantal sites waar dit ook problemen oplevert (uit je directe omgeving)
 - Beschrijf hoe je dit kan fiksen
-- Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in clubjes. 
+- Neem je bevindingen en voorbeelden mee naar de les, de resultaten bespreken we in de teams 
