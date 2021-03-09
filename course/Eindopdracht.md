@@ -79,7 +79,7 @@ Er is een Readme toegevoegd met daarin beschreven:
 -	een beschrijving van de feature(s)/Browser Technologies
 -	een lijst met de vier browsers waarin je gaat testen, plus welke functionaliteiten zoals JavaScript je aan en uit zet tijdens de tests.	(Op desktop 1 Chromium 1 niet-Chromium, op mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android.)
 -	welke browsers de feature(s) wel/niet ondersteunen
--	een beschrijving van de accessibility issues die zijn onderzocht
+-	een beschrijving van de accessibility issues die zijn onderzocht + screenreader test
 -	beschrijving PE en oplossingen toevoegen
 -	De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
 -	De user experience van de demo is goed
