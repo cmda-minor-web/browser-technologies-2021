@@ -55,13 +55,15 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 
 | Woensdag 10/3 | Wat  |
 |---|---|
-| 9:30 | College les 1 over het vak, wie, wat, waar en PE  |
+| 9:30 | [College les 1 over het vak, wie, wat, waar en PE](course/BT2021-les1-progressive-enhancement.pdf)  |
 |  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/Opdracht1.md) |
 | 16:00 | Checkout per team |
 
 ##### Lezen voor les 1 📖
 
 - [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+
+
 
 
 #### Donderdag 11 maart
