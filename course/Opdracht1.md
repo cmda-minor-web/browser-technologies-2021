@@ -31,6 +31,13 @@ Presenteer je metafoor en uitleg op een webpagina.
 Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](https://alistapart.com/article/understandingprogressiveenhancement) en gebruik dit als bron. 
 <br> [SPOILER ALERT] Donderdag komt Aaron Gustafson langs voor een gastcollege. 
 
+## Werkwijze
+
+1. Woensdagochtend briefing opdracht 
+2. Clubjes maken en aan de slag
+3. Woensdagmiddag chehckout met studentassistent
+4. Donderdagochtend besperken van de resultaten in de Squad
+
 
 ## Criteria
 
