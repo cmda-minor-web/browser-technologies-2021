@@ -33,9 +33,8 @@ Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](
 
 ## Werkwijze
 
-1. Woensdagochtend briefing opdracht 
-2. Clubjes maken en aan de slag
-3. Woensdagmiddag chehckout met studentassistent
+1. Woensdagochtend briefing opdracht, dan clubjes maken en aan de slag
+3. Woensdagmiddag checkout met studentassistent
 4. Donderdagochtend besperken van de resultaten in de Squad
 
 
