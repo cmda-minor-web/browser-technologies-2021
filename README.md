@@ -92,9 +92,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdracht 2 bespreken in team A 💔 |
-| 13:00 | Opdracht 2 bespreken in team B 💔 |
-| 14:30 | Opdracht 2 bespreken in team C 💔 |
+| 11:30 | Opdracht 2 bespreken in team C 💔 |
+| 13:00 | Opdracht 2 bespreken in team A 💔 |
+| 14:30 | Opdracht 2 bespreken in team B 💔 |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
@@ -135,9 +135,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 19/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in team C ✨ |
-| 13:00 | Vorderingen bespreken in team A ✨ |
-| 14:30 | Vorderingen bespreken in team B ✨ |
+| 11:30 | Vorderingen bespreken in team B ✨ |
+| 13:00 | Vorderingen bespreken in team C ✨ |
+| 14:30 | Vorderingen bespreken in team A ✨ |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 3
@@ -174,9 +174,9 @@ Vrijdag bespreken we in clubjes de vorderingen voor de eindopdracht. Zorg dat je
 
 | Vrijdag 26/3 | Wat  |
 |---|---|
-| 11:30 | Vorderingen bespreken in team B ✨ |
-| 13:00 | Vorderingen bespreken in team C ✨ |
-| 14:30 | Vorderingen bespreken in team A ✨ |
+| 11:30 | Vorderingen bespreken in team A ✨ |
+| 13:00 | Vorderingen bespreken in team B ✨ |
+| 14:30 | Vorderingen bespreken in team C ✨ |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 4
