@@ -83,9 +83,9 @@ ul.gallery li h3{
 ul.gallery li p{
   /* flex-grow: 3; */
 }
-ul.gallery li a{
+/* ul.gallery li a{
   color:white;
-}
+} */
 section#lecturers img {
   border-radius: 100%;
   margin-right: 1em;
