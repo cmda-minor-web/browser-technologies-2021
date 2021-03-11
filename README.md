@@ -77,7 +77,7 @@ In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je probere
 | Donderdag 11/3 | Wat  |
 |---|---|
 | 9:30 | Opdracht 1 bespreken in Squads 🛹 |
-| 10:30 | College les 2 over Browser features |
+| 10:30 | [College les 2 over Browser features](BT2021-les2-progressive-enhancement.pdf) |
 |  | [Briefing Opdracht 2 💔 Breek het web](course/Opdracht2.md) |
 | 16:00 | Checkout per team |
 | 18:00 | Gastcollege Aaron Gustafson 🤟 |
