@@ -33,14 +33,14 @@ Lees ook het artikel [Understanding Progressive Enhancement by Aaron Gustafson](
 
 ## Werkwijze
 
-1. Woensdagochtend briefing opdracht, dan clubjes maken en aan de slag
+1. Werk samen in een clubje van 3 of 4 studenten (half team)
+2. Woensdagochtend briefing opdracht, dan clubjes maken en aan de slag
 3. Woensdagmiddag checkout met studentassistent
 4. Donderdagochtend resultaten bespreken in de Squad
 
 
 ## Criteria
 
-- Werk samen in een clubje van 3 of 4 studenten (half team)
 - Leg in eigen woorden uit wat Progressive Enancement is en geef voorbeelden
 - Visualisser Progressive Enhancement met een eigen metafoor. (geen skateboard, roltrap of M&M)
 - Presenteer je onderzoek op een webpagina op Github
