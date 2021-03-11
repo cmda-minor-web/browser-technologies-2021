@@ -34,6 +34,10 @@ h2 {
   font-size: 2em;
   margin-top: 1.5em;
 }
+h3 {
+  font-size: 2em;
+}
+
 ul {
   display: flex;
   /flex-wrap: wrap;
@@ -55,6 +59,31 @@ ul img {
 }
 img {
   max-width: 100%;
+}
+
+ul.gallery{
+  flex-direction: column;
+}
+ul.gallery li{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+ul.gallery li > * {
+  padding: 0.5em;
+  flex: 1 100%;
+}
+
+ul.gallery img{
+/* width: 20em; */
+/* flex-grow: 2; */
+
+}
+ul.gallery li h3{
+ /* width: 100%; */
+}
+ul.gallery li p{
+  /* flex-grow: 3; */
 }
 
 section#lecturers img {
