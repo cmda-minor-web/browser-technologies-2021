@@ -94,4 +94,9 @@ browser toewijzen, virtueel device lab
 2 desktop browsers (chromium en een niet chromium) 2 mobiele browsers
 2 devices: ios device en android, of 2 androids samsung en een niet samsung
 Voorbeelden per opdracht Kahoot, scoring frisbee, chatten met mediamarkt
+
+MUIS
+TOETSENBORD
+TOUCH
+
 -->
