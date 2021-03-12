@@ -92,9 +92,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdracht 2 bespreken in team C 💔 |
-| 13:00 | Opdracht 2 bespreken in team A 💔 |
-| 14:30 | Opdracht 2 bespreken in team B 💔 |
+| 11:30 | [Opdracht 2 bespreken](course/BT2021-opdrachht-2-8-features.pdf) in team C 💔 |
+| 13:00 | [Opdracht 2 bespreken](course/BT2021-opdrachht-2-8-features.pdf) in team A 💔 |
+| 14:30 | [Opdracht 2 bespreken](course/BT2021-opdrachht-2-8-features.pdf) in team B 💔 |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
