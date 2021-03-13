@@ -15,8 +15,7 @@ body {
 main {
   max-width: 50rem;
   margin: 10vh auto;
-  padding: 0 2rem;
-
+  padding: 0 1rem;
 }
 header {
   background: var(--course);
@@ -37,70 +36,6 @@ h2 {
 h3 {
   font-size: 2em;
 }
-
-ul {
-  display: flex;
-  /flex-wrap: wrap;
-  justify-content: space-between;
-  list-style-type: none;
-  padding: 0;
-  margin: 0 -1rem;
-}
-ul li {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 1rem;
-}
-ul img {
-  border: 2px solid var(--light);
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-img {
-  max-width: 100%;
-}
-
-ul.gallery{
-  flex-direction: column;
-}
-ul.gallery li{
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-}
-ul.gallery li > * {
-  padding: 0.5em;
-  flex: 1 100%;
-}
-ul.gallery img{
-/* width: 20em; */
-/* flex-grow: 2; */
-}
-ul.gallery li h3{
- /* width: 100%; */
-}
-ul.gallery li p{
-  /* flex-grow: 3; */
-}
-/* ul.gallery li a{
-  color:white;
-} */
-section#lecturers img {
-  border-radius: 100%;
-  margin-right: 1em;
-}
-
-.button {
-  background: var(--light);
-  color: var(--dark);
-  padding: 1em;
-}
-
-.examples img {
-  max-width: 25vh;
-}
-
 a,
 a:visited {
   color: var(--course);
@@ -110,6 +45,116 @@ a:focus {
   background:var(--course);
   color: var(--dark);
 }
+.button {
+  background: var(--light);
+  color: var(--dark);
+  padding: 1em;
+}
+
+ul {
+  /* background: pink; */
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  width: 100%;
+  overflow-x: hidden;
+}
+ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin: 1rem; */
+}
+ul img {
+  border: 0.1rem solid var(--light);
+  /* margin-top: 2em;
+  margin-bottom: 2em; */
+}
+img {
+  max-width: 100%;
+}
+
+
+/* GALLERY */
+section#gallery{ }
+ul.gallery{
+  flex-direction: column;
+}
+ul.gallery li{
+  border-bottom: var(--course) solid 0.2rem;
+  margin-bottom: 4rem;
+  display: flex;
+  /* flex-direction: row; */
+  align-items: flex-start;
+}
+ul.gallery li > * {
+  padding: 0.5em;
+  flex: 1 100%;
+}
+ul.gallery img{
+  /* width: 20em; */
+  /* flex-grow: 2; */
+  /* margin: 1rem 0; */
+  /* max-width: 25rem; */
+}
+ul.gallery li h3{
+ /* width: 100%; */
+ margin-top: 0;
+}
+ul.gallery li p{
+  /* flex-grow: 3; */
+}
+
+
+/* LECTURERS & SPEAKER */
+section#lecturers{ }
+section#speakers{ }
+section#lecturers ul, section#speakers ul{
+  width: 100%;
+  overflow-x: scroll;
+  margin: 0 -1rem;
+  padding: 0 1rem;
+
+	flex-wrap: nowrap;
+	flex-direction: row;
+}
+section#lecturers li, section#speakers li{
+  /* width: 40em; */
+  /* flex: 1 100%; */
+  flex-shrink: 0;
+  margin-right: 1rem;
+}
+section#lecturers img {
+  border-radius: 100%;
+  margin-right: 1em;
+  max-width: 12rem;
+}
+section#speakers img{
+  margin-right: 1em;
+  max-width: 12rem;
+}
+.examples img {
+  max-width: 25vh;
+}
+
+/* FOOTER */
 footer {
   font-style: italic;
+  /* max-width: 30rem; */
+}
+
+@media screen and (min-width: 36rem) {
+  body {
+    /* background-color: pink; */
+  }
+  ul.gallery li{
+    flex-direction: row;
+  }
+  ul.gallery li a{
+    order: 2;
+  }
+
 }
