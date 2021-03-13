@@ -55,7 +55,7 @@ Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg ov
 
 | Woensdag 10/3 | Wat  |
 |---|---|
-| 9:30 | [College les 1 over het vak, wie, wat, waar en PE](course/BT2021-les1-progressive-enhancement.pdf)  |
+| 9:30 | [College les 1 over het vak, wie, wat, waar en waarom](course/BT2021-les1-progressive-enhancement.pdf)  |
 |  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](course/Opdracht1.md) |
 | 16:00 | Checkout per team |
 
@@ -92,9 +92,9 @@ Vrijdag bespreken we in clubjes opdracht 2. Zorg dat je de bevindingen van je on
 
 | Vrijdag 12/3 | Wat  |
 |---|---|
-| 11:30 | Opdracht 2 bespreken in team C 💔 |
-| 13:00 | Opdracht 2 bespreken in team A 💔 |
-| 14:30 | Opdracht 2 bespreken in team B 💔 |
+| 11:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team C 💔 |
+| 13:00 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team A 💔 |
+| 14:30 | [Opdracht 2 bespreken](course/BT2021-opdracht-2-8-features.pdf) in team B 💔 |
 | 16:00 | Work Hard Play Hard |
 
 ### Week 2
