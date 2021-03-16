@@ -18,6 +18,7 @@ Bouw je demo in 3 lagen, volgens het principe van _Progressive Enhancement_.
 
 Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [Browser Technologie](https://platform.html5.org) die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning.
 Je onderzoekt hoe je verschillende _features_ door verschillende browsers worden ondersteund en hoe je voor goede fallback kan zorgen. Test de _features_ op verschillende browsers <del>en het Device Lab</del>.
+
 Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je doen wat je wil. Wat voor deze opdracht telt, is de HTML/CSS/JavaScript die aan de browser wordt aangeleverd.
 
 Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.com), [css3test.com](http://css3test.com) en [kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)
@@ -41,29 +42,28 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 - Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
 - De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
 
+
+<!--
+
 Wireflow schetsen met user delight (en design patterns?) 
 Werken aan core functionaliteit, eind van de dag opleveren?
 Tegen welke PE ga je aanlopen?
 
 
-
-<!--
 Deze artikelen horen bij de opdracht
 - Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
 
-	Browser API's om te odnerzoeken, check dit:
-	- https://platform.html5.org
-	- https://developer.mozilla.org/en-US/docs/Web/API
+Browser API's om te odnerzoeken, check dit:
+- https://platform.html5.org
+- https://developer.mozilla.org/en-US/docs/Web/API
 
-	Design pattens voor Usability?
-	- lijst?
-	- UI patterns?
+Design pattens voor Usability?
+- lijst?
+- UI patterns?
 
-
-	Feature lijst van opdracht 2
-	om mee te testen
+Feature lijst van opdracht 2 om mee te testen
 	
-	Browser Stack om te testen
+Browser Stack om te testen
 -->
 
 
