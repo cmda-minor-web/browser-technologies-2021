@@ -9,7 +9,7 @@
 	- naam
 	- docent(en)
 	- weken waarin je het vak deed
-	- - beoordeling op schaal 1-10 van
+	- beoordeling op schaal 1-10 van
 	- lesstof (hoe moeilijk is het)
 	- uitleg (hoe duidelijk is het uitgelegd)
 	- eigen inzicht (hoe goed snap je het)
