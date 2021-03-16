@@ -6,7 +6,7 @@ Voor deze opdracht ga je een interactieve toepassing ontwerpen. Zorg dat alle ge
 
 ## Doel van deze opdracht
 
-Het doel van deze opdracht is te leren hoe je een online interactieve toepassing zo kan maken met behulp van _Progressive Enhancement_ en _Feature Detection_ dat deze het altijd doet ...
+Het doel van deze opdracht is te leren hoe je een online interactieve toepassing kan maken met behulp van _Progressive Enhancement_ en _Feature Detection_ zodat die het altijd doet ...
 
 [Rubric](https://docs.google.com/spreadsheets/d/1MV3BWwwg_Zz1n-S_qOM4iSm4gA4M6g0xAxGacyaPuac/)
 
