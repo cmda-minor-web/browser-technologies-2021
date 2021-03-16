@@ -1,6 +1,6 @@
 # Browser Technologies - De eindopdracht - Nerdy T-shirt
 
-> Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, printen, opslaan, en een volgende keer dat ik de site bezoek kunnen gebruiken.
+> Ik wil mijn eigen t-shirt-met-nerdy-tekst kunnen ontwerpen, opslaan, bestellen, en een volgende keer dat ik de site bezoek kunnen gebruiken.
 
 ## Vereisten
 -	Gegevens maker (naam, telefoon of email)
