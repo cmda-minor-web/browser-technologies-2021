@@ -1,6 +1,6 @@
 # Browser Technologies - De eindopdracht - Online Foto album
 
-> Ik wil series foto's kunnen aanmaken, bekijken en editen.
+> Ik wil een serie foto's van mijn vakantie kunnen bekijken, ik wil nieuwe foto's aan de serie kunnen toevoegen en een selectie in een carrousel kunnen bekijken.
 
 ## Vereisten
 
