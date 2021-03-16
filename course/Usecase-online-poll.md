@@ -1,6 +1,6 @@
 # Browser Technologies - De eindopdracht - Online poll met resultaten
 
-> Ik wil aan mensen een poll kunnen voorleggen met vragen en antwoorden, en de resultaten meteen laten zien.
+> Ik wil tijdens een college aan studenten een poll kunnen voorleggen met vragen en antwoorden, en de resultaten meteen laten zien.
 
 ## Vereisten
 - Admin-pagina's
