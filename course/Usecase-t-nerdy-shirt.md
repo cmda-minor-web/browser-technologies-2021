@@ -8,11 +8,10 @@
 -	Tekst t-shirt
 -	Maat t-shirt
 -	M/V
--	Ontwerp printen
--	Ontwerp kopen en laten maken (hiervoor hoef je alleen de web-interface te maken)
 -	Verder gaan waar je gebleven bent/ontwerp herzien
 -	Validatie: alles moet zijn ingevuld. Geef duidelijke foutmeldingen
 -	Gebruiker moet meerdere t-shirts kunnen maken en herzien, en moet dus een overzichtspagina hebben.
+-	Bestel pagina om een ontwerp kopen en laten maken 
 
 <!--
 Suggesties voor Browser API's linken 
