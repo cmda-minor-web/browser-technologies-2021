@@ -16,8 +16,8 @@ Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle brow
 
 Bouw je demo in 3 lagen, volgens het principe van _Progressive Enhancement_.
 
-Gebruik als enhancement een (innovatieve, vooruitstrevende, onbekende, nieuwe) [Browser Technologie](https://platform.html5.org) die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning.
-Je onderzoekt hoe je verschillende _features_ door verschillende browsers worden ondersteund en hoe je voor goede fallback kan zorgen. Test de _features_ op verschillende browsers <del>en het Device Lab</del>.
+Gebruik als enhancement een [Browser Technologie](https://platform.html5.org) die je gaat onderzoeken op functionaliteit, toegankelijkheid en (browser) ondersteuning.
+Je onderzoekt hoe je verschillende _features_ door verschillende browsers worden ondersteund, hoe je voor goede fallback kan zorgen en je test de _features_ op verschillende browsers <del>en het Device Lab</del>.
 
 Polyfills en NPM packages op de client zijn niet toegestaan, op de server kun je doen wat je wil. Wat voor deze opdracht telt, is de HTML/CSS/JavaScript die aan de browser wordt aangeleverd.
 
@@ -51,17 +51,22 @@ Tegen welke PE ga je aanlopen?
 
 
 Deze artikelen horen bij de opdracht
-- Gebruik [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
 
-Browser API's om te odnerzoeken, check dit:
-- https://platform.html5.org
-- https://developer.mozilla.org/en-US/docs/Web/API
+The Role of Enhancement in Web Design
+[The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
 
-Design pattens voor Usability?
-- lijst?
-- UI patterns?
+Functional/Reliable, Usable, Pleasurable
+https://www.nngroup.com/articles/theory-user-delight/
+
+Wireflows tekenen
+https://www.nngroup.com/articles/wireflows/
+
+Principles of User Interface Design (04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best)
+http://bokardo.com/principles-of-user-interface-design/
 
 Feature lijst van opdracht 2 om mee te testen
+
+
 	
 Browser Stack om te testen
 -->
@@ -69,22 +74,29 @@ Browser Stack om te testen
 
 ## Criteria
 
-Een link naar de demo
-
-Er is een Readme toegevoegd met daarin beschreven:
--	Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
--	een beschrijving van de feature(s)/Browser Technologies
--	een lijst met de vier browsers waarin je gaat testen, plus welke functionaliteiten zoals JavaScript je aan en uit zet tijdens de tests.	(Op desktop 1 Chromium 1 niet-Chromium, op mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android.)
--	welke browsers de feature(s) wel/niet ondersteunen
--	een beschrijving van de accessibility issues die zijn onderzocht + screenreader test
--	beschrijving PE en oplossingen toevoegen
+-	Student kan de Basic functionaliteit van een use case doorgronden
+-	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
 -	De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
 -	De user experience van de demo is goed
-	-	de leesbaarheidsregels zijn toegepast, contrast en kleuren kloppen
-	-	het heeft een gebruiksvriendelijke interface, met gebruikmaking van affordance en feedback op de interactieve elementen
-	-	de meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
--	Student kan de Basic functionaliteit van een use case doorgronden
--	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development en de eigen opdracht
+	-	Let op leesbaarheidsregels, contrast en kleuren
+	-	Let op gebruiksvriendelijkheid, zoals affordance en feedback op de interactieve elementen
+	-	De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
+
+
+Er is een Readme toegevoegd met daarin:
+- Een link naar de demo.
+- Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
+- Een beschrijving van de feature(s)/Browser Technologies die in je demo zijn gebruikt en hoe je dit PE hebt toegepast
+- Een lijst met vier browsers waarin je hebt getest en een testverslag: 
+	- voor de desktop 1 Chromium 1 niet-Chromium browser, 
+	- voor mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android)
+	- welke browsers de feature(s) wel/niet ondersteunen
+	- welke functionaliteiten zoals JavaScript je aan en uit hebt gezet in de tests
+	- een beschrijving van de feature-lijst die zijn onderzocht
+	- een screenreader test
+
+
+
 
 
 <!--
