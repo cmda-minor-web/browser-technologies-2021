@@ -56,7 +56,7 @@ a:focus {
 }
 
 ul {
-  background: pink;
+  /background: pink;
   display: flex;
   justify-content: space-between;
   list-style-type: none;
