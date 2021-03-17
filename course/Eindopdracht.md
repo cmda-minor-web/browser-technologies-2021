@@ -44,7 +44,7 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 
 ### Bronnen
 
-Hier staat een lijst [Browser Technolgies](https://platform.html5.org/) die je kan toepassen. Bekijk welke nieuwe, innovatieve, interessante techniek je kan gebruiken voor je ontwerp.
+Hier staat een lijst [Browser Technolgies](https://platform.html5.org/) die je kan toepassen. Bekijk welke nieuwe, innovatieve, interessante techniek je kan gebruiken voor je ontwerp. Of kijk de [WEB API](https://developer.mozilla.org/en-US/docs/Web/API) lijst op MDN, daar zitten echt coole API's tussen die misschien leuk zijn voor je pleasurable layer. Bluetooth api, gamepad API(voor controllers!)
 
 Lees 
 [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
