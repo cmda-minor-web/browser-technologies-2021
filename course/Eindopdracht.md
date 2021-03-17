@@ -49,7 +49,7 @@ Lees
 Lees 
 [A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences](https://www.nngroup.com/articles/theory-user-delight/) voor een uitleg over Functional/Reliable, Usable, Pleasurable lagen en de piramide van Aarron Walter met _hierarchy of user needs_.
 
-Bekijk de [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) als je wat tips nodig hebt voor het ontwerpen van een goede interface. Probeer inieder geval deze principes toe te passen in je ontwerp voor een goede usability: 04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best.
+Bekijk de [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) als je wat tips nodig hebt voor het ontwerpen van een gebruiksvriendelijke interface. Probeer in ieder geval deze principes toe te passen in je ontwerp: 04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best.
 
 Lees [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/) als je nog eens wil lezen over wirfelows. 
 
@@ -62,12 +62,12 @@ De features waarop je moet testen komen uit [opdracht 2 - Breek het Web](https:/
 
 ## Criteria
 
--	Student kan de Basic functionaliteit van een use case doorgronden
--	Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
--	De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
+-	Student kan de _Core functionaliteit_ van een use case doorgronden
+-	Student kan uitleggen wat _Progressive Enhancement_ en _Feature Detection_ is en hoe dit toe te passen in Web Development
+-	De demo is opgebouwd in 3 lagen, volgens het principe van _Progressive Enhancement_
 -	De user experience van de demo is goed
 	-	Let op leesbaarheidsregels, contrast en kleuren
-	-	Let op gebruiksvriendelijkheid, zoals affordance en feedback op de interactieve elementen
+	-	Let op gebruiksvriendelijkheid, zoals affordance en feedback op interactieve elementen
 	-	De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
 
 
