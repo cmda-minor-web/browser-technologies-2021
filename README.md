@@ -108,8 +108,8 @@ Woensdag krijg je een briefing van de eindopdracht en een college over browsers,
 | Woensdag 17/3 | Wat  |
 |---|---|
 | 9:30 | [College les 3 over PE en de eindopdracht]() |
-| 9:45 | [College over browsers en support detection]() |
 |  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](course/Eindopdracht.md) |
+| 9:45 | [College over browsers en support detection]() |
 | 10:30 | Sessies: User Deligt & Core functionaliteit ✨ |
 | 16:00 | Checkout per team |
 
