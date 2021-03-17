@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
 :root {
   --dark: #000;
   --course: #F4E408;
@@ -82,43 +86,22 @@ img {
 /* GALLERY */
 section#gallery{ }
 ul.gallery{
-  /* background: pink; */
   padding: 0;
   margin: 0;
-
-
-  /* display: flex;
-  flex-direction: row;
-  flex-wrap: wrap; */
 }
 ul.gallery li{
-  /* background: palevioletred; */
   border-bottom: var(--course) solid 0.2rem;
   padding-bottom: 2rem;
   margin-bottom: 4rem;
-  /* display: flex;
-  flex-direction: column; */
-  /* align-items: flex-start; */
   display: inline-block;
   vertical-align: top;
   max-width: 20em;
 }
-ul.gallery li > * {
-  /* padding: 0.5em; */
-  /* flex: 1 100%; */
-}
 ul.gallery img{
   width: 100%;
-  /* flex-grow: 2; */
-  /* margin: 1rem 0; */
-  /* max-width: 25rem; */
 }
 ul.gallery li h3{
- /* width: 100%; */
  margin-top: 0;
-}
-ul.gallery li p{
-  /* flex-grow: 3; */
 }
 
 
@@ -136,25 +119,22 @@ section#lecturers ul, section#speakers ul{
 	flex-direction: row;
 }
 section#lecturers li, section#speakers li{
-  /* width: 40em; */
-  /* flex: 1 100%; */
-  display: flex;
-  flex-direction: column;
   flex-shrink: 0;
   margin-right: 2rem;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 section#lecturers img {
   border-radius: 100%;
-  margin-right: 1em;
+  /* margin-right: 1em; */
   max-width: 12rem;
 }
 section#speakers img{
-  margin-right: 1em;
+  /* margin-right: 1em; */
   max-width: 12rem;
 }
-/* .examples img {
-  max-width: 25vh;
-} */
 
 /* FOOTER */
 footer {
@@ -162,23 +142,27 @@ footer {
   /* max-width: 30rem; */
 }
 
-  ul.gallery li{
-    flex-direction: row;
-  }
-  ul.gallery li a{
-    order: 2;
-  }
-
-  
   /* 
   RESPONSIVE
-
-main {
-  padding: 2em;
-}
-section#lecturers ul, section#speakers ul{
-  margin: 0 -2rem;
-  padding: 2rem;
-
-
   */
+  @media all and (min-width: 36em) { 
+    main {
+      padding: 2em;
+    }
+    ul.gallery li{
+      max-width: 48%;
+    }
+    ul.gallery li p {
+      padding-right: 1rem;
+    }
+    section#lecturers ul, section#speakers ul{
+      margin: 0 -2rem;
+      padding: 2rem;
+    }
+  }
+  @media all and (min-width: 60em) { 
+    ul.gallery li{
+      max-width: 32%;
+    }
+  }
+
