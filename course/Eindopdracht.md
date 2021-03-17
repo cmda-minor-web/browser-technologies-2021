@@ -43,6 +43,9 @@ Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werke
 - De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
 
 ### Bronnen
+
+Hier staat een lijst [Browser Technolgies](https://platform.html5.org/) die je kan toepassen. Bekijk welke nieuwe, innovatieve, interessante techniek je kan gebruiken voor je ontwerp.
+
 Lees 
 [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 
