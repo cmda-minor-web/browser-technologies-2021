@@ -39,37 +39,25 @@ Gebruik [caniuse.com](https://caniuse.com), [html5test.com](https://html5test.co
 Schets eerst een wireflow en/of breakdown-schets met hoe de demo moet gaan werken en hoe het eruit komt te zien. Bepaal de functional/reliable, usable en pleasurable laag.
 
 - Onderzoek voor de functional/reliable laag naar semantische HTML elementen
-- Kijk voor de usable laag naar design patterns die je zou kunnen toepassen
+- Kijk voor de usable laag naar gebruiksvriendelijkheid en design patterns die je zou kunnen toepassen
 - De meest 'enhanced' versie is super vet, gaaf en prettig om te gebruiken … Dit is de pleasurable laag.
 
+### Bronnen
+Lees 
+[The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/), een goed artikel over waarom een _feature_ een _enhancement_ is.
 
-<!--
+Lees 
+[A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences](https://www.nngroup.com/articles/theory-user-delight/) voor een uitleg over Functional/Reliable, Usable, Pleasurable lagen en de piramide van Aarron Walter met _hierarchy of user needs_.
 
-Wireflow schetsen met user delight (en design patterns?) 
-Werken aan core functionaliteit, eind van de dag opleveren?
-Tegen welke PE ga je aanlopen?
+Bekijk de [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) als je wat tips nodig hebt voor het ontwerpen van een goede interface. Probeer inieder geval deze principes toe te passen in je ontwerp voor een goede usability: 04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best.
 
+Lees [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/) als je nog eens wil lezen over wirfelows. 
 
-Deze artikelen horen bij de opdracht
-
-The Role of Enhancement in Web Design
-[The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) 
-
-Functional/Reliable, Usable, Pleasurable
-https://www.nngroup.com/articles/theory-user-delight/
-
-Wireflows tekenen
-https://www.nngroup.com/articles/wireflows/
-
-Principles of User Interface Design (04 Keep users in control, 09 Appearance follows behavior, 10 Consistency matters, 11 Strong visual hierarchies work best)
-http://bokardo.com/principles-of-user-interface-design/
-
-Feature lijst van opdracht 2 om mee te testen
+De features waarop je moet testen komen uit [opdracht 2 - Breek het Web](https://github.com/cmda-minor-web/browser-technologies-2021/blob/master/course/Opdracht2.md), Afbeeldingen, Custom fonts, Kleur, Muis/Trackpad, Breedband internet, Javascript, Cookies, LocalStorage.
 
 
-	
-Browser Stack om te testen
--->
+
+
 
 
 ## Criteria
