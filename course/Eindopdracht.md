@@ -12,7 +12,7 @@ Het doel van deze opdracht is te leren hoe je een online interactieve toepassing
 
 ## Uitleg
 
-Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede UX.
+Maak een demo op basis van een use case. Zorg dat alle gebruikers, met alle browsers, in iedere context minimaal de _core functionaliteit_ te zien/horen/voelen krijgen en maximaal een hele goede user experience.
 
 Bouw je demo in 3 lagen, volgens het principe van _Progressive Enhancement_.
 
