@@ -6,4 +6,4 @@ Klik op 'vorige of 'volgende' om een ander artikel te bekijken. Kijk wat er gebe
 
 Volgende stap? Touch implementeren om door de lijst artikelen te swipen ... 
 
-[Bekijk de demo hier](/examples/PEmetXHR/index.html)
+[Bekijk de demo hier](/examples/PEmetXHR/)
