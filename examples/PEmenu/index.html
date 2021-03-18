@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>PE Fancy menu</title>
+      <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <a href="#menu" title="ga naar het menu" id="menulink">Menu</a>
+    </header>
+
+    <main>
+      <header>
+         <h1>To read or not to read</h1>
+         <h2>Over hypeneren, weduwen en wezen</h2>
+         <p lang=nl>Het afbreken van zinnen en woorden is lastig op het web. Er be&shy;staan wel CSS tech&shy;nieken om woord&shy;afbre&shy;king te op&shy;ti&shy;ma&shy;li&shy;seren, maar die wer&shy;ken niet zo goed als het op&shy;maken van teksten voor print. Voor print kun je heel nauw&shy;keur&shy;ig woor&shy;den, zin&shy;nen en wit&shy;ruim&shy;te kan spa&shy;tieë&shy;ren en aan&shy;pas&shy;sen. Op het flexi&shy;be&shy;le web geven  <code>hy&shy;phens</code> en <code>word-break</code> eni&shy;ge mo&shy;ge&shy;lijk&shy;he&shy;den te be&shy;pal&shy;en hoe woord&shy;en word&shy;en af&shy;gebro&shy;ken.</p>
+         <p>De tekst die je nu leest is met <code>text-align:justify</code> en een combinatie van <code>hyphens</code> en <code>word-break</code> ingesteld op een zo goed mogelijke woord-afbreking te krijgen zodat de tekst goed leesbaar blijft en er niet te veel en verschillende witruimtes tussen de woorden komt. De leesbaarheid is tevens afhankelijk van met welke browser je dit bekijkt en of een browser deze technologie ondersteunt.</p>
+       </header>
+
+       <h1>Hoe werkt dat <i>hypenation</i> nou eigenlijk?</h1>
+       <p lang=nl>Vooral als een tekst met <code>justify</code> wordt uitgevuld, is heel duidelijk te zien dat op het web het afbreken van woorden en de spatiëring van zinnen niet lekker loopt. Er ontstaan veel onregelmatige witruimtes. Ook bij een tekst die links wordt uitgelijnd ontstaan vaak onregelmatige en rafelige randen. Een HTML tekst is niet makkelijk handmatig in te stellen, bovendien wordt een HTMl pagina met veel verschillende apparaten bekeken, met verschillende scherm-groottes en verschillende browsers.</p>
+       <p lang=nl>Er bestaan beperkte CSS en HTML settings die de woordafbreking en spatiëring beïnvloeden. Als eerste zorgt een 'language setting' op een element er voor dat een browser beter weet hoe woorden moeten worden afgebroken. Immers, dit is per taal verschillend. Het is dus van belang voor hyphenation om de taal setting goed te zetten. In de CSS kun je de <code>woord-break</code> en <code>hyphens</code> instellen. In de HTML kan <code>&amp;shy;</code> aan woorden worden toegevoegd om de browser te helpen met waar een woord mag worden afgebroken.</p>
+
+       <p lang=nl>Check de <a href="https://codepen.io/KoopReynders/pen/qaqWbR?editors=1000">source-code</a> om te bekijken en experimenteren met de verschillende settings.</p>
+       <p lang=nl>Behalve dat het 'uitvullen' van teksten sowieso geen goed doet aan de leesbaarheid als de spatiëring en witruimte niet goed staan, is één en ander ook nog niet gestandaardiseerd en er zijn veel browser verschillen. Het is zelfs zo dat nu, September 2016, nog niet alle browsers de <code>hyphens</code> ondersteunen. En ook de <code>word-break</code> werkt crossbrowser heel verschillend, met soms buggy resultaten. Bovendien zijn er verschillende settings mogelijk in verschillende browsers die het wel ondersteunen. In de ontwikkeling van CSS4 wordt weer meer aandacht gegeven aan typografie en tekst-specificatie, maar voorlopig nog geen standaarden en vaak onverwachte resultaten ...</p>
+
+       <h2>Rafels, weduwen en wezen</h2>
+       <p lang=nl>Voor print is het gebruikelijk om geen <i>rafels, weduwen en wezen</i> in een tekst te krijgen. Oftewel, de rafelige randen van een tekst, de paragraaf-eindes die aan het begin van een volgende pagina of kolom terecht komen, en woorden die overblijven aan het eind van een paragraaf.</p>
+       <p lang=nl>Om geen geen weduwen en wezen te krijgen zijn er CSS mogelijkhede te gebruiken in je print-stylesheet. Met <code>widows</code> kan worden ingesteld wat het minimale aantal regels van een paragraaf is die op een volgende pagina mogen komen. Ook kan de <code>orphan</code> worden ingesteld, dat zijn de minimaal aantal regels van een paragraaf die op een vorige pagina mogen blijven staan. In 'gewone' webteksten werkt dit natuurlijk niet, omdat daar geen meerdere pagina's bestaan, maar voor het gebruik van <code>columns</code> kunnen deze instellingen wel worden gebruikt.</p>
+
+       <h2>English fake text</h2>
+       <p lang=en>Dithering scalar, integral, led partitioned application bridgeware recognition phaselock. Arrray anomoly generator distributed bridgeware led computer extended transistorized cache procedural gigabyte frequency, integer sampling. Pulse mainframe, developer dithering led log harmonic transponder bridgeware prompt. Distributed, boolean adaptive distributed inversion, integer integral kilohertz. Infrared bypass video de
+    </main>
+
+    <nav id="menu">
+      <h2>Dit is het menu voor deze website:</h2>
+      <ul>
+        <li><a href="#">Over deze website</a></li>
+        <li><a href="#">Ander onderwerp</a></li>
+        <li><a href="#">Nog een onderwerp</a></li>
+        <li><a href="#">Projecten</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+
+    <script src="scriptr.js"></script>
+  </body>
+</html>

@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Calibri, sans-serif;
+  font-size: 1.1em;
+  line-height: 140%;
+  color: #333;
+}
+main {
+  margin: 0 auto;
+  padding: 1em;
+  max-width: 40em;
+  min-height: 100vh;
+  background: #fff;
+}
+body > header, body > nav{
+  background: #333;
+  color: #fff;
+  margin: 0;
+  padding: 2em;
+}
+body > header a, body > nav a{
+  color: #fff;
+}
+body > header{
+  display: inline-block;
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main > header {
+  background: #eee;
+  margin: 0;
+  padding: 1em;
+}
+main > header h1 {
+  margin: 0;
+  font-size: 4em;
+  line-height: 80%;
+  text-align:left;
+}
+h2 {
+  margin: 1em 0;
+}
+footer{
+  display: none;
+  margin: 0;
+  padding: 2em;
+  background: #fff;
+  color: #333;
+}
+footer a {
+  color: #333;
+}
+
+a#menulink{
+  /* display: inline-block;  */
+  padding: 0.4em;
+  background: #efefef;
+  color: #000;
+  text-decoration: none;
+  background-image: url("hamburger_icon.png");
+  background-size: 1em 1em;
+  background-repeat: no-repeat;
+  background-position: 0.2em 50%;
+  padding-left: 1.5em;
+}
+a#menulink:hover, a#menulink:focus{
+  border: 0.2em solid gold;
+  margin: -0.2em;
+}
+
+.hamburgesia{
+  position: absolute;
+  border-radius: 1em;
+  top: 8em;
+  margin-left: -30em;
+  transition: margin 0.4s ease-in;
+}
+.showmenu{
+  margin-left: 2em;
+}
+
+
+
+
+
+
+
+/*
+hyphens: hypenation
+
+Hoe werkt dit?
+https://css-tricks.com/almanac/properties/h/hyphenate/
+
+sowieso lang zetten op het element.
+lang=en of lang=nl
+en is default?
+
+Chrome en Opera doen niets hiermee
+http://caniuse.com/#search=hyphens
+
+*/
+code{
+  font-size: 1.2em;
+}
+main {
+  /*daar gaan we !*/
+  text-align: justify;
+
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word; /* Non standard for webkit */
+
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+
+}
