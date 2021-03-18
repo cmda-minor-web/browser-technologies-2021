@@ -4,6 +4,10 @@ Als de Browser API XMLHttpRequest wordt ondersteund dan worden de artikelen met 
 
 Klik op 'vorige of 'volgende' om een ander artikel te bekijken. Kijk wat er gebeurt als je in de dev tools van je browser Javascript aan of uit zet.
 
-Volgende stap? Touch implementeren om door de lijst artikelen te swipen ... 
-
 [Bekijk de demo hier](/examples/PEmetXHR/)
+
+
+## Todo
+
+- Links van de navigatie gebruiken om de volgende pagina te laden (geen array gebruiken)
+- Volgende stap? Touch implementeren om door de lijst artikelen te swipen ... 
