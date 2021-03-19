@@ -78,9 +78,10 @@ Er is een Readme toegevoegd met daarin:
 - [ ] Een link naar de demo.
 - [ ] Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
 - [ ] Een beschrijving van de feature(s)/Browser Technologies die in je demo zijn gebruikt en hoe je dit PE hebt toegepast
-- [ ] Een lijst met vier browsers waarin je hebt getest en een testverslag: 
-	- voor de desktop 1 Chromium 1 niet-Chromium browser, 
+- [ ] Een lijst met vier browsers waarin je hebt getest:
+	- voor de desktop 1 Chromium 1 niet-Chromium browser
 	- voor mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android)
+- [ ]  een testverslag met
 	- welke browsers de feature(s) wel/niet ondersteunen
 	- welke functionaliteiten zoals JavaScript je aan en uit hebt gezet in de tests
 	- een beschrijving van de feature-lijst die zijn onderzocht
