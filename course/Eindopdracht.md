@@ -82,9 +82,9 @@ Er is een Readme toegevoegd met daarin:
 	- voor de desktop 1 Chromium 1 niet-Chromium browser
 	- voor mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android)
 - [ ]  een testverslag met
+	- een beschrijving van de feature-lijst die zijn onderzocht
 	- welke browsers de feature(s) wel/niet ondersteunen
 	- welke functionaliteiten zoals JavaScript je aan en uit hebt gezet in de tests
-	- een beschrijving van de feature-lijst die zijn onderzocht
 	- een screenreader test
 
 
