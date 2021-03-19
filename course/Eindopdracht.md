@@ -65,20 +65,20 @@ De features waarop je moet testen komen uit [opdracht 2 - Breek het Web](https:/
 
 ## Criteria
 
--	Student kan de _Core functionaliteit_ van een use case doorgronden
--	Student kan uitleggen wat _Progressive Enhancement_ en _Feature Detection_ is en hoe dit toe te passen in Web Development
--	De demo is opgebouwd in 3 lagen, volgens het principe van _Progressive Enhancement_
--	De user experience van de demo is goed
+-[ ]	Student kan de _Core functionaliteit_ van een use case doorgronden
+-[ ]	Student kan uitleggen wat _Progressive Enhancement_ en _Feature Detection_ is en hoe dit toe te passen in Web Development
+-[ ]	De demo is opgebouwd in 3 lagen, volgens het principe van _Progressive Enhancement_
+-[ ]	De user experience van de demo is goed
 	-	Let op leesbaarheidsregels, contrast en kleuren
 	-	Let op gebruiksvriendelijkheid, zoals affordance en feedback op interactieve elementen
 	-	De meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
 
 
 Er is een Readme toegevoegd met daarin:
-- Een link naar de demo.
-- Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
-- Een beschrijving van de feature(s)/Browser Technologies die in je demo zijn gebruikt en hoe je dit PE hebt toegepast
-- Een lijst met vier browsers waarin je hebt getest en een testverslag: 
+-[ ] Een link naar de demo.
+-[ ] Een (wireflow) schets van de functionaliteit met een beschrijving van de core functionality. Geef ook aan wat de functional/reliable, usable en pleasurable laag.
+-[ ] Een beschrijving van de feature(s)/Browser Technologies die in je demo zijn gebruikt en hoe je dit PE hebt toegepast
+-[ ] Een lijst met vier browsers waarin je hebt getest en een testverslag: 
 	- voor de desktop 1 Chromium 1 niet-Chromium browser, 
 	- voor mobiel 1 iOS + 1 Android OF een Samsung- en een niet-Samsung Android)
 	- welke browsers de feature(s) wel/niet ondersteunen
