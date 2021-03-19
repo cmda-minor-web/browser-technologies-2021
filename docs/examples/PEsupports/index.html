@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>PE @supports</title>
+      <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <h1>PE @supports</h1>
+    </header>
+
+    <main>
+        <div id=vraag1a>
+          <pre>
+@supports (display: grid) {
+  div {
+    background: blue;
+  }
+}
+div {
+  background: red;
+}
+
+//@support regel wordt uitgevoerd als de browser grid ondersteunt
+//door de cascade wordt de div toch rood
+</pre>
+        </div>
+        <div id=vraag1b>
+          <pre>
+div {
+  background: red;
+}
+@supports (display: grid) {
+  div {
+    background: blue;
+  }
+}
+
+//@support regel wordt uitgevoerd als de browser grid ondersteunt
+</pre>
+        </div>
+
+        <div id=vraag2a>
+          <pre>
+div {
+  background: red;
+}
+@supports (scroll-behaviour: smooth) {
+  div {
+    background: blue;
+  }
+}
+
+//@support is altijd false door de typo 'behaviour'
+//(instinker)
+</pre>
+        </div>
+        <div id=vraag2b>
+          <pre>
+div {
+  background: red;
+}
+@supports (scroll-behavior: smooth) {
+  div {
+    background: blue;
+  }
+}
+
+//@support regel wordt uitgevoerd als de browser scroll-behavior ondersteunt
+
+</pre>
+        </div>
+
+
+        <div id=vraag3>
+          <pre>
+div {
+  background: red;
+}
+@supports (scroll-snap-stop: always) {
+  div {
+    background: blue;
+  }
+}
+
+//@support regel wordt uitgevoerd als de browser scroll-snap ondersteunt
+</pre>
+        </div>
+
+
+                <div id=vraag4>
+                  <pre>
+div {
+  background: red;
+}
+@supports (position: sticky) {
+  div {
+    background: blue;
+  }
+}
+
+//@support regel wordt uitgevoerd als de browser position sticky ondersteunt
+        </pre>
+                </div>
+
+    </main>
+  </body>
+</html>

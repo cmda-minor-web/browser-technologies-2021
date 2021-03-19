@@ -1,0 +1,78 @@
+body{
+  margin: 2em;
+}
+main {
+    font: normal 1em/1.4 helvetica;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+main div{
+  margin: 1em;
+  padding: 0;
+  width: 20em;
+  height: 20em;
+  overflow: scroll;
+}
+pre{
+  margin: 0;
+  padding: 1em;
+}
+
+/* Vraag 1 */
+@supports (display: grid) {
+  div#vraag1a {
+    background: blue;
+  }
+}
+div#vraag1a {
+  background: red;
+}
+div#vraag1b {
+  background: red;
+}
+@supports (display: grid) {
+  div#vraag1b {
+    background: blue;
+  }
+}
+
+/* Vraag 2 */
+div#vraag2a {
+  background: red;
+}
+@supports (scroll-behaviour: smooth) {
+  div#vraag2a {
+    background: blue;
+  }
+}
+div#vraag2b {
+  background: red;
+}
+@supports (scroll-behavior: smooth) {
+  div#vraag2b {
+    background: blue;
+  }
+}
+
+/* Vraag 3 */
+div {
+  background: red;
+}
+@supports (scroll-snap-stop: always) {
+  div {
+    background: blue;
+  }
+}
+
+
+/* Vraag 4 */
+div {
+  background: red;
+}
+@supports (position: sticky) {
+  div {
+    background: blue;
+  }
+}
