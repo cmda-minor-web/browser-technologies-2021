@@ -121,7 +121,7 @@ Donderdag gaan we voorbeelden van PE en feature detection bespreken in een colle
 
 | Donderdag 18/3 | Wat  |
 |---|---|
-| 9:30 | College les 4 over form-validatie |
+| 9:30 | College les 4 over Viewports |
 | 10:30 | Sessies: Bouwen in 3 lagen ✨ |
 | 14:00 | Q&A Heydon Pickering 🤟 |
 | 16:00 | Checkout per team |
@@ -149,7 +149,7 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 
 | Woensdag 24/3 | Wat  |
 |---|---|
-| 9:30 | College les 5 over Viewports |
+| 9:30 | College les 5 over form-validatie |
 | 10:30 | Sessies: Feature detectie en testen ✨ |
 | 16:00 | Checkout per team |
 
@@ -157,12 +157,12 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 
 Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
-🤟 Vandaag geeft Ischa Gast een presentatie.
+🤟 Vandaag geeft [Ischa Gast](https://ischagast.nl) een presentatie. Ischa werk als frontend developer voor Schiphol.nl, op die website komen [3.000.000 bezoekers per maand](https://www.accessibility.nl/cases/toegankelijkheid-bij-website-schiphol). Toegankelijkheid is een belangrijk onderwerp met zoveel bezoekers, en daar weet Ischa heel veel van ...
 
 | Donderdag 25/3 | Wat  |
 |---|---|
-| 9:30 | Gastcollege Ischa Gast 🤟 |
-| 10:30 | Sessies: Code-reviews ✨ |
+| 9:30 | Sessies: Code-reviews ✨ |
+| 10:30 | Gastcollege Ischa Gast 🤟 |
 | 16:00 | Checkout per team |
 
 Lezen voor les 6 📖
