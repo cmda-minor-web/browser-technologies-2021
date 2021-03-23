@@ -157,7 +157,7 @@ Deze week werken we verder werken aan de eindopdracht en houden we gesprekken om
 
 Donderdag gaan we verder werken aan de opdracht en doen we code-review sessies.
 
-🤟 Vandaag geeft [Ischa Gast](https://ischagast.nl) een presentatie. Ischa werk als frontend developer voor Schiphol.nl, op die website komen [3.000.000 bezoekers per maand](https://www.accessibility.nl/cases/toegankelijkheid-bij-website-schiphol). Toegankelijkheid is een belangrijk onderwerp met zoveel bezoekers, en daar weet Ischa heel veel van ...
+🤟 Vandaag geeft [Ischa Gast](https://ischagast.nl) een presentatie. Ischa werk als frontend developer voor Schiphol.nl, op die website komen [3.000.000 bezoekers per maand](https://www.accessibility.nl/cases/toegankelijkheid-bij-website-schiphol). Toegankelijkheid is een belangrijk onderwerp met zoveel bezoekers, en daar weet Ischa heel veel van. "Laten wij het web toegankelijker maken en niet alleen mensen met een beperking zullen hier voordeel uit halen maar IEDEREEN!"
 
 | Donderdag 25/3 | Wat  |
 |---|---|
