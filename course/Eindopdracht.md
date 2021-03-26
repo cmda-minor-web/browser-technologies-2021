@@ -85,7 +85,7 @@ Er is een Readme toegevoegd met daarin:
 	- een beschrijving van de feature-lijst die zijn onderzocht
 	- welke browsers de feature(s) wel/niet ondersteunen
 	- welke functionaliteiten zoals JavaScript je aan en uit hebt gezet in de tests
-	- een screenreader test
+	- <del>een screenreader test</del>
 
 
 
