@@ -4,7 +4,8 @@ Als de Browser API XMLHttpRequest wordt ondersteund dan worden de artikelen met 
 
 Klik op 'vorige of 'volgende' om een ander artikel te bekijken. Kijk wat er gebeurt als je in de dev tools van je browser Javascript aan of uit zet.
 
-[Bekijk de demo hier](/examples/PEmetXHR/)
+[Bekijk de demo hier](https://cmda-minor-web.github.io/browser-technologies-2021/examples/PEmetXHR/)
+
 
 
 ## Todo
